@@ -22,7 +22,7 @@ Characteristics:
 * Experiential learning.
 * Regular courses plus independent study, learning communities, courses from elsewhere, etc.
 
-ach skill has a number of lessons (up to about 8). Competency is earned by learning a baseline number of lessons. Master is achieved by learning more. The workflow is competency, partial mastery, full mastery.
+Each skill has a number of lessons (up to about 8). Competency is earned by learning a baseline number of lessons. Master is achieved by learning more. The workflow is competency, partial mastery, full mastery.
 
 See http://www.insidehighered.com/sites/default/server_files/files/Competency%20Transcript%20Draft%20v12.pdf
 
