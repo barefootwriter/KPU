@@ -10,13 +10,13 @@ Mentorship practicum (skills-based, not time-based)
 
 Characteristics:
 
-Online component with digital portfolio and badges.
-Prior learning assessment and gap analysis.
-No fixed course requirements (depends on gap analysis).
-Personalized pathways built through collaboration.
-Competency-based transcript (competencies mapped to actual learning).
-Competencies as core (as opposed to credits).
-Courses defined by amount of learning (not hours).
-No set course schedule or defined points for courses (learning communities format).
-Regular courses plus independent study, learning communities, courses from elsewhere, etc.
+* Online component with digital portfolio and badges
+* Prior learning assessment and gap analysis.
+* No fixed course requirements (depends on gap analysis).
+* Personalized pathways built through collaboration.
+* Competency-based transcript (competencies mapped to actual learning).
+* Competencies as core (as opposed to credits).
+* Courses defined by amount of learning (not hours).
+* No set course schedule or defined points for courses (learning communities format).
+* Regular courses plus independent study, learning communities, courses from elsewhere, etc.
 
