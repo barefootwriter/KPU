@@ -17,6 +17,6 @@ Personalized pathways built through collaboration.
 Competency-based transcript (competencies mapped to actual learning).
 Competencies as core (as opposed to credits).
 Courses defined by amount of learning (not hours).
-No clear schedule or defined points for courses.
+No set course schedule or defined points for courses (learning communities format).
 Regular courses plus independent study, learning communities, courses from elsewhere, etc.
 
