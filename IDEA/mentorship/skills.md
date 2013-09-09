@@ -46,6 +46,5 @@ Group Mentorship Skills
 * cultivating mindfulness, empathy, and compassion in groups
 
 
- 
-- [ ] Add skills for remaining modules
+
 
