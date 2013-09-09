@@ -1,7 +1,28 @@
 Mentorship Skills
 
 
-Group Mentorship
+Core Mentorship Skills
+
+* Committing to the development of self-awareness
+* Cultivating mindfulness, empathy, and compassion in relationships with others
+* building trust and an environment of emotional safety in the mentorshop context
+* cultivating an environment of collaboration
+* communicating effectively and constructively
+* giving and receiving feedback in the context of mentorship
+* embracing and resolving mentorship conflicts
+* speaking the unspoken in mentorship contexts
+* dealing with mistakes, accidents, and crises in mentorship contexts
+* staying open to interpersonal process in mentorship contexts
+* participating in appropriate self-disclosure
+* being considerate and responsive to others
+* being willing to take appropriate risks and to challenge oneself
+* applying ethical mentorship principles
+* taking personal responsibility for skill development and overall learning
+* speaking up and taking the lead in conversations
+* maintaining appropriate boundaries
+* leading by example
+
+Group Mentorship Skills
 
 * building trust and an environment of emotional safety in a group
 * cultivating an environment of group collaboration
@@ -22,7 +43,6 @@ Group Mentorship
 * speaking up and taking the lead in group conversations
 * maintaining appropriate boundaries with groups
 * setting the tone and leading by example in groups
-* cultivating mindfulness, empathy, and compassion in groups 
-
-
-
+* cultivating mindfulness, empathy, and compassion in groups
+ 
+[ ] Add skills for remaining modules
