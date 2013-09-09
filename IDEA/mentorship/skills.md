@@ -45,4 +45,4 @@ Group Mentorship Skills
 * setting the tone and leading by example in groups
 * cultivating mindfulness, empathy, and compassion in groups
  
-[ ] Add skills for remaining modules
+- [ ] Add skills for remaining modules
