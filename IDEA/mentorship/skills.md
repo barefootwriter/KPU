@@ -17,7 +17,7 @@ Group Mentorship
 * participating in appropriate group self-disclosure
 * being considerate and responsive to others in a group
 * being willing to take appropriate risks and to challenge oneself in group settings
-* staying committed to enhancing the interpersonal experience of everyone in a group
+* applying ethical mentorship principles in groups 
 * taking personal responsibility for skill development and overall learning through the group context
 * speaking up and taking the lead in group conversations
 * maintaining appropriate boundaries with groups
