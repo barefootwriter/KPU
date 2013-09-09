@@ -2,7 +2,7 @@ Program Framework
 
 Modular, skills-based curriculum
 
-3 core modules: core, individual, group
+2 core modules: core and group
 
 2 elective modules: one from the student’s area of expertise and one from a new area. Chosen from the following modules: Family, Teachers, Workplace, Culture, Nature, and Creativity
 
