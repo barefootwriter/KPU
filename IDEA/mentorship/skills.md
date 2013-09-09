@@ -5,6 +5,7 @@ Group Mentorship
 
 * building trust and an environment of emotional safety in a group
 * cultivating an environment of group collaboration
+* communicating effectively and constructively in a group
 * attending to the needs of individual group members
 * sharing responsibility and delegating in a group
 * giving and receiving feedback with a group and its individual members
