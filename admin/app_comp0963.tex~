@@ -1,0 +1,2075 @@
+ \TeXXeTstate=1
+\documentclass[10pt,DIV09,letterpaper,oneside,headsepline]{scrreprt}
+ % packages to support xelatex:
+ \usepackage{fontspec,xunicode}
+ % install these TrueType/OpenType fonts in
+ % ~/.fonts(Linux)
+ % then select them with:
+ \defaultfontfeatures{Mapping=tex-text}
+ \setmainfont{Kepler Std}
+% \setromanfont[Mapping=tex-text]{Adobe Jenson Pro}
+\setsansfont{Syntax LT Std}
+
+% \usepackage{hyperref}
+ \usepackage{xltxtra}
+\pagestyle{headings}
+\usepackage{epigraph}
+\usepackage{paralist}
+%\usepackage[sf]{titlesec}
+\usepackage{url}
+\usepackage{lettrine}
+\usepackage{titling}
+\usepackage{color}
+\setcounter{secnumdepth}{-1}
+\hyphenation{sl-ow think-ing wheth-er every-thing quick-ly ex-per-ien-ce seek-er quan-dary schoo-ls thr-ead-ed ren-der-ed tr-au-ma org-ani-zat-io-nal Meth-amph-et-am-ines}
+\setkomafont{pagehead}{%
+\normalfont\normalcolor\scshape\small}
+\date{}
+%For toc page numbers
+\makeatletter
+\renewcommand*{\@pnumwidth}{2.2em}
+\renewcommand*{\@tocrmarg}{12.55em}
+\makeatother
+%For epigraphs
+\setlength{\epigraphwidth}{.4\textwidth}
+%Text formatting
+\usepackage{everysel}
+\clubpenalty=6000
+\widowpenalty=6000
+%Document details
+\pretitle{}
+\title{\Large{Application for Competition Number 09-63\\}\vspace{.10in}}
+\posttitle{}
+\author{\large{Ross A. Laird, PhD}}
+
+\begin{document}
+\begin{center}
+\maketitle
+\end{center}
+\tableofcontents
+\chapter{Introductory Letter}
+
+My name is Ross Laird. I teach in (and am Chair of) the Creative Writing department at Kwantlen. I am also the lead developer of the proposed Interdisciplinary Arts BA at Kwantlen (proposed for Fall 2010) and the Kwantlen First Nation Creative Writing initiative. All of the activities with which I am involved at Kwantlen and elsewhere hinge upon my commitment to the mentorship of young people seeking lives of purpose and meaning.
+
+I am a devoted, skilled, and innovate instructor. I am well-known for my experiential and interdisciplinary teaching methods. I rarely speak from the podium: instead I engage learners, ask them to take responsibility for their own learning, encourage them to integrate their own personal and professional development. For me, teaching is a calling, and I respond to it with great enthusiasm and consistent professionalism. Later in this package, my statement of teaching philosophy and selection of learner comments will attest to my devotion to excellence as an instructor.
+
+I have taught in many interdisciplinary fields and at many institutions. I am equally at ease teaching heuristic research methods to doctoral candidates as I am teaching the importance of creative play to first year learners. And I do not work only in the academic field. I have been a practitioner of counselling, psychology, and creative process for more than twenty years, and in that time I have delivered hundreds (I've lost count, actually) of workshops and professional development trainings to organizations, schools, corporations, governments, and many other groups of people. Later in this package I have listed more than sixty organizations for which I have provided training in subjects ranging from vicarious trauma to youth mentorship to neuro-developmental disabilities.
+
+I possess an extensive and successful scholarly and publication history. My book about the rewards of creativity was nominated for the Governor General's Award, won the Sussman Award for Academic Excellence, won the BCACC Communications Award, was nominated for the BC Book Prize, and was a national bestseller. My other writings have met with similar success. I have written widely on many topics -- creativity, sustainability, mythology, culture, and many others -- and I have typically chosen a public rather than an academic audience for this work. This is consistent with my dedication to educating the public about key issues. In keeping with this vision, I will be releasing a new book on addictions in 2009. It is based on my work as a clinical supervisor of addictions agencies in the Downtown Eastside; sample excerpts are enclosed.
+
+I am currently working with high schools in Vancouver to develop a program for dealing with technology addictions. Also I have been developing a youth mentorship initiative with various social service agencies. I am deeply interested in nurturing the development of young people (and indeed, learners of all ages). I believe I would make a valuable contribute to your program. I am the kind of instructor who will get learners out of the chairs, get them working and thinking and rediscovering the authentic joy of learning.
+
+I had the privilege, in my time as a learner, to receive instruction from a few truly great teachers. Those experiences -- of learning as transformative, and transcendent -- led me to follow the call of teaching. In turn, that calling has led me to an integrative and interdisciplinary career in which I try to nurture the essence of learning, which after all is as much about curriculum content as it is about the imagination, about curiosity, about asking unanswerable questions: \textit{what is the self, what is the soul, who am I, where am I going?}
+
+To a large extent my professional life is one long, enduring payment to those great teachers. It's my way of returning the favor. And, if you choose to invite me into your department, I will return that favor to your learners as well.
+
+Thanks for considering my application.
+
+
+\chapter{Credentials}
+
+\section{PhD, Interdisciplinary Creative Process,\\ The Union Institute and University}
+
+I possess (and, as far as I know, am the only Canadian to possess) a doctorate in the Creative Process, which is a specific interdisciplinary field of inquiry concerned with the nature and meaning of creativity. As no doctoral program exists in Canada for training in Creative Process, and the field itself is almost unknown in the academic context in this country, it seems prudent to offer a few brief details about the field and its application.
+
+Creative Process is a field of inquiry and a philosophy based on human values. It is an approach to action, to attention, to the diverse tasks required of practitioners in every field. Traditionally, Creative Process has been considered the territory of the arts, particularly visual arts, music, dance, theater and literature. Yet creative philosophy stretches across all the borders of discipline. Physicists speaking of string theory, urban planners sketching the shapes of human community, psychologists involved in the fragility of human relationships: all articulate, in their work, the core values and approaches of creative endeavor. These include ethics, curiosity, clarity, insight, commitment, thoughtfulness, rigour, and many other shades of inquiry. Through the lens of those values, Creative Process invites us to encounter the mysterious and the compelling in our lives. The mysterious, as Einstein asserted, is ``the most beautiful thing we can experience\ldots It is the source of all art and science.''
+
+\subsection{Creative Process in the Arts and Sciences}
+
+Whether in theater, visual arts, poetry, or the social sciences, Creative Process is an integral aspect of human endeavor. And while the expressive forms and practices of creativity embody diverse approaches that span the disciplines, each specific field adapts the definitions and norms of creative work to its own ends. Proficiency in Creative Process requires a broad yet thorough knowledge of these divergent (and occasionally convergent) approaches. As such, this area of study includes contributions from literature and literary criticism, theater arts, visual arts, dance, craft, music, psychology, and philosophy.
+
+\section{Dissertation}
+
+My doctoral dissertation, entitled \textit{The Echo of Leaves: A Meditation on the Spirit of Craft} lies within a growing genre of craft narratives, discussed in a companion Contextual Essay entitled ``A Sustaining Narrative: Writing about Craft in the Age of Millennium.'' In general, craft narratives do not attempt to devise systems or structures for understanding creative energy. They are, rather, process-oriented means of using the work of hands to approach the essentially unfathomable core of creativity and of life. Craft narrators (in the tradition of Antoine de Saint-Exupery, Robert Pirsig, James Krenov, John Jerome, and Thomas Glynn) assert that intellectual activity alone is an insufficient means of understanding the world and one's place within it. The work of hands and the physical labor of a specific craft together yield a more comprehensive strategy for rendering meaning and purpose. In \textit{The Echo of Leaves} the hand guides the unfolding of understanding; the argument is not one of formed ideas and clarified conclusions but rather of prevailing exploration through the pragmatic means of sharp tools and a light touch.
+
+\textit{The Echo of Leaves} explores craft work as a contemplative and spiritual practice. Through a series of eight chapters, each devoted to a specific craft project or process, the dissertation examines various ways in which creative energy guides and teaches conscious awareness of the sacredness of daily life. Each chapter describes a different flavor of creative energy as embodied by the eight essential symbols of ancient Taoism: wind, earth, thunder, deep water, mountain, fire, lake, and heaven. As an interdisciplinary dissertation, \textit{The Echo of Leaves} employs prose, poetry and commentary about the physical and technical demands of the craft of woodworking. It is an experiential and heuristic research project into Creative Process.
+
+\section{The Sussman Award for Academic Excellence}
+
+In 2001 the dissertation won the Sussman Award for Academic Excellence, which is awarded by the Union Institute on alternate years to a doctoral dissertation that displays ``ultimate achievement at the doctoral level.''
+
+\section{Finalist for the Governor General's Award}
+
+After completing the dissertation, I adapted the text into book form intended for a general audience. This book, entitled \textit{Grain of Truth: The Ancient Lessons of Craft} was released in Canada and the United States in 2002. It became a national bestseller and received numerous nominations (e.g. the BC Book Award) and awards (e.g. the BCACC Communications Award). Notable among these was a nomination for the Governor General's Award, the highest literary award in Canada. Peter Gzowski was a member of the literary jury for the award, and commented that ``The book is almost the zen of working with wood\ldots thoroughly engrossing\ldots.''
+\newpage
+\section{MA, Psychology}
+
+I completed my Masters degree in psychology at Antioch University in Seattle. My program emphasis was on somatics and health psychology, subjects which at that time were not part of the curriculum of any Canadian university. In addition to studying the traditional themes of psychology, I developed an individualized curriculum on topics related to trauma and was part of a training group that worked with trauma specialist Peter Levine (\textit{Waking the Tiger}) and Lisbeth Marcher, founder of the European somatics model known as Bodynamics (see following).
+
+During this period I also studied with Ian Macnaughton (founding president of the BC Association of Clinical Counsellors) in the field of somatics and learned Asian health practices (Tai Chi and Chi Kung) from Grand Master Shoyou Liang, one of only seventeen Chinese National Treasure teachers, and the only one living outside of China.
+
+I completed my practicum at the Columbia Centre for Integrated Health Services, a multidisciplinary treatment program for clients suffering from chronic pain.
+
+\section{Bodynamics}
+
+Bodynamics is a system of somatic developmental psychology foundedby Lisbeth Marcher and her colleagues in Denmark. Bodynamic analysis is a carefully researched and constructed body-oriented psychology. For 25 years Marcher studied a combination of physical therapy and psychotherapy, and in this process discovered not only that emotions were held in the body musculature, but that there was a developmental sequence to the muscle enervation. These observations and insights allowed her to create a developmental map of the body using the muscles' state of tension or collapse for each age level. Marcher also correlated specific muscles with the psychological functions showing the close parallel between physical development and psychological development.
+
+Bodynamics is a well-established system in Europe for which Masters-level programs exist. The Bodynamic Institute is a member of The European Association for Body-Psychotherapy (EABP). Unfortunately, no Bodynamic programs or courses exist in the university system in Canada (though some courses are available in the United States). To meet the needs of Canadian learners seeking to learn the Bodynamic system, a Canadian branch of the Institute was opened in 1988. From 1990 to 1995 I was the coordinator of the Canadian branch and studied the Bodynamic system extensively. The curriculum was unquestionably equivalent to a second Masters degree.
+
+\section{Road Learning}
+
+At the end of my undergraduate degree (see page following) I was thoroughly disillusioned with the university instruction of the time, which seemed designed to destroy the authentic joy of learning in almost all learners. I had been nominated for an award of merit for my undergraduate writing, and I had completed an Honors program, but I was forced to decline the invitation to apply to graduate school that came from the department in which I completed my undergraduate degree. I simply could not endure any more lectures.
+
+Instead I took a year and traveled the world. I studied Egyptian mythology in Egypt; I read the literature and history of Europe as I traveled through the European countryside; I studied meditation and healing in monasteries in Ladakh. Such journeys do not count, in applications such as these, as qualified learning. Yet for me, and for most people who take such journeys, profound learning is found on the road. As a result of my own travels I became acquainted with various multicultural practices of psychology and consciousness that now shape, in foundational ways, my approach to teaching and professional practice.
+
+\section{BA, English Literature}
+
+In 1986 I completed an undergraduate degree (Honors) in English literature, with an emphasis on psychological narrative. My major essay (a mini-thesis required in the Honors program) focused on Robert Pirsig's \textit{Zen and the Art of Motorcylce Maintenance} from the perspective of myth psychology.
+
+\chapter{Teaching Experience: Academic}
+
+You will notice in the list below that I have taught at many institutions and in many subject areas. I have provided only brief details for most of this material, as sample outlines and teaching philosophy follow later in this package.
+
+\begin{itemize}
+
+\item [\textit{Kwantlen Polytechnic University -- 2006-2009.}] I currently teach in the Creative Writing department at Kwantlen. My teaching emphasis is on interdisciplinary narratives, and toward that end I teach several courses with interdisciplinary themes: \textit{Mythological Narratives} (outline enclosed later in this package), \textit{Interdisciplinary Expressive Arts 3100 and 4100} (outline enclosed for 3100), and creative nonfiction (3100, 3230, 4130). Additionally I have taught English 1099.
+
+I am also the developer of the proposed Interdisciplinary Arts BA, a new academic degree within Humanities. Interdisciplinary Arts refers to a specific set of educational activities, goals and strategies based on innovative pedagogy, integrative approaches to learning, and interdisciplinary studies. Interdisciplinarity is much more than enrollment in courses from more than a single discipline. Authentic interdisciplinarity emphasizes the linkages between disciplines by focusing on contrasting and complementary aspects of diverse educational domains. Interdisciplinary studies encourage learners to develop broader intellectual skills, greater facility for critical thinking, and greater awareness of the social relevance of their education.
+
+The first two courses in the proposed Interdisciplinary Arts BA were approved early in 2008 and were offered for the first time in Fall 2008 and Spring 2009. In these courses learners learn about the history, philosophy, and current application of interdisciplinary approaches within the arts. They develop interdisciplinary skills in creativity and academic inquiry, become familiar with multiple expressive modalities (creative writing, music, movement, fine arts, theatre, expressive arts therapies, storytelling, photography, film making, etc.) and explore the application of those modalities in an integrated learning environment based on mentorship.
+
+Below is a summary of the various initiatives and committees at Kwantlen with which I am involved:
+
+Chair, department of Creative Writing\\
+Lead Developer, Interdisciplinary Expressive Arts BA\\
+Member, Task Force on Mission and Mandate\\
+Member, English Working Group\\
+Member, English Task Force\\
+Member, Cultural Studies Working Group\\
+Member, Kwantlen Re-branding Committee\\
+Member, Search Committee for Executive Director of Research\\
+Member (ad hoc) Building naming committee\\
+Member, Sustainability Initiative\\
+Developer, Kwantlen Running Club\\
+Developer, Kwantlen First Nation Creative Writing Initiative
+
+\item [\textit{Antioch University -- 1998-2005.}]
+I taught two regular courses in the MA Psychology program at Antioch: Health Psychology and Group Counselling.
+
+\item [\textit{The Union Institute and University -- 2002-2008.}] At the Union Institute and University I have worked as an adjunct faculty member on doctoral committees for many learners completing interdisciplinary doctorate degrees. I have also acted as an external reviewer for dissertations. Additionally, I have taught a doctoral seminar entitled ``Seminar in Research Methods for the Creative Arts, Expressive and Creative Arts Therapies with Focus on Theory and Criticism, Arts-Based and Creative Process-Based Research.''
+
+\item [\textit{City University -- 2006-2007.}] I taught two courses for learners in the MA Psychology program: Lifespan Development and Group Counselling.
+
+\item [\textit{The Vancouver Art Therapy Institute -- 2003-2007.}] I taught two courses to Masters-level learners training to become certified art therapists: Theories of Personality and Consciousness, and Creativity and Healing.
+
+\item [\textit{Vancouver Community College Counselling Programs -- 1993-2008.}] The VCC counselling programs are the primary destination in the Lower Mainland for those seeking training in front-line counselling work. The programs are experiential, practical, and skill-based. Many learners who already have Masters degrees seek out the VCC programs to learn about various aspects of counselling, especially those related to addictions. Since 1993 I have been a foundational member of the VCC Counselling Programs instructional team. I have taught a diverse range of learners in a diverse range of  subjects, including Basic Counselling Skills, Group Counselling Skills, Individual Counselling Skills, Counselling and Creativity, Body-Centered Counselling, and Trauma Counselling. Additionally I supervise all of the counselling learners in the context of their practica.
+
+I have also established a scholarship at VCC, based on revenue from course materials that I developed. All of the revenue supports the annual scholarship, which awards learners in two areas: personal development and academic achievement. The scholarship is one of the ways in which I contribute to the learning community at VCC.
+
+\item [\textit{The Justice Institute of BC -- 2000-2007.}] I began teaching a course in trauma at the Justice Institute in 2000, but soon after became the developer, along with Joe Solanto and Cheryl Bell-Gadsby, of the Integrative Healing Program, which combined training in psychology with teaching in alternative medicine. In this program I taught Creativity and Healing and a course in group work. Later, in 2007, I was part of the development and instructional team for the FASD project, an initiative from the Ministry of Children and Family Development to teach social workers and other caregivers essential skills in understanding and dealing with FASD and other associated neurodevelopmental disorders.
+
+\item [\textit{Langara College -- 2000-2006.}] I began my involvement with Langara College as a foundational member of the Holistic Health Program, which offered various courses in alternative medicine and psychology. I taught courses in Communications Skills, Therapeutic Dialog, Working with Trauma, and Understanding and Working with Addictions. This program, offered through Continuing Studies, was comprised of learners with tremendously diverse backgrounds and ages. In turn, the instructional methods I developed were designed to be particularly engaging and innovative. As a result of these innovations I was asked to present a professional development workshop to the Langara faculty on instructional skills.
+
+\item [\textit{Simon Fraser University -- 2003-2007.}] I taught several courses in the Writing and Publishing program: Legal and Ethical Issues, Materials and Consciousness, and Wandering the Labyrinth: Creativity as Psychological Inquiry. This last course emphasized linkages between the  journey of self-awareness and the function of the Creative Process in that journey.
+
+\end{itemize}
+
+\chapter{Teaching Experience: Professional}
+
+I have been a professional trainer, facilitator, clinical supervisor, and conflict resolution specialist for more than twenty years. These are activities that take place outside of the academic realm but which share the fundamental similarity of teaching complex ideas to diverse groups of people. Typically, this work is customized to each organization and thus requires the development of a new curriculum for every group of participants. In the list below I have shown a number of professional settings in which I have provided professional training. This is not an exhaustive list but a sample which demonstrates the breadth of my teaching experience and the flexibility of my instructional skill.
+
+\begin{itemize}
+\item [\textit{Art Therapy Training Group -- 2003-2006.}] 
+Clinical training to art therapists working in educational and social services settings. Content included child and adolescent developmental themes, addictions, mental health themes, aboriginal issues, ethics and legal issues (including work with the Missing Women's Task Force), neurological and medical issues, and associated clinical challenges.
+
+\item [\textit{Atlantis Programs and Pedalheads -- 2005-2006.}]
+Leadership and childhood development training to supervisors of summer day camps for kids. Themes included mentorship, conflict resolution, behavior management, self-awareness, dealing with parents, etc.
+
+\item [\textit{BC Association of Art Therapists -- 2004-2005.}]
+Presentations on family mythology and creative approaches to health and wellness.
+
+\item [\textit{BC College and Institute Counsellors Association 2005.}]
+Professional development presentation on using principles from developmental and creative psychology in education counselling.
+
+\item [\textit{BC Crafts Council -- 2002.}]
+Presentation on the application of craft work to psychological wellness.
+
+\item [\textit{BC Psychological Association -- 2003.}]
+Conference presentation on creative approaches to depth psychology.
+
+\item [\textit{Brenson Family Program -- 2001-2004.}]
+Organizational development training. Themes included counsellor self-care, team development, avoiding burnout, etc.
+
+\item [\textit{Business Council of BC -- 2009.}]
+Presentation to the board on leadership and mentorship of employees through turbulent economic times.
+
+\item [\textit{Campbell River School District -- 2007-2008.}]
+Organizational development training. Themes included leadership, conflict resolution, mental health, addictions, etc.
+
+ \item [\textit{Canada Council for the Arts -- 2005.}]
+Jury for grant applications in literary nonfiction.
+
+\item [\textit{Canadian Cancer Society -- 2003-2004.}]
+Training of facilitators and coordinators of support groups for recently-diagnosed cancer patients.
+
+\item [\textit{Capilano University -- 2009.}]
+Workshop for faculty on youth engagement, mentorship, and creativity in the classroom.
+
+\item [\textit{Cedarwood Alternate School -- 2005.}]
+Educational presentation on working with behaviorally-challenged youth using alternative and creative approaches.
+
+\item [\textit{Charney and Associates -- 1986-1987.}]
+Organizational development in the corporate sector. Themes included communication skills, conflict resolution, team development, etc.
+
+\item [\textit{Children's Foundation -- 2004.}]
+Professional presentation on using creative approaches in working with children affected by developmental disabilities, family stress, and other common challenges.
+
+\item [\textit{Coast Mountain Bus Company -- 2004-2007.}]
+Facilitation in organizational development, conflict resolution, mental health awareness, and addictions in the workplace.
+
+\item [\textit{Community Vision -- 2007-2009.}]
+Clinical supervision for caregivers of developmentally and behaviorally challenged youth.
+
+\item [\textit{Corrections Canada Forensic Psychiatric Unit -- 1999.}]
+Consultation for development of creative activities for residents of the Forensic Psychiatric Unit.
+
+\item [\textit{Cross Cancer Institute -- 2006.}]
+Psychological wellness workshop for cancer survivors.
+
+\item [\textit{Downtown Eastside Youth Activities Society -- 1997.}]
+Self-care and organizational development training for staff.
+
+\item [\textit{David Thompson High School -- 2008.}]
+Presentation to parents and staff on technology addictions. (This workshop has now been presented to more than a dozen schools.)
+
+\item [\textit{Family Services of Greater Vancouver -- 2005-2007.}]
+Professional development teaching on the subject of facilitation for support and parenting groups.
+
+\item [\textit{HOPE Bridge Services -- 2000-2009.}]
+Clinical supervision, professional development, organizational development, and program development for staff working with clients in early recovery from substance use addictions.
+
+\item [\textit{Haida Gwaii Trust -- 2005.}]
+Professional development training for social workers, counsellors, and other social service providers working with aboriginal clients impacted by substance use addictions.
+
+\item [\textit{Haven Society -- 2006.}]
+Professional development training for counsellors working withclients impacted by poverty, homelessness, violence, and substance use addictions.
+
+\item [\textit{Hollyhock Retreat Centre -- 2003.}]
+Personal development workshop on the psychology of creativity.
+
+\item [\textit{Ikea -- 2004.}]
+Organizational development training, team development, self-care, communications training.
+
+\item [\textit{International Association of Poetry Therapy -- 2000.}]
+Professional development training on creative approaches in therapy and counselling.
+
+\item [\textit{International Log Builders' Society -- 2004.}]
+Keynote address on the psychological benefits of craft work.
+
+\item [\textit{Jack Hirose Addictions Conference -- 2000-2009.}]
+Various professional development presentations on topics related to addictions, trauma, childhood development, working with youth, etc.
+
+\item [\textit{Jewish Family Services Agency -- 2007.}]
+Professional development presentation on developing a humane perspective toward addictions.
+
+\item [\textit{Justice Institute FASD Project -- 2007.}]
+Program development and training of social workers and associated caregivers involved with children and youth affected by FASD.
+
+\item [\textit{La Luna Theatre Company -- 2007.}]
+Organizational development training.
+
+\item [\textit{Langara College Faculty -- 2005.}]
+Professional development presentation to faculty on the use of creative modalities in teaching.
+
+\item [\textit{Pacific Institute on Addictions -- 2002-2005.}]
+Various professional development presentations on topics related to addictions, trauma, childhood development, working with youth, etc.
+
+\item [\textit{Phoenix Education Society -- 1997-1999.}]
+Professional development training for former clients seeking careers in social services.
+
+\item [\textit{Richmond Addiction Services -- 2007-2009.}]
+Professional development presentations on technology addictions among youth.
+
+\item [\textit{Oak Grove Addictions Clinic -- 1996-2009.}]
+Clinical supervision for counsellors working with clients who are addicted, homeless, traumatized, and mentally ill (often, clients are affected by all of these challenges).
+
+\item [\textit{SIDS Conference -- 2003.}]
+Professional development training for facilitators of support groups for parents of children who have died from SIDS.
+
+\item [\textit{St. Leonard's Society -- 2000-2009.}]
+Clinical supervision for counsellors working with Corrections Canada clients in the halfway house environment.
+
+\item [\textit{Timber Framer's Guild -- 2004.}]
+Keynote address on the psychological benefits of craft work.
+
+\item [\textit{Translink -- 2006-2009.}]
+Organizational development and conflict resolution training.
+
+\item [\textit{Turning Point Recovery Society -- 1995-2009.}]
+Professional development and clinical supervision for substance use counsellors working with clients in a residential addictions treatment facility.
+
+\item [\textit{Vancouver Coastal Health -- 2004-2008.}]
+Professional development training in vicarious trauma for counsellors, social workers, nurses, and other health professionals.
+
+\item [\textit{Vancouver Island Spring Gathering -- 2003.}]
+Professional development training for counsellors working with addicted clients.
+
+\item [\textit{Vancouver Recovery Club -- 2007-2009.}]
+Clinical supervision of the counselling program.
+
+\item [\textit{Vermont College Symposium -- 2003.}]
+Professional development presentation on using creative approaches in the context of education and social services.
+
+\item [\textit{Victoria Health Practice Forum -- 2006.}]
+Professional development workshop on youth mentorship for addictions counsellors, teachers, and others who work with youth.
+
+\item [\textit{Westcoast Childcare Resources -- 2006.}]
+Professional development workshop on group facilitation.
+
+\item [\textit{White Rock Hospice Society -- 1996.}]
+Professional and organizational development training.
+
+\item [\textit{Whitehorse Integrative Health Practitioners -- 2004.}]
+Professional development training for integrative health practitioners on themes related to trauma, addictions, mental health, and creative approaches to these challenges.
+
+\item [\textit{The Writer's Union of Canada -- 2009.}]
+Conference presentation on \textit{Cutting-Edge Creativity}.
+
+\item [\textit{Younglife Canada -- 2005-2008.}]
+Professional development training for counsellors working with youth.
+
+\end{itemize}
+
+\chapter{Teaching Philosophy}
+
+My approach to teaching is primarily interdisciplinary and creative. I'm interested in the foundational role that learning might play in the life of an individual, and I pursue various means by which creative and collaborative approaches to learning might encourage meaningful educational experiences. I view teaching as an act of engaged mentorship.
+
+The following points outline my basic approach.
+
+\subsection{Course Organization}
+I believe that courses should evolve as a result of the distinct characters and temperaments of specific class cohorts. I prefer an approach to organization that is based on dynamical systems as opposed to linearity. In each class that I teach, I customize the learning experiences to meet the needs of individual learners, while at the same time supporting overall learning objectives. In a given class, pacing and workload will be consistent but individualized.
+
+\subsection{Presentation and Process}
+
+While I sometimes utilize traditional means of presentation (lectures, handouts, texts, and so on), I prefer more creative means of imparting information and knowledge. These might be described as dynamic learning models, and include various approaches such as building 3D models with skeins of wool and foam balls, constructing massive diagrams on the floor, using found objects, living sculptures of people, and so on.
+
+My view is that an instructor talking at the front of a classroom for extended periods is almost the worst way to impart anything useful. Yet everyone does it (me included, sometimes). But any task requiring a complex set of skills requires a range of activities: collaboration, casting about, immersion in the activity. In a classroom, learners slouching in chairs while an instructor talks at length is a recipe for somnolence. I try to get learners out of chairs. I encourage them to play, experiment, collaborate, to make the subject what it should be: immensely interesting.
+
+I have written extensively on this subject in an online teaching guide entitled \textit{Leading from Desire}. I created this guide to use in my teaching of instructors and facilitators at various institutions, and I have summarized the main points in the following paragraphs.
+
+Teaching (in its various forms) is one of the most influential roles in society. After parenting, it is perhaps the most crucial. And yet, teaching -- whether to children or adults -- is a profession in which few practitioners have any substantial training. Some instructors have certificates or degrees in teaching, but there's so much to know about the subject that most good instructors pick up their best skills after training, in the field, thinking on their feet and trying to keep learners awake.
+
+In the West, we have a kind of reverse educational system. Many of the things we do (learners sitting in chairs for long periods, then writing exams; instructors droning on to massive groups of disinterested learners) are precisely the opposite to what is known to work better (learners involved actively, encouraged to make substantive commitments to the process, evaluated by way of collaborative assessment). Most good instructors eventually learn to turn the system around, to craft an environment that is both more holistic and effective.
+
+The French philosopher Simone Weil once said that ``The intelligence must be led by desire.'' At heart, learning is an emotional endeavor. In turn, good instruction engages our feelings and sympathies and dreams. The most effective teachers and facilitators are those who openly express and evoke such feelings. Their passion -- for the subject, for the interactions -- is infectious. This is why most dedicated instructors credit a great teacher in their own past as a primary inspiration (thank-you, Lee Whitehead).
+
+Anyone who has spent time in a classroom will know that traditional teaching methods -- authorial, minimally interactive, focused on individual effort as opposed to collaborative experience -- are not the best way to learn what we need to know. Accordingly, we forget much of what we learn in school and remember most of what we derive from life experience. This makes sense; after all, life is immersive, and engaging, and consistently packed with challenges that are enormously relevant to our personal and professional development. Shouldn't school be like this?
+
+Here's a short list of the strategies I employ (and teach to others) for improving the purposefulness, meaning, and efficiency of education:
+
+\begin{itemize}
+
+\item Minimize emphasis on the authorial role of the teacher (or instructor, or professor, or whatever status-enforcing designation you prefer). The essential task of a teacher -- whether in the school system, the family, or the community -- is not to impart information. A teacher does not, in fact, teach. Instead, a good teacher attempts to engage learners with their own learning. In the ideal learning environment, learners teach themselves. In this context, the role of the teacher is to provide support and mentorship, to offer resources and perspectives, to mediate conversations, and to contribute the odd bit of professional lore. That’s all. Learners learn best through personal engagement, not through the delivery of content by an authority. An authentic teacher facilitates the ground of learning, brings the learners together, then gets out of the way. In the best learning environments, the teacher is (almost) invisible.
+
+\item Maximize learner responsibility. I shift the language here to \textit{learner} to emphasize that authentic educational experiences are not contingent upon submission to an expert (student) but rather on the engagement, personal and social responsibility, and commitment of the person engaged in \textit{learning}. This perspective is one in which learners act individually and collaboratively to design and implement their own strategies and outcomes for the learning process. This requires participants (especially teachers) to trust the process, to focus on relationships as much as content, and to emphasize process more than product.
+
+\item Recognize that learning is often nonlinear (chaotic, to use the proper term). Learning is not a straight path but a spiral. Learners follow this spiral in unique and surprising ways. But as long as they are guided by an authentic spirit of inquiry, the path always leads-- eventually -- home to the core of learning, which is another way of saying that learning is the path of personal development. In this sense, all fields of learning represent different facets of a single, vast field of study. Within that field, all things are connected.
+
+\item Get out of the seat.The truly colossal amount of research against the practice of sitting in chairs has not been sufficient to shift the traditional cultures of education. We sit. It's what we do, it's what we've always done. This method -- with its inertia, and inevitable boredom, and health risks -- is one of the most destructive aspects of the modern educational system. If you want to have a healthier and better classroom, remove the tables and chairs, move about at regular intervals, and allow the body -- which, after all, is the instrument of our consciousness -- to do what it was designed to do.
+
+\item Get off the podium. When learners take responsibility for their own process, teachers must shift their emphasis away from content delivery and toward interpersonal details. Accordingly, an engaged teacher finds ways to make contributes in snippets (of no more than about twenty minutes), by way of conversations individually and in small groups, through the method of engagement rather than lecture.
+
+\item Work in small groups. The classroom is a community, and learners are predisposed to find small families within that community. Assist them in doing so, and in avoiding the predictable cliques and alliances that are simple and persistent artifacts of human nature. View these as opportunities for collaborative learning rather than hurdles to overcome. Small groups are more efficient, more engaging, emotionally safer, and more fun. Use them whenever you can.
+
+\item Recognize the artificiality of outcomes imposed by external regulatory bodies. These have limited usefulness and tend to embody the myth of objectivity. Yet outcomes determined by learners -- \textit{what am I learning, how will I know when I have learned it?} -- can be immensely useful. But such outcomes must grow from the inside, from within the modes of inquiry pursued by learners, and must be adaptable enough to accommodate the ever-shifting landscape of learning experiences.
+
+\item Speak the unspoken. One of the pivotal roles of an engaged teacher is to articulate what has not yet been expressed, to help learners explore the undiscovered country, to identify and draw out the awkward, difficult themes and moments essential to every learning environment. This requires delicate and dedicated skill.
+
+\item Be a mentor. This is the essence of everything above: mentorship. The mentor’s task is to witness, to trust in the spirit of learning, to offer honesty and compassion and skill. And to offer it to the defiant, the truculent, the dismissive, the unready and the unsteady in equal measure. Nothing less.
+
+\end{itemize}
+
+\subsection{Learner Interaction}
+
+I am available to learners before and after class, and by appointment. As I am involved in teaching at multiple institutions and settings, I prefer to be efficient in my meetings with learners. I offer my time freely and generously, but I do not sit in an office waiting for learners to appear.
+
+Often I evaluate learner assignments collaboratively. I meet with each learner and review each of their assignments. Together we agree on a numerical value for their performance. (This is a summary description of a process requiring much sensitivity, tact, responsiveness, mentorship, neutrality, and clarity.)
+
+I try to assist learners not only with their performance in my classroom but with their overall personal and professional development. This is an aspect of teaching as mentorship and involves psychological, philosophical, and academic approaches.
+
+\subsection{Professionalism}
+
+As an independent scholar and author, I am involved in research, publication, public presentations, and so on. I typically present at several conferences each year. I am a best-selling author and award-winning scholar. I am a member of the Writers' Union of Canada and the BC Association of Clinical Counsellors.
+
+\chapter{Learner Feedback}
+
+The teaching evaluations I have completed at Kwantlen are on file. The comments that follow have been gathered from various classes taught over the past several years (at Kwantlen and elsewhere).
+
+\begin{quote}``Ross is the most inspirational instructor I have ever had. His enthusiasm and intense passion really comes through in his instructional methods. Throughout the group I have gained immense respect, practical and spiritual knowledge from a teacher who has had a tremendous influence on me.'' \end{quote}
+
+
+\begin{quote} ``Ross' love of this profession comes through in his teaching. He is a wonderful, thoughtful, inspiring and gifted teacher. He has a great sense of humour." \end{quote}
+
+\begin{quote} ``Wonderful, enthusiastic, engaging, approachable -- a gem." \end{quote}
+
+\begin{quote} ``I've been commenting since the beginning of the course to whoever will listen that Ross is an excellent teacher. He is light and fun in his approach and really knows his stuff. I can't think when I've enjoyed a course more." \end{quote}
+
+\begin{quote} ``I was very impressed by this instructor's way of teaching, energy and knowledge. He was patient and flexible, allowing me time to adjust to something new." \end{quote}
+
+\begin{quote} ``Ross is very open to the process of teaching, empowering and guiding the students. I recommend Ross as an instructor." \end{quote}
+
+\begin{quote} ``Ross was innovate and stimulating. He certainly made the course what it was. He put one hundred per cent into our classes. He was knowledgeable, inspired and inspiring. I feel I found greater direction in my life from taking this course." \end{quote}
+
+\begin{quote} ``Ross is very articulate and well read. He was more than willing to discuss anything of interest to the class as a whole or to an individual student. He was also quick to admit if he did not have the answers. What I particularly appreciated was that he admitted he made mistakes and that we should expect to as well." \end{quote}
+
+\begin{quote}
+``Ross shared his experiences and made me feel very comfortable. He was very enthusiastic and honest about his philosophies. I appreciated his sense of humour and organization. He gave everyone a lot of attention and understanding. Ross is an amazing teacher and person."
+\end{quote}
+
+\begin{quote} ``I found Ross to be a very compassionate person with great enthusiasm. I feel inspired to continue on with studies. The manner in which the course was presented was fun and simple. I really enjoyed this course and have recommended it to others." \end{quote}
+
+\begin{quote} ``I only hope I get as half as much from my future instructors. Ross is a very gifted man and an asset to this course." \end{quote}
+
+\begin{quote} ``Ross really came across as enthusiastic and knowledgeable. His experience as a professional was obvious and enlightening. I thoroughly enjoyed the course and I learned a whole lot." \end{quote}
+
+\begin{quote} ``Ross is a very intelligent teacher. I could not be happier with anyone else. Very impressive! His knowledge has stimulated me to further my education. I cannot stress how much the teacher impressed the class." \end{quote}
+
+\begin{quote} ``Ross was, in my estimation, excellent, enthusiastic, integrated, grounded, compassionate and sensitive to others." \end{quote}
+
+\begin{quote}
+``I absolutely enjoyed Ross Laird. His influence will compliment my life. I feel enlightened on several levels by my attendance in this class and send my gratitude to the instructor and the college."
+\end{quote}
+
+\begin{quote} ``I have never enjoyed a class more than this one. Ross used the whole room -- he brought a tremendous amount of energy to the class each session." \end{quote}
+
+\begin{quote} ``Ross was very stimulating and knowledgeable. He motivates and respects his students." \end{quote}
+
+\begin{quote} ``Ross was extremely organized and allowed for each student to build upon the gifts they already possessed. Ross made the course enjoyable." \end{quote}
+
+\begin{quote} ``I found Ross to be knowledgeable about the subject matter; he ran the class with ease and made me feel comfortable. This is the first class I've taken in my life where I looked forward to going." \end{quote}
+
+\begin{quote} ``An excellent experience. I looked forward to class every week. Ross is a very dynamic teacher and obviously enjoys what he's doing. I also found him to be very perceptive and affirming of what we were doing well. He didn't seem in the least afraid to discuss sensitive subjects." \end{quote}
+
+\begin{quote} ``Ross is an enthusiastic and knowledgeable instructor who, most importantly, empowered his students." \end{quote}
+
+\begin{quote} ``Ross has an enthusiastic style that I really appreciated. I didn't feel I was being dictated to!" \end{quote}
+
+\begin{quote} ``Ross always consults the group on their needs and allows flexibility to meet needs. He is a motivating leader who has the ability to blend into a group. I enjoyed watching his style and hearing his theories and perspectives." \end{quote}
+
+\begin{quote} ``Ross is very caring, respectful, intuitive and creative. He is a very creative teacher who encourages student participation. It is obvious that everyone has been personally touched by working with him." \end{quote}
+
+\begin{quote} ``I commend Ross for his expertise and talents in conducting each class with spontaneity, interesting facts, insights and sharing. I personally feel that he is the most effective professor I have had in making learning a very interesting and stimulating experience, both on an intellectual and on a feeling level. I enjoyed most his variety of styles in conducting classes and his attempts to make the class warm, open and a good learning experience." \end{quote}
+
+\begin{quote} ``Outstanding. He is excellence. He made learning so much fun." \end{quote}
+
+\begin{quote} ``Ross is a most intriguing instructor with many gifts. He is sensitive, balanced, has a good sense of humor and is a good example of what he teaches." \end{quote}
+
+\begin{quote} ``A great teacher. His heart is in his work. Ross rocks." \end{quote}
+
+\begin{quote} ``Ross is an enlightening and motivating instructor. He has a wonderful style." \end{quote}
+
+\begin{quote} ``Ross is the most wonderful teacher, counsellor and human being I've ever met." \end{quote}
+
+\begin{quote} ``Ross was wonderful: great sense of humour and great communications. He listened well to individuals and to the group. No negatives whatsoever." \end{quote}
+
+\begin{quote} ``Ross is a fabulous instuctor. I have no criticism at all. He made the course so interesting that it was hard for me to remember I was sitting in a classroom.'' \end{quote}
+
+\chapter{Peer Feedback}
+These are selected comments from peers and colleagues with whom I have worked, in the academic context, over the course of my teaching career.
+
+\begin{quotation}
+
+\textit{Sara Menzel, Coordinator, VCC Counselling Programs:\\}
+
+I have known Ross for more than ten years in my capacity as a fellow faculty member and more recently in my supervisory role as Coordinator for the Counselling Skills Programs at Vancouver Community College. VCC offers a counselling skills program for individuals who wish to work in the social services, health services and corrections. Ross' strengths lie in his ability to teach and engage with students at many levels, research and present academic work from a multidisciplinary framework, be a collaborative team player, and guide, motivate and supervise students/colleagues with sensitivity and passion. He is inspiring and creative and students connect with him both as a mentor and as a colleague.
+
+In addition to teaching several courses for our department, Ross also supervises students completing the Practicum portion of their program. In this capacity, Ross works with students individually via phone and email and in a classroom format to ensure that they are maximizing their learning at their Practicum sites and integrating their on-site learning with their academic training. Our program attracts individuals from different backgrounds and Ross supervises all of them with care, enthusiasm and attention to each of their individual needs while holding all of them to a high standard of competence consistent with his own sense of commitment and ethical standards in the field.
+
+Ross has been instrumental in helping me in my position of Program Coordinator. I started this position with minimal skills in technology. Ross has guided me effectively and with humour and sensitivity into this world. He is clearly up-to-date and innovative with information technology and enthusiastic in his ability to educate and demonstrate. Ross is always willing to be a listening ear, volunteers with good nature to any request and is pleasure to work with.
+\end{quotation}
+\newpage
+\begin{quotation}
+
+\textit{Dr. Sherry Penn, Core Faculty, The Union Institute and University:\\}
+
+Ross thoroughly understands and supports the learner-centered model, he has extensive experience mentoring learners, and he is a seasoned multidisciplinary scholar. Ross is also a highly regarded and published author. I have known Ross for a number of years, having served as Core Faculty on his doctoral committee. Over the ensuing years, I have come to know Ross both personally and professionally.I can sincerely attest that he is among the brightest individuals I have known and that his humility in the presence of his own brilliance is a delight. He works wonderfully well with individuals, both as learners and as colleagues and has that magical combination of gentleness of spirit along with incisive intelligence which he blends to mentor and assist individuals to grow beyond the capacity that even they could have imagined.
+
+As Union Institute and University Core Faculty, I am also familiar with Ross' contributions to more than a dozen doctoral committees. He has an excellent reputation among Union learners. On the committees for which I have been Core Faculty, I have always been impressed with Ross' blend of rigor, sensitivity, and guidance.
+\end{quotation}
+\bigskip
+\begin{quotation}
+
+\textit{Dr. Ned Farley, Chair, Mental Health Counseling Program, Center for Programs in Psychology, Antioch University:\\}
+
+I have known Dr. Laird for many years and feel confident in my ability to speak to his qualifications. I first met Dr. Laird when he was one of my advisees in the Masters in Psychology Program at Antioch University Seattle. He was already in the program when I came on board as a core faculty member in February, 1992. While I did not have the opportunity to work with Ross throughout his entire masters program, I did have the privilege of working with him in the latter half of his degree program, both as a student in a class I taught, and as his core faculty advisor. Ross was an excellent student, demonstrating exceptional critical thinking skills, self-awareness and self-reflective skills, and solid academic skills in both written and oral form. 
+
+Later, I was pleased that Ross applied to The Union Institute to do his doctoral work, as this was my Alma Mater, and I knew he would be a good fit. He truly understands adult learning and a pedagogical approach that values life long and student-centered learning. Simultaneously, here at the Antioch Seattle campus, we hired Ross to teach our Group Counseling class on average, twice a year. He has been teaching this and an occasional class in Health Psychology for the past several years. Consistently, he receives high marks from students evaluating his courses, and I know that he holds students to the highest standards. Additionally, Ross has continued his own writing and teaching in many other venues, publishing two books that have been received highly. I've had the pleasure of reading his first, and often suggest it to others that I know who are interested in the intersection of the roles of creativity and healing.
+
+\end{quotation}
+\bigskip
+\begin{quotation}
+\textit{Ali Lichtenstein, Core Faculty, Keene State University:\\}
+
+Dr. Laird was a member of my UIU doctoral committee. I've know him in this capacity since the fall of 2002. During this time Dr. Laird has been, and continues to be, a valuable teacher, mentor and guide. Dr. Laird initially worked with me to develop my Learning Agreement; his insights and suggestions were helpful as I crafted my program plan and conducted bibliographic research. His breadth and depth of knowledge provided intellectual stimulation as he encouraged me to engage deeply in my work.
+
+After the certification of my doctoral program, Dr. Laird continued to work with me on fine-tuning my learning. His expertise in the fields of writing (creative and composition), Creative Process, and feminist theory was immensely useful as I constructed my areas of new learning.
+
+Dr. Laird also evaluated three areas of my new learning. In every instance he was available, engaged, and prompt with excellent, extensive feedback. Our email and phone conversations were rich with thought-provoking academic discourse. Dr. Laird is a fine scholar, teacher and writer with exemplary interpersonal skills. He is consistently thoughtful and thorough in his responses. Dr. Laird is a highly skilled mentor and educator.
+
+\end{quotation}
+
+
+\chapter{Other Professional Experience}
+
+\begin{itemize} \item [\textit{Clinical Supervisor.}] I have worked extensively with social service agencies, communities, individuals and organizations to promote professionalism, therapeutic skill, self-development, conflict resolution, team building, trauma recovery, addictions recovery, critical incident management, leadership, creativity, etc. \end{itemize}
+
+\begin{itemize} \item [\textit{Instructor, Creative Process courses and workshops.}] I have taught many experiential and collaborative workshops in Creative Process and expressive arts therapies. Participants have included professional writers and artists, psychologists, teachers, counsellors, social workers, cancer survivors, retirees, adolescents, and many more. \end{itemize}
+
+\begin{itemize} \item [\textit{Organizational and Leadership Consultant.}] I work with social service agencies, corporations, and educational institutions to promote leadership, health, and self-awareness. \end{itemize}
+
+\begin{itemize} \item [\textit{Psychotherapist}.] I have worked in private practice primarily with growth-oriented adults on a wide range of issues, with particular emphasis on trauma, spirituality, and creativity. \end{itemize}
+
+\begin{itemize} \item [\textit{Clinical Counsellor, The Columbia Centre.}] From 1992 to 1995, I was a member of a multi-disciplinary team of chronic pain management professionals. My responsibilities included group process and individual therapy sessions with a diverse and challenging client population. Therapeutic concerns included trauma, chronic pain, addictions, family and community issues. \end{itemize}
+
+\section{Scholarly Accomplishments}
+I am a recipient of the Sussman Award for ``ultimate academic achievement at the doctoral level,'' and I am also the winner of the Communications Award from the BC Association of Clinical Counsellors for my work in educating the public about themes of psychology and counselling. I am also a finalist for the Governor General's award, the highest arts award in Canada.
+
+\chapter{Literary Accomplishments}
+
+Unlike most scholars in the academic field, I have not pursued publication in academic journals. Rather I have sought to reach a broad public audience with my writing. This is consistent with my belief that themes and ideas must permeate the social consciousness more than they do now. Accordingly, my writings have taken the form of books and articles intended for a general audience. A selection of titles follows.
+
+\clearpage
+
+\section{Grain of Truth: The Ancient Lessons of Craft}
+
+\textit{Grain of Truth} is a book about the Creative Process; its flavors and shades and peculiar demands.The narrative follows the meandering track of my own craft, woodworking, through the course of just over a year. It asserts, at every turn, the work of hands as an exemplary guide in the unfolding of awareness. Combining ancient Taoist philosophy with reflections on family, culture and nature, the book provides a compelling view of the diverse rewards of creative endeavor. I confirm that the creative path is both nurturing and relentless. It leads, gently and irrevocably, toward a lucid core of mystery. Within that core, wisdom swirls like smoke.
+
+\textit{Grain of Truth} explores creative work as devotion, as revelation, as a rough opening polished by the shapes of beauty. Through the experience of rebuilding a childhood sailing dinghy, crafting a garden lantern, making a musical instrument, or simply stacking lumber, I reach for the essence of creativity on every page. I show how the work of hands can fill each moment with new breath, new forms, so that the self becomes gossamer-light, a kite held aloft by unfathomable strings. I follow the simple alchemy that begins in the hand as it opens the palm and reaches, with supple fingers, outward.
+
+\subsection{Reviews of Grain of Truth}
+
+\begin{quotation} Give yourself an evening in a quiet place and read this little book with attention. It could change your life\ldots Laird writes about wood with the voice of a poet and the eye of an artist\ldots his sentences are spare, transparent, unobtrusive vehicles of meaning. With his prose he achieves a rare melding of form with content. (The Hamilton Spectator) \end{quotation}
+
+\begin{quotation} Here is a book teeming with insight and inspiration -- and even a few recipes for wood finishes\ldots What I loved about this first book is its surefootedness and supreme focus. This is a book, above all, about connectedness\ldots Laird is a philosopher much influenced by Taoist thinking, and a poet with a great gift for language. No doubt he took the same sense of craft to the writing of this book as he did to the several projects he undertook in his workshop. With wood or words, his seamless joining is admirable\ldots Taking the time to build with care is an immensely rewarding endeavor, an act of faith and trust and courage. It's a notion that most of us seem to have forgotten, and one that Ross Laird takes us back to in his gorgeous little book. (The Globe and Mail) \end{quotation}
+
+
+\begin{quotation} Ross Laird's first book is a rich amalgam of personal reflections, practical philosophy and lyrical description\ldots What gives this book its depth is its fine integration of the personal and the universal\ldots \textit{Grain of Truth} is a polished, finished artifact. (The Calgary Herald) \end{quotation}
+
+
+\begin{quotation} Careful, congenial, Zen-inflected rustications on woodworking, and, by extension, an entire worldview…Laird has an admirable ability to focus closely, whether it be on the precise, demanding work of sharpening a knife on a water stone (then brooding on how the perfect edge is invisible, absent of light) or getting lost in the architecture of a woodpile, letting it incubate ideas on future cabinetwork. There's a lively meditation, as he builds a wooden block plane, on the keen sensibility of one's hands, and there's a deconstruction of an old rowboat that turns into an archaeological dig through memory. Laird is ever-attentive to the moment of creative impulse\ldots an elegant, calming pleasure to read. (Kirkus Reviews) \end{quotation}
+
+
+\begin{quotation} Laird, a poet and Vancouver native, reflects on the rewards and frustrations of woodworking in eight pensive chapters ingrained with sensual, sinuous language and an intuitive understanding of the topic's metaphoric possibilities\ldots Laird artfully conveys his appreciation for natural beauty and spontaneity, his reverence for hardwoods, tools and woodworking methods and his espousal of the Taoist principals that have sustained and nurtured his creative life. Indeed, his burnished prose style counterbalances what otherwise would have been an austere memoir of one man's discipline, dedication to craft and Rilke-like embrace of solitude through work\ldots This meditative book provides an inspiring glimpse into the creative process. (Publisher's Weekly) \end{quotation}
+
+\pagebreak
+\subsection{Excerpt from Grain of Truth}
+
+\lettrine[nindent=2pt]{\textcolor[gray]{0.1}{I }}{stand in the great hall }of the Museum of Anthropology in Vancouver, head bent back, gazing up forty feet to where precise images have been carved into cedar totem poles by craftsmen whose art has been almost entirely erased by time. This museum possesses one of the finest collections of carved wood artifacts in the world, and I feel quite at home here. Near the bottom of a nearby pole, a smooth-shouldered wolf rests in the shadow of a killer whale. The eye of the whale is a shadowed well. This wood, these bones, trace the nature and purpose of a vast awareness, a living spirit in the grain, each knot and every growth ring a secret hieroglyph worked carefully into many layers of meaning. The echo of leaves is here, the resonance of damp fields half submerged in twilight, of dark soil and tales of night. And long, interwoven strands of time knitted together by wood and human hands. The wood has been coaxed into shape -- whittled, chiseled, sculpted with broad, incising strokes -- by tools of utmost antiquity, by weapons, by stones, by meteors, by fragments of ships: countless forms oiled by luminous skin.
+
+Although the focus of the collections is northwestern -- hundreds of examples -- I also find works from Indonesia and Greenland and China, specimens of all kinds and of diverse ages: an eagle with a five-foot, intricately carved beak, a tenebrous skull shape, moons and ravens and wild spirits of the forest. There are objects of great power here, and I am daunted by the virtuosity of craftsmanship displayed in so many of them. Working toward this level of refinement in carving will take me to the edge of my skill. But the spirit of creative work calls to whomever will listen, and as I gaze at these ethereal faces staring back from a lost age, their muted colors hiding a secret flame, once again I hear that whisper spiraling out from the primordial source of things.
+
+In the instant I reach my hand to the wood and sense a silent energy thrumming inside, I become aware that many things will intrude to push and prod me out of this elemental state -- mishaps and details and a pervasive lack of courage to do my absolutely best work -- but an equal number will draw me back to the lucent and creative source. The stillness of that source lies behind the dream of an ancient, verdant grove that wakes me in the night, momentarily; it is the reason for my sudden pause, as I put the key in the lock, my knowledge that something fleetingly caught my eye -- a shape I almost recognize -- before stumbling into the house. Birds before morning and sand buried deep in the cold desert will together speak, reminding me that despite my umbrage and anticipation and indifference, behind my uncertain footfalls in the night's shadow, quiet, undeniable hands usher me onward.
+
+\ldots Dark sky, cold rain, and a ground made bright by the sinuous shapes of wood sawn fresh from the tree: ivory of birch, faded porcelain of maple, linen of alder. There is some cypress, too, its scent of lemons reaching up from the wet soil to sting me with exhilaration. A black, rough flitch of walnut rests alongside the opened bole of a Douglas fir, its orange grain glowing from a sunrise heart. A woodpecker knocks once on the trunk of a cedar, then falls silent. I reach down to touch the alder, and in the moment of reaching, of touching the silent wood with its living core of mystery, it becomes clear what I must next do.
+
+I've come again to Karl's ramshackle wood yard to find some pieces for carving. Nothing is clear yet, nothing except this first step, which is to make peace with the fallen, restless wood so newly taken from the forest: to retrieve it and begin the long process of drying slabs for carving. I've returned, as I so often do, to a careful beginning, these first few crucial steps in which I try to coax the wood into new life by listening and feeling for the prevailing needs of the old. This cannot be done lightly or casually; trees thwarted from their nature by ill use will inevitably turn on the craftsman, splitting and checking. The character of the work is revealed in these first moments.
+
+Wind flaps the corner of a tarp. A small branch clatters to the ground. I choose four round alder sections, bark intact, checks not yet formed in the core. And I take the cypress, too, sawn into rough boards but still thick enough for carving work. The wood is heavy and wet. I hoist the pieces through the tailgate of my station wagon and head home, listening for that discourse I know will come; the gentle opening of suggestions and demands and imprecations through which the work will slowly begin to grow. It is always thus, listening and waiting and reaching for an inscrutable source that guides my hand as a valley guides the river, shaping and being shaped as it wends toward the sea.
+
+On top of the stack of Douglas fir beside my house a niche has been left by the boards I used to make the keel and seats for the dinghy. I place the alder and cypress in this niche. The wood lies neatly cocooned, taken in by the fir like a guest from the rain. It will rest here, somnolent through winter and fragrant in summer, until I can bring it into the shop for final drying.
+
+As I cover the stack, my thoughts turning to the work ahead, I acknowledge that the wood's redemption -- its escape from dissolution -- is also my own. We are bound now, fragments of becoming. We share the journey of the totem; the faces of the figures are hidden in my hand.
+
+The totem is a spiritual heraldry. It describes, through a vast shorthand, the indications of the unfathomable. It is a finger pointing to the beginning, a wind blowing from a pristine field of possibility. It relates the tale of meteoric iron birthed as companion to the sun. Totems, like tools and the quiet in my shop, are reminders to remember, and to act.
+
+I step into the landscape of my own totem. I see my grandmother, the falcon, her brow etched like the grain of rough cedar, weathered by war, made bright with family. I hear the voice of my mother, the wolf: first a clear call, then a tremor, and finally a wail. I feel the hands of my father, the porpoise: bashed thumb, strong fingers, palm enough like my own that I sometimes watch, looking for myself.
+
+The territory brightens with faces. I find the eagle, Elizabeth, she who carries and sustains, whose touch is redolent with solace. Rowan, the deer, blackberry stains on her chin, shouts with joy as she runs through the golden field. And Avery, the seal, cradled by wonder, darts into the light.
+
+In my own hands I study the small whittling scars, the insignia left by a mishap with bleached coral, the numb place where I almost sliced off my finger cutting firewood in the rain. I wonder what indelible traces will be left by this next endeavor -- teeth marks from carved mouths. I reach toward a horizon of prophecy, to mentors and unknown guides, to an unbroken cord of lineage secured at the source by invisible hands.
+
+This is where I begin: with everything.
+
+\clearpage
+
+\section{A Stone's Throw: The Enduring Nature of Myth}
+
+\textit{A Stone's Throw} begins as I hike with my father up a remote B.C. mountain in search of a mythic stone. I find it in an icy river, pack it home, and spend a year sculpting it in my shop. As I work, Idiscover why stones have always been viewed as foundations of community, symbols of the self, and embodiments of sacred wisdom. I examine the persistence of this powerful symbolism as my hands shape the stone. And I discover that despite our general ignorance of mythology, the fables of our ancestors are still imbued with great power. Recounting archaic myths and tales from my own family, linking together the essential religions of the West -- all with stones at their core -- I illuminate the deep unity among spiritual traditions that are, in the contemporary world, perpetually at war.
+
+\textit{A Stone's Throw} is about the weaving together of stories by which we construct our lives, individually and collectively. I explore the forces that lead both Jews and Muslims to revere the foundation stone of the Temple Mount in Jerusalem, the Taliban to destroy stone carvings of Buddha, terrorists to attack the World Trade Center. As I craft a volcanic rock into a piece of sculpture, I peel back the facade of the present to reveal the contemporary world as a place where the past is forever working out its unfinished dreams.
+
+\subsection{Reviews of A Stone's Throw}
+
+\begin{quotation}
+I reviewed Ross Laird's first book for the Globe and Mail, and, if memory serves, I pretty much gave it a rave. I loved \textit{Grain of Truth} for its blend of the personal and the philosophical, and for how it hung, like a tailored shirt, on the theme of working with wood. I was happy to see it nominated for a Governor-General's Award. A fine first book.
+
+Which brings me to his second. I believe he is onto something important here \ldots As I read \textit{A Stone's Throw}, I pondered that link: stones and myth, stones and memory. In the room at home where I write this, I see stones. Why do I keep that softly curving one with the fossils embedded, the starkly cragged orange one or the one shaped like a crescent moon, all souvenirs of canoe trips on northern rivers? Why did I gather stones on the west coast of Newfoundland and set them in our garden? Why do I scour the pebble beach near my cabin for stones that strike my fancy and arrange them on plates?
+
+I think for much the same reason that Ross Laird and his father hiked into the mountains north of Vancouver to seek out the hefty volcanic stone he would spend a year sculpting. He says he heeded a dream; my own stone-gathering heeds an instinct. When the author mentions a geologist friend whose prized possession is a four-billion-year-old rock, I share his sense of awe. Laird's knowledge of ancient mythologies is both wide-ranging and impressive, and he makes a compelling case for how such myths have crept unbeknownst into our consciousness.
+
+But I had not considered to what extent stone still matters. Laird's is an impressive list: the hotly contested (by Muslims and Jews) foundation stone at Jerusalem's Temple Mount; Scotland's Stone of Scone, used in coronation ceremonies since the year 700; the pyramids, of course -- in Egypt, on the American dollar, and as inspiration for the Washington Monument. In Mecca, the Kaaba stone (which inspired the World Trade Center), in the Middle East the matzeivot or standing stones, and all the sacred stones of antiquity he describes, such as the shamir.
+
+\textit{A Stone's Throw} weaves the author's own rich family mythology (not everyone can claim an ancestor who was burned at the stake) with that of humankind. This book reminds me a lot of Annie Dillard's little book, \textit{For the Time Being}: The spiritual undercurrent is the same and so are the mechanics. Both books shift -- often by means of short, sharp passages -- from personal to historical. I admired, for example, how Laird told, by degrees, the story of his near drowning at sea and spliced in the tale of Noah's ark.
+
+Ross Laird is a gifted writer, a painter of pictures: his father as a child jogging alongside the family car to cope with carsickness; his dipsomaniacal mother using a hammer to smash heirloom teacups in the sink; his Zen-like diaries on working the black stone.
+
+There's much bravery and honesty here. Laird writes of his black stone as having a hidden shape and intrinsic voice, ones the carver must divine. He describes the bear he encountered on his quest as a guide, pointing the way. We are, many of us, prisoners of logic and surface: Laird's is a voice urging us to go deeper and wider, to consider signs and symbols in our daily lives, to see synchronicity and not mere coincidence, to let impulse and instinct guide us more and to look for truth in the elemental -- in something as basic and timeless as stone. It's another way, an ancient way, of seeing. (The Globe and Mail) \end{quotation}
+
+\begin{quotation}
+Ross Laird's \textit{A Stone's Throw} gives voice to what is usually left unspoken -- the embedded stories and myths that form the core of our selves\ldots His descriptions of nature are both technically accurate and beautifully poetic\ldots
+
+He frees mythic tales from dogmatic constraints by combining them with his own family history, and also his family's future, in the form of his children\ldots Through his own representation of myth, Laird touches on the danger presented by dogmatists who want to make history static, including such newsworthy figures as Osama bin Laden and Saddam Hussein. [But] Laird's story never becomes simply a metaphor for world politics\dots Like a classic quest story, the book winds back to its own beginnings, closing this circle in time, ready to begin the next story.
+
+\textit{A Stone's Throw} gives life to the stones around which all stories spiral. (Quill and Quire)
+\end{quotation}
+
+\begin{quotation}
+For Vancouver therapist and writer Ross Laird, it truly is a world of wonders. When the married father of two writes, in his new book, A Stone's Throw, that ``the scission between the mythic impulses of the heart and the intellectual imperatives of the mind lies at the crossroads of human history \ldots the tension between them is the source of art, science and politics,'' he is neither intellectualizing nor paying lip service to the idea.
+
+That gulf between the heart and mind is exactly where Laird has chosen to live and work. Readers got a sense of this in Laird's first book, 2001's \textit{Grain of Truth}. A lengthy meditation on creativity, memoir and the power of craft, it was organized around both classical Taoist principles and a series of woodworking projects undertaken by Laird. It was also a surprising bestseller.
+
+This time, Laird focuses on a single project, the sculpting of what he feels is a sacred stone. Inspired by a vivid dream, Laird and his 70-year-old father venture into Vancouver's North Shore mountains on Remembrance Day, 2000, in search of ``a stone of beginnings'' -- a fragment, or echo, of the primal stone in Kemetic (Egyptian) mythology.
+
+\ldots
+
+In most writers' hands, this sort of material would be easy to ridicule; Laird avoids this fate through skill with letters and a combination of scholarly and physical roots.
+
+Laird writes with an almost painful clarity, a vivid imagistic sense coupled with a plainspoken terseness. Descriptive passages are effective in drawing the reader into his thoughts, surroundings and work, while he deals with elements of his life and family history with a gentle candour. At no point does he stretch to impress or win readers over to his perspective.
+
+This style, plain yet elegant, clear without being simple, is underscored by his material. At a philosophical level, \textit{A Stone's Throw} follows \textit{Grain of Truth}'s focus on the project at hand, the arduous demands of craft offsetting ideas that could easily seem whimsical or flighty. The lofty philosophical and mythic underpinnings are offset by the choking dust and open wounds raised by the ongoing process of sculpture.
+
+At the very least, readers will come away with a greater sense of both the span of world mythology and the ideas common to those far-reaching myths, as exemplified by the idea of the stone of beginnings. Whether Laird's focus is on the primal stone of Kemetic lore or the cornerstone of the Washington Monument, the colossal statues of the Buddha destroyed by the Taliban or the foundation stone of the Temple Mount, \textit{A Stone's Throw} is an effective exploration of comparative mythology.
+
+More significant is the insight it offers into a very different kind of life, one lived with a constant and abiding awareness to that mythology and its lingering effect on us. In a world in which the act of getting from home to work and back takes all our energy and focus, it is useful to be reminded that there is another manner in which to live, a life more in tune with the rhythms of nature and the people around us, and yet responsive to the oldest of songs \ldots (The Toronto Star)
+\end{quotation}
+
+\begin{quotation}
+Ross Laird compresses stone-carving, myths of origin, the impact of 9/11, and stories of his own family into his second book, \textit{A Stone's Throw: The Enduring Nature of Myth}. The careful, complex structure of his writing -- the way significance emerges through juxtaposition -- allows us to experience something akin to the devotional act of reading that Laird finds in his encounter with hieroglyphics. This stuff endures, and Laird carries and shapes it with admirable strength, exploring stone as a repository for memory and myth. Laird makes a compelling case for looking at old things in new ways\ldots \textit{A Stone's Throw} celebrates the metamorphic potential of the imagination to heal and sustain, and to lead us to peace. (The Georgia Straight) \end{quotation}
+
+
+\begin{quotation} I'll let you in on a little secret: I opened this book ready to hate it. I was prepared to snap and snarl at what I thought would be arrogant, pompous, self-indulgent narration, annoyingly abrupt changes of subject, cliches\ldots But \textit{A Stone's Throw} did something strange to me. It grew on me. I found myself falling into the strange rhythm of Laird's meandering storytelling, which does a good job of asking questions without seeming to ask questions\ldots It's always a high-wire act to mix philosophy, myth, and a personal journey narrative, but Laird manages to pull it off. (The Hamilton Spectator) \end{quotation}
+
+\newpage
+\subsection{Excerpt from A Stone's Throw}
+
+The indomitable spirit cannot be diminished -- by negligence, by war, by time spun farther than the grasp of memory. This occurs to me on September ninth, in the Egyptian gallery of New York's Metropolitan Museum of Art, as I stand before the only remaining fragment of an ancient sculpture. The body has vanished, and most of the head is gone. What remains is a small artefact, about six inches high: an elegant mouth -- smiling, in repose -- and the beginning curve of a face, carved from yellow jasper. Between ragged fractures where the stone is sheared off -- one just above the top lip, the other below the chin -- the mouth has been sculpted with astonishing precision by the craft of a culture now strewn across the debris field of history. This statue, all that's left of the queen of a remote age, was fashioned in devotion and shattered by war, almost twenty-five centuries ago. And still, she smiles.
+
+I remain in the gallery for a long while, absorbing the details of this remarkable object: bright and smooth, polished to a high sheen. Yellow jasper, symbol of the imperishable, the rain-bringer, a stone reputed to drive away evil spirits, has long been associated with healing. Perhaps this mouth, so fragile, the instrument of a forgotten voice, has been preserved by virtue of the jasper's protection. This relic endures, even as the Taliban destroy stone Buddhas in Afghanistan. In countless guises, the instinct for beauty prevails.
+
+Two days later, back home in British Columbia, as I prepare to work a stone I found on the mountain north of where I live, terrorists fly hijacked airplanes into the World Trade Center, into the Pentagon, into the ground. Like their ancient allies, they tear down the standing stones, endeavor to destroy all that is foreign and strange. The old fires have not stopped burning.
+
+I am drawn away from the shop and into my grief for many days. I sit with my wife in the quiet sanctuary she has made of our yard. The first ochre leaves appear, and we wonder how to make sense of such unfathomable events. My eight-year-old daughter writes a poem about the end of summer, in which birds fly to nice, warm places. Safe passage. As the season turns, I pray that I find the wisdom to weigh, in my own small and quotidian life, the will to heal against the wish to harm.
+
+When I can no longer abide images from the television, when the rawness within me must be assuaged, I return to my workbench. My affliction is softened as I cradle my tools and guide them across the stone, restoring a shattered visage. The dust gathers into great storm clouds as I work, falls like ash onto every surface of my shop. The facade of the stone cracks, gathers itself into the contours of a resolute chin, a strong mouth and a cheek rising toward a restful eye.
+
+Rage and tears and a strange dread, lurking and tenebrous, find their way into the rhythm of my work. Bits of loose stone fall onto the floor, abrade my skin with their sharp edges, scrape the benchtop I so carefully protect from harm. I persist, straining to reclaim, in the grain of dark stone, the soft faces of those now lost to our sight. I mourn the death, too, of the isolated innocence of my culture. And I try to answer the questions of my four-year-old son, who cannot understand why the hijackers would hurt anyone. He devises surprisingly elaborate plans for talking to them, for asking them to stop.
+
+He watches me work, brings me tools, draws close in this time of elemental fear. My hands, searching for the stone's redemption, trace their way across the emerging contours of a jaw, and the rough edge where the forehead will be. I imagine the craftsmen of the jasper queen, and I wonder, as I inspect my work during a bright and warm afternoon, if it's her voice I hear, humming among the trees out back. I discover, once again, that the simple work of hands is a guide in my own healing. I am shaped by the work of creativity as a stone is by tools. And I am sustained, finally, by the hope that my one stone might stand with the destroyed and colossal Buddhas, with the scattered and the fallen, with those on their way back home.
+
+Creativity can be a deep sustenance -- whether in stone or wood or soil. And though my carving is crude, fails utterly to match the surpassing skill of those ancient craftsmen, I persevere; for the work of creation calls not only to the practiced hand. Slowly, easing into the surface, I peel back the many layers that hide the finished face. The air is thick with transformations.
+
+I wash dust from the stone. The bright surface beneath, smoothed by countless tool strokes, appears alive. Dark striations weave their way across the rudimentary cheek, and flecks of white -- feldspar -- scatter like snowflakes along the brow. There's more work, much more: the nose, the eyes, the left side of the jaw. But I've begun. And as I gaze upon the face before me, collected from the ashes of mountains and the visions of my own troubled days, I glimpse a woman both serene and fair. She looks upon our fractured world with an indomitable spirit. And she smiles.
+
+\clearpage
+
+\section{Labyrinth: Addictions and the Search for Healing}
+
+This book is currently in production and will be released in 2009. The book traces its origin to my experience as a substance abuse counselor, as a clinical supervisor to addictions agencies, and to my own family background in which substance abuse has claimed many lives. This is not an unusual situation: substance abuse impacts almost every family. And families become overwhelmed and panicked when they confront addiction within their circle. Parents are generally unaware of how to deal with a child who uses substances. Family members cannot understand how it has come to be that love and support and care are insufficient to the task of rescuing the child or the sibling who wanders in the fugue of alcohol, the flurry of cocaine, or the paranoia of crystal meth. Typically, families are paralyzed by the dawning awareness that the primary allegiance of any addicted person is to the substance itself. This is just unbelievable: that someone would choose illness and lies and the furtive ingestion of toxins over the readily available assistance of friends, family, and the many community services designed specifically for the purpose of helping people through addiction.
+
+But the addicted are not subject to such inducements. They're looking for something else: a destination, a secret, a bright, still center at which all the contradictions will make sense. Most don't know they're searching for it. They just try to get away from the intrusions, the futile interventions, the hassles from people who want to divert them from the inescapable quest for getting high. 
+
+I have known thousands of such people: on the streets, in my clinical practice, in the educational setting, and in my own childhood home. I have entered into the lives and communities of the addicted, have earned their trust, have undertaken the long initiation required for authentic knowledge, connection, and intimacy.
+
+\textit{Labyrinth} presents my unique and personal perspective on addictions, gleaned from a lifetime of dealing with alcoholism and drug abuse. I bring to the subject my distinctive blend of psychology, spirituality, and mythology: mixing, distilling, rendering. Addiction, after all, is an alchemical quest, and to follow its meandering track requires an approach that is broad and diverse and integrative all at once. As in my previous books, both of which have taken a multidisciplinary approach to their subjects, \textit{Labyrinth} offers the reader much more than the typical pedantry found in the current substance abuse literature. It is a book of mysteries, of shadows, of hard-won illuminations. It is both a map and a journey.
+
+Moreover, \textit{ Labyrinth} presents, for the first time in addictions literature, a framework for understanding the emergence of adult addictions through childhood imprinting. Addiction begins long before people discover the magic properties of drugs and alcohol, before they are led into the labyrinth of adolescence, before they confront the challenges and stresses of shaping an adult life. Addiction, as every substance abuse counsellor knows, is a legacy of childhood. Yet the contemporary addictions literature has failed, for many reasons, to explore this link, with the result that current trends in addictions research focus almost exclusively on genetic, behavioral and biochemical factors. Meanwhile, addiction rates rise, the addicted are drawn ever further into the lethargic gravity of substance use, and we now face a colossal social problem. Look for the source of many pressing social issues (crime, diseases of self-neglect, motor vehicle fatalities) and everywhere you find the infusion of drugs and alcohol. They are inimitable, relentless fuels.
+
+Throughout \textit{Labyrinth}, addiction is considered as a healthy impulse -- a longing for connection, wonder, vitality -- but an impulse thwarted and redirected, a twist in the bone that prevents the hand from opening. And yet the hand may learn to open, the heart to heal, the mind to find its resonance with others. The process of addiction is itself a teacher, a healer. The wounds are guides in healing. Inside those wounds lies deep wisdom.
+
+\subsection{Selected Excerpts from Labyrinth}
+
+\vspace{\baselineskip}
+\lettrine[nindent=2pt]{\textcolor[gray]{0.1}{E}}{rasure, retreat, senescence. }
+Impulses rendered by the slow turns of trauma, neglect, grief, and loss in early life. Such primary wounds are stress fractures; they spread subtly across the texture of childhood development, the way a vibration travels long distances in the mantle of the earth, arising later as an explosion, a quake, a catastrophe. Addiction~-- to substances, experiences or habits~-- is often a response to such fractures. Persistent, unresolved emotional impulses from childhood are carried forward, sometimes beneath the surface, until the transformations of adolescence coax them into renewed focus. Sometimes, without knowing what they are doing, teenagers discover that particular substances answer their emotional questions. The substance heals the fracture, for ten or twenty minutes or for the duration of a slow evening.
+
+The emotional wounds of early infancy, those which erode belonging and basic trust by way of neglect or abuse, are sometimes carried forward by children as a pervasive sense of alienation. They do not find the feeling of home. But they may find it in adolescence, when all the themes of childhood are revisited and pondered by the developing mind. They might seek a new type of family~-- in religion, sports, school~-- or they might find it in hallucinogens, which offer a homecoming to the spirit world. Addictions to spirituality, or to states of ecstasy (or to the drug Ecstasy) are distinct manifestations of the same dynamic: come away, come home.
+
+The earliest imprint~-- of homecoming, of coasting in from the wide ocean of the womb to be met onshore by welcoming hands~-- is a fundamental requirement for human health. Children who do not find their roots in the world before and at birth are well-known to be more vulnerable to many kinds of later travail, including addiction. If the sense of belonging is not offered to us in our earliest development, if we cannot coax it from others by way of our craftiness or charm, we withdraw. This is an instinctual and emotional withdrawal, a retreat into the mind and heart and bones. We seek a way out, a path back to wherever it is we've come from. We look elsewhere for what we cannot find in the unwelcoming world: a home of the spirit. We go away, to what becomes the imagination. We stand upon the savanna, gazing toward the trackless lands. Or we gaze through the glass at the gliding shapes of old and gentle creatures.
+
+Elsewhere is the consistent destination of the hallucinogen user, the spiritual seeker, the wanderer. A realm in which wounds will be washed away in a communion of belonging. For those drawn away by such impulses, the appeals of this world~-- family and community and the many anchors of an ordinary life~-- go unheeded. The wanderer departs, and is gone.
+
+
+\vspace{\baselineskip}
+\lettrine[nindent=2pt]{\textcolor[gray]{0.1}{I}}{n the oldest sea epic }
+of Western literature, Odysseus the wanderer finally makes it home after twenty years of drifting. He arrives as a beggar, threadbare and hungry. His wife hardly recognizes him. His home is in disarray, his lands have been stolen, his son is in danger. But Odysseus prevails. Through conflict, struggle, and the delicate re-forging of relationships, he finds his way back to the living.
+
+Odysseus travels to the underworld, and is told by ghosts that his journey will not be complete until he selects a fine oar~-- symbol of the sea, of his wandering among the strange~-- and carries it inland, to where broad ships and salt air are only fragmentary tales, myths of elsewhere. There, the ghosts prophesy, a passerby will mistake the oar for a winnowing fan (a tool used to separate chaff from grain). At that juncture, Odysseus must plant his oar in the earth, make sacrifice to Poseidon~-- his enemy, the god who kept him from home for a generation~-- and thereby put all old scores to rest.
+
+The hallucinogen user, the elsewhere addict, the spiritual wanderer, must also take the symbols and experiences of the strange~-- of those other worlds, of reality spun bright and far~-- and rest them in the earth. In the soil of daily life. An old adage speaks of dividing wheat from chaff, of discovering the authentic and the essential. This is the role that Odysseus's transformed oar fulfills. In exchanging absence for presence, the oar becomes a means of grounding and nourishment rather than an instrument of departure, of scurvy.
+
+Joseph came back, like so many others who have returned from overdose, spiritual burnout, collapse. Out beyond that farthest shore, where he could so easily have gone under, he made a final appeal to claim his life. He was found by people who took him in, and gave him, after a long and fruitless search, the beginnings of the homecoming he sought. He spent time in addictions treatment, lived with a group of men in recovery, found work doing outreach with the homeless. Eventually he made his way back to school, and to a cobbled-together career. But lasting relationships continue to be a struggle, and Joseph is still called, at times, by the spirits of elsewhere.
+
+He loves to row, as do most of the hallucinogen users I've known. Perhaps he needs to row, out from the shore and toward that horizon beyond which bright mysteries might be met. But his path, which is no longer outward but now homeward, beckons him to return, to use the wonder of his journeys to deepen relationships: with himself, with friends and loved ones, with this ramshackle world and its beautiful contradictions. In traditional societies where hallucinogens are used by shamans, the journey to the spirit world is undertaken in aid of the community~-- to help grow crops, to make rain, to heal the sick~-- and not for personal gain or spiritual entertainment. The shaman is tethered to those who depend upon him. When he returns from his visions, he shares his experience with his peers. He places his oar in the earth and uses it to winnow a meaning for them all.
+
+The opportunity, and perhaps the obligation, for recovering hallucinogen users involves applying their imaginative, esoteric skills to the needs of this world. Most make excellent storytellers, artists, teachers, scholars. They excel at expanding the mind. Many are adept as healers. Their ongoing challenge~-- because early imprinting in childhood and proclivities of temperament do not vanish~-- is to keep the tether, preserve the bond between themselves and others, use their imaginative capacity to settle the oar ever farther into the earth.
+
+Two basic healing tasks lie before the recovering hallucinogen user or addict of elsewhere. The first is to find the ecstatic in daily life: in grounded meditations, in the garden, in the tasks of parenting and intimacy and stewardship. Many enjoy Chi Kung or Tai Chi or yoga. A few practice Aikido, which includes an exercise called \textit{rowing to the perfect world}.
+
+It doesn't matter much what they choose, so long as it connects them to people. Sure, people are awkward and troublesome, but traveling with them is the only path to authentic fulfillment.
+
+The second healing task for elsewhere addicts is to discover a means of sharing their imaginative and spiritual capacities, of delivering their visions to the community fireside. They don't need drugs or trances to do this: they already know how to row. They came into the world that way, rowing for the shore, not quite finding it, heading back out again. Sometimes Joseph and I speak about him finding the shore. It's as though people wave to him from there, calling him in. They've been calling for a long time. They've set watch fires, and have made a clear channel to protect his craft from the shoals. A child writes his name in the sand. All that is required of him is that he turn the dinghy, face the horizon of elsewhere, and row shoreward.
+
+\ldots
+\vspace{\baselineskip}
+\lettrine[nindent=2pt]{\textcolor[gray]{0.1}{I}}{ncrementally, almost imperceptibly, }
+the child is diverted from security and safety. Later, the confused teenager unravels into a conflicted young adult who in turn clings to a sole dependable ally: the substance that never breaks its promises. Small and unremarkable steps, spread across many years. All so natural, so easy, a salmon swimming downstream. Then a morning you awaken with blood on your cheek, a mournful aching in your bones. The sheets are fetid, your mouth tastes of bile, you look out the window and you don't know if it's morning or evening. The room is cold, and you cannot warm yourself. Outside, water drips steadily from the corner of the roof.
+
+If the ungovernable forces of change grant you a moment of clarity, you will move toward the breeze from the open window and your heart will crack open. Some smothering force will lift, and allow you to fall into your lethargy, your sadness, your bewilderment. You will stagger beneath the weight of your regret. You might take that weight and fashion it into the ballast of a new sea-change.
+
+Or you may sniff the aroma of the street~-- gasoline, cooking oil, wet pavement warmed in the sun~-- and head out again. Because your back aches, your legs are shuddery and jangling, your scalp feels tight. After a fitful sleep you've already begun to sweat with the slow slither of withdrawal. Your teeth hurt, and in your gut a tightening knot of anxiety begins to writhe.
+
+But more than these, more pressing than the appeals of your body drawn across your sinews like tearing parchment: that primal, implacable urge. It rises within you, feckless and seductive and irresistible. It wipes you clean of imperfection, smooths you into linen pressed and warm. You recognize that nothing else matters, that you have surrendered completely to this love (for that is how it feels, and who can judge?).
+
+You follow the chimes of the ever-ringing temple. Bells clamor and clang inside you. The promise of that sweet music, its covenant to enter and possess you with its peaceful simplicity, earns your devout and lasting allegiance. You hold fast and are swept away.
+
+The daily choice of an addicted person~-- use, or not use~-- is not unique to their exiled clans and cultures. We are all offered such choices: to die slowly, by means of countless small incisions to the spirit; or to fight for a single, unvarnished moment of truthfulness.
+
+\ldots
+\vspace{\baselineskip}
+\lettrine[lhang=0.4, nindent=-2pt]{\textcolor[gray]{0.1}{T}}{o inhabit }
+an alcoholic home is to live in a city under siege. There are frequent bombardments in the night, and the ingress of stones fired from trebuchets far out on the plain. Enemy battalions strike vulnerable fronts, which are soon shored up, defended, packed with the rubble and dreck of previous explosions. Walls crumble. Acrid dust pervades the streets. Salvos sometimes penetrate the inner city, fires break out, there is frantic scrambling to contain and hide the disfigurement. Feral dogs wander the streets. Smoke rises from fires that cannot be extinguished. Voices are heard in alleys, furtive, quiet, and occasionally shouts emanate from within the citadel. But over all this there is an atmosphere of oppressive silence, as though the air has become thickened and sickly. Sounds are swallowed, heavy and echoless.
+
+The citizens of the city speak to one another rarely. They go about their business, interacting minimally, restricting their conversations to safe and practical subjects. They do not speak of the war, nor of the casualties among them, nor of the impoverishment brought by the siege. Were a citizen to speak of the war, even to affirm its existence, to name what must not be named, such a transgression would require that the gates of the city be opened. This is the covenant the citizens share. Residency in the city is contingent upon assent to its fundamental charter. The war, which governs the life of every citizen, must not be articulated. By such denial the war will be made not to exist.
+
+The risk of the gates opening is extraordinarily remote. The great wooden hinges have not turned in the living memory of any citizen. Sometimes they hear stories of other cities in which the gates were opened. But no one has visited those cities, and tales of them are discounted.
+
+The siege has endured for generations. The citizens have not seen the face of their enemy. In the highest tower of the citadel there is a lone window, and behind this a cell, and within the cell a prisoner. The door of the cell remains open always. No guards are necessary.
+
+\ldots
+
+This child will awaken early, on a Tuesday morning. She will be fifteen years old. The house will be quiet, though as she dresses in the dark she will hear the sounds of someone rolling over in bed, down the hall and out of sight. The wind will come from the northwest, and will bring the scent of fir trees and salt water and mossy ground after the recent rains. She will gather her things in a small backpack~-- slim wallet, blue sweater, book with a tattered spine, four slices of beef jerky, can of root beer, journal with spiral designs on the cover, bag of toiletries, white envelope with photographs inside~-- and she will leave the house. She will not lock the back door. She will take the path that leads behind the house, she will cross the damp fields, and she will find the ribbon of highway that meanders beneath mountains in the east. She will not know her destination, nor what her next steps should be. She will walk at the roadside, listen for the sounds of cars approaching, gaze into the sky with its clouds scuttling across her vision. She will be entirely alone.
+
+A car will stop. Or she will flag down a bus, or a truck. And though many people from her community travel this road, none will do so this morning, and so no one will confront her, cajole her to return, report her escape to anyone who might come after her. It will be as though her world stands aside, and with closed eyes grants her passage. And in the space of that opening, in the crispness of the wind and by virtue of her own resolve, she moves forward unchallenged. No force delays or thwarts her. But she is afraid, and tentative, and she imagines the many ways in which her boldness might bring her harm. A light rain begins to fall. The roadside dust settles. She gazes down the highway, following with her eye the wide turn of the road and its disappearance over a shallow, saddled hill in the distance. She wonders where she will spend the night.
+
+The healing of every community depends upon this child.
+
+\ldots
+
+\vspace{\baselineskip}
+\lettrine[nindent=2pt]{\textcolor[gray]{0.1}{I}}{ look for }
+the smoking boy as I make my way through the neighborhood. In the days following my initial glimpse of him, that morning when Avery and Rowan asked about the scent that trailed in his wake, I become curious about who he is. I did not recognize him from his movements, and I only saw him from the back, and I do not know if I would identify his face were I to encounter him at the mall or on the street. But my impression is that he does not live nearby. He was, I think, passing through, his presence here temporary. It seemed to me that he was sliding away, though he was only paces ahead. As though the distance between us could stretch but not contract. It's a perception I've experienced with other marijuana users: a sense of personal distance, of a surrounding and insulating boundary. And it is particular to marijuana users, it distinguishes them from the opiate addicts~-- who are raw, and vulnerable, and who have trouble hiding their overwhelm~-- and from the hallucinogen users~-- dissociated and drifty~-- and from the alcoholics, angry and nostalgic and trying to punch the world into a new shape. Even stimulant users seem more accessible than pot smokers. The crack heads and meth junkies are swept up by their own private whirlwind; but their voices still can be heard, and one can glimpse their grasping hands flash by as the storm revolves.
+
+The marijuana users are a strange crew, different from all the others. They have been taken away, their lives made parallel yet separate. It's not immediately obvious, this shift. Typically, it is not accompanied by the intensity and explosiveness displayed by users of other substances. The marijuana user is more sedate, relaxed, he cannot understand why anyone might worry about him. He reassures, he explains, he dismisses objections and concerns. And by slow degrees, so gradual as to be almost unnoticed, he cuts the ties which allow him to be intimate with others. He chooses the substance~-- and in this sense he is like all the other users~-- preferring, eventually, the embrace of the substance in place of human connection. His imagination~-- which otherwise would be the bridge between his own inner life and the lives of others~-- lets go of its curiosity, surrenders its engagement and purpose, and is content to dwindle. He becomes a friendly and playful person, free from anxiety, amenable and polite and seemingly open. Yet he inhabits another country. We encounter his envoy but not his authentic self. He delivers a substitute, asks that we accept the copy as genuine, original. Somewhere in that other and distant country he sleeps.
+
+One might make the decision to journey back toward inhabited lands. To awaken, and scan the horizon for far-off signs. This is, I think, why the mentors of literature are always wanderers. They have traveled, they understand the ways of the road, they have traversed their own circuitous paths in the desert. This is what I see in many of my students and supervisees: experience, hardscrabble wisdom, clarity. Not a history of addictions, necessarily, but of grappling and reaching and searching. Of having faced up to it~-- whatever it is. My grandmother had lived through two wars. Her sister had lost her fiancee in the first of those wars, and had endured alone for almost seventy years. Theirs were lives of tremendous gravity, such that when I entered their orbit I was drawn in and changed by them.
+
+Adolescence is typically the most pivotal phase of a person's life. We decide, often without recognizing it, our trajectory into the world. And how we enter is how we go on. Adolescence is the first tentative step forward, the juncture at which we establish our speed and direction and even our purpose. The character of our movement is defined. And that character is shaped by mentorship more than by any other force. The mentor might be a parent, or grandparent, or friend, or coach~-- it doesn't matter much. But it must be someone whose temperament coaxes from us our better nature.
+
+I was lucky. After my grandmother and her sister sheltered me that summer, showed me the method and the means of crafting a spirited community, led me into the magic of good books, I knew what mentorship felt like. So that later, when I drifted again during difficult times, when addiction (to alcohol, primarily) seemed like a prudent stress management strategy, I was able to recognize my need for mentorship and to find it. In high school and university I sought out other mentors~-- all were teachers of English Literature, as it turned out~-- who guided me farther along the path of my discoveries. They were guardians along that path, setting signposts and indicating the treacherous turns where one might fall, suddenly, into the ravine. And when I did fall, they reached down and lifted me. Without such mentors a child becomes a wanderer in a strange country.
+
+I was shown~-- when I was young, which is perhaps the only time one can be shown such things~-- what it means to inhabit the world fully, to be not on parallel paths but one joined and headlong track moving forward. My grandmother and great aunt had exemplified this, and after they died~-- my great aunt in the year that I met my wife, my grandmother in the year that I was married~-- their mentorship stayed with me. I inherited my great aunt's library, and as I leafed through her books of philosophy and travel and classical literature, her collection of mountain climbing tales and leather-bound volumes from the eighteenth century, I recognized that those old crones were players in a long story. They had been their own authors, the storytellers of their own days. They were caretakers, and not only of the spirit of a fragile boy. Theirs was the path, and the shore, and the wide sea of becoming.
+\\
+\ldots
+\\
+Join us, says the story. Understand what you may do. Use this tale, own it, and find your kinship with those who inhabit its wide and welcoming course. Open the map, find your place, and call with your strengthening voice, so that other travelers pause, and find you, and usher you forward.
+
+The story is not a made up thing. It is a living history of human progress.
+
+\ldots
+\\
+Healing from addictions begins here, in the school that I pass on my way to the clinic. Almost every addicted adult traces the history of their affliction to the delicate and difficult period of high school. It is not an accident that this is also the period in which stories are crucial and elemental: film narratives, themes from music, urban myths. For adolescents, stories are secure stones placed across the pond of uncertainty. If adults do not offer stories sufficient to capture the imaginations of young people, if the adult stories are quaint or punitive or pedantic, kids will find their own sustaining tales. And sometimes, especially among kids from homes of struggle and insecurity, such tales will be of violence, and disaffection, and alienation, and death. I do not know why our society prefers to blame adolescents for this rather than to take responsibility for our own lack of wisdom and commitment. Have we forgotten our own stories, have we abandoned those tales in which kindness and love transform blindness into vision?
+
+\ldots
+\\
+The clients who do well in counselling do not speak of models but of people: empathic, caring, compassionate. The counsellors who demonstrate such qualities tend to have clients who report progress. This, says Elias, is known as the model of common sense. He does not care for the artificial complexity of many of the new and fancy models, which try to claim for psychology a scientific determinism for which it is, in fact, ill suited. Human nature is not a mechanism, and does not lend itself to straightforward structures involving chemistry, genetics, and cellular biology. Human nature and personal character are not derived from these. They are forged by something else, something not captured by a neurological charge. But within the last generation psychology has tried to graft itself to medicine. As a field of human inquiry, psychology has been willing to surrender much of its basic philosophy~-- a philosophy at ease with mystery and speculation, as physicists are~-- in exchange for medical service funding. Counsellors and psychologists are much more conservative and reductionist than they once were. Mostly, this is because funding agencies pay for medical approaches only (cognitive behavioral therapy being the most common of such approaches at the moment). It's difficult to secure insurance or government funding that allows clients to spend time exploring their inner world, wondering about their history, developing insight about their temperament. Funding for six sessions of cognitive behavioral therapy, with specific, pre-determined outcomes, is easy to get. Funding for existential exploration: not so easy. This is unfortunate. We have, in my profession, surrendered the frontier of human consciousness. This was once our territory: what makes us human, what is the mind, and the soul? Nowadays, fewer practitioners approach that frontier. We make a better living now; but as a profession we have, perhaps, neglected our larger purpose.
+
+And yet here we are: Elias's common sense empathy, Asad's rapport with a frightening and violent man, Juliana's kindness. No models, no poverties of philosophy, nothing but honest and authentic human relationship. Almost always, my cynicism toward the psychology industry is tempered by my interactions with its practitioners.
+
+In a lighthearted tone, Elias describes how he might adapt the language of his case notes to satisfy the referring physician. Words such as exploration, insight, empathy, emotion, vulnerability~-- simple words, true to the spirit of Eliass' approach~-- might instead be expressed in terms of strategies, behaviors, models, goals, outcomes. The physician, who seems truly enamored of the new and spiffy model of counselling, will understand from Elias's notes that something is happening, the client is moving forward. But the physician's understanding of that progress, and its cause, will not be the same as Elias's. They will be communicating across a gulf of pedantry.
+
+We discuss the possibility of patenting common sense as a new model. Juliana will be our spokesperson, the presenter to media outlets. Asad and Elias will write the book. This imaginal project occupies us for a few minutes. It's a diversion toward levity rather than cynicism. We know that soon we will be telling stories about pain and death. We know that addiction is a companion to human nature. It cannot be tamed nor vanquished nor banished from the human landscape. In our city, as in most places, the raw numbers of addicted people will continue to rise. Social, economic, and cultural factors have created a surging momentum that will run forward until the forces which sustain it are addressed: poverty, paucity of education, fragmentation of psychological development, absence of mentoring and leadership. For our part, Elias, Juliana, Asad and I must always seek illumination to counter the heaviness carried by our clients.
+
+We look for the redemptive moment, the spark, the dawn. We need to be lighthearted in this business. Otherwise we are of no use.
+
+\clearpage
+
+\section{Essays}
+
+In addition to my book length works, I have also written numerous articles and essays on many themes. A short selection of such publications follows below.
+
+\begin{flushleft}
+\begin{itemize}
+\item [\textit{The World Tree.}] \textit{Canadian Geographic}
+magazine, 2002.
+
+\item [\textit{Review of \textit{Jacob's Wound: A Search for the
+Spirit of Wildness}.}] The Globe and Mail, 2005.
+
+\item [\textit{First of Four Legs: Creativity and the Nature of
+Psychology.}] Inaugural essay for the Canadian Association of
+Hypnotherapists.
+
+\item [\textit{Here and There: Adjudication Essay for the Event
+Magazine Literary Competition.}] \textit{Event Magazine}, 2005.
+
+\item [\textit{The Riddle of the Sphinx: Psychology and the Pursuit
+of the Soul.}] \textit{Insights}, the journal of the BC
+Association on Clinical Counsellors, 2003.
+
+\item [\textit{Geek Life: Psychology and The Cultures of
+Technology.}] Contracted by \textit{Saturday Night} magazine,
+2006 (published privately).
+
+\item [\textit{Casco: Home From the Sea.}] \textit{Pacific
+Yachting}, 2005.
+
+\item [\textit{Understanding and Working with FASD}.] Ministry of
+Children and Family Development, 2007.
+
+\end{itemize}
+\end{flushleft}
+
+\chapter{Sample Course Outlines}
+
+As I have indicated in the section on my teaching philosophy, I am most interested in providing learners with a quality learning experience. To that end, I typically take great care in crafting course outlines to reflect the kind of learning environments I work to create. The following outlines, for \textit{Interdisciplinary Expressive Arts 3100}, \textit{Mythological Narratives}, and \textit{Health Psychology} show my general approach and method of structuring the material.
+
+\chapter{Interdisciplinary Arts 3100}
+Instructor: Ross Laird, Ph.D.\\ 
+Telephone: 604-916-1675\\
+Email: ross@rosslaird.info\\
+Website: www.rosslaird.info\\
+Location: Kwantlen Polytechnic University, Surrey Campus\\
+Schedule: Thursdays, 11:00-12:50\\
+September 4 to December 8, 2008\\
+
+\section{Basic Philosophy of the Course}
+
+Interdisciplinary Expressive Arts refers to a specific set of educational activities, goals and strategies. Based on innovative pedagogy and integrative approaches to learning, interdisciplinary studies involve the synthesis and synergy of various disciplines toward a cohesive, unified educational experience. Interdisciplinarity is much more than enrollment in courses from more than a single discipline. Authentic interdisciplinarity emphasizes the linkages between disciplines by focusing on contrasting and complementary aspects of diverse educational domains.
+
+Interdisciplinary studies encourage learners to develop broader intellectual skills, greater facility for critical thinking, and greater awareness of the social relevance of their education. Interdisciplinary learners have the opportunity to develop exemplary skills in problem solving, insight, team-building, lateral thinking, and multi-modal learning styles. Interdisciplinary strategies involve approaching an issue or problem from various perspectives. This typically entails intellectual inquiries that range beyond the borders of any single discipline or domain. While still respecting the function of the boundaries between domains, interdisciplinary approaches recognize that those boundaries are essentially arbitrary and do not always serve the goals of learning. Global warming and the AIDS pandemic are two examples of contemporary issues that require interdisciplinary approaches. 
+
+This course is about creativity, about making a claim for the fundamental right of intentional creative action. Within that context, we will explore the ancient and modern practices of creative endeavor (particularly as regards family and culture), the hurdles of creativity (as they involve craft and precision and clarity) and the great gifts we might receive from others of our creative kin (that is to say, the long tradition of writers, poets, sculptors, dancers, craftspeople of all stripes, musicians, myth-makers, and so on). Throughout this process, our guiding archetype will be that of the trickster.
+
+In this course we stake out the territory of the creative, inspecting the geology of its forms and ideals, finding our own individual places to homestead. Creativity involves the search for truth, yet also an awareness that truth and fact are often provisional, and mythological; they are shapeshifters on the wide-open plain of creativity. We will explore what this means, and what to do about it.
+
+And, finally, the goal of the course (from my point of view, at least), is to have fun: to preserve and nurture the creative and imaginative spirit that is the foundation of all the arts and sciences.
+
+\section{Learning Goals}
+\begin{itemize}
+
+\item Read selected interdisciplinary texts and discuss their origin, development, and contemporary relevance
+\item Interpret interdisciplinary literary traditions within the context of contemporary academic and professional inquiry
+\item Articulate (verbally, in writing, and through creative endeavour) knowledge of interdisciplinarity as both an ancient and a current mode of inquiry
+\item Describe the ways in which interdisciplinary expressive arts are more than a simple aggregation of various disciplines
+\item Evaluate diverse interdisciplinary perspectives and approaches using heuristic modalities
+\item Write a research-based essay on a topic related to interdisciplinary expressive arts
+\item Create expressive projects and presentations using interdisciplinary principles
+
+\end{itemize}
+
+\section{Learning Experiences}
+The course will include a variety of learning experiences contingent upon regular attendance and dedicated participation. Because creativity is an interactive process, much of the class time will be devoted to group experiential exercises, individual reflective tasks, collaborative endeavors, and practical assignments.
+
+We will create a collaborative environment in this class. We are not going to cobble together the type of group one often hears about in the arts: competitive, cut-throat, critical. Repeat: we are not creating such a group. Instead, we will direct our efforts toward building upon the individual strengths of each participant, finding ways for each of us to be self-reflective in terms of assessing our creative work, discovering a means of protecting the quality and integrity of our writing. The creative spirit is remarkably persistent, yet it is also fragile, especially at its inception, and
+we must be conscious of this fragility. Think about it: did you not experience, as a child, the strangulation of your creativity in school, by way of a culture of insensitive peers or teachers? Why do you think hardly anyone feels comfortable singing in public, or dancing, or drawing, or reading their written work to others? We have, most of us, been the victims of inappropriate feedback and judgment. We have to be careful about this, in our course, so that we do not harm one another.
+
+\subsection{Interlude: (A Few) Great Moments in Interdisciplinarity}
+
+\begin{itemize}
+\item Akhenaten and the invention of monotheism
+\item Albrecht Durer and alchemy
+\item Aristotle's book of comedy
+\item Bill Evans and the Peace Piece
+\item Buckminster Fuller and the geodesic
+\item Chenrizi and the politics of China
+\item Chuang Tzu and the butterfly
+\item Coleridge and the person from Porlock
+\item Csíkszentmihályi and the flow experience
+\item David Bohm's Implicate Order
+\item Darwin, the bassoon, and the sundew
+\item Eugen Herrigel and the practice of archery
+\item Francis Yates and the Art of Memory
+\item Freud, Jung, and the ``bosh" incident
+\item Fulcanelli and Mysteries of the Cathedrals
+\item Giordano Bruno and the Hermetic tradition
+\item Godel's uncertainty principle
+\item Hanna Arendt at Nuremberg
+\item Henri Rousseau in the jungle
+\item Howard Carter and ``wonderful things"
+\item Jacob Bronowski at Auschwitz
+\item Jacob Bronowski, Nagasaki, and Science and Human Values
+\item Jan Tschichold and the Nazis
+\item John Cage on the subway with the I Ching
+\item Kepler's Somnium
+\item Mary Shelley and the genesis of Frankenstein
+\item Newton's Principia
+\item Nikola Tesla and universal energy
+\item Philip K. Dick, VALIS, and 2-3-74
+\item Picasso, Guernica, and Expo 1937
+\item R.D. Laing and madness as reality
+\item Ramanujan's notebooks
+\item Richard Feynman and the invention of quantum mechanics
+\item Schwaller de Lubicz at Karnak
+\item Simone Weil and leading from desire
+\item St. Exupery flying into the desert
+\item The Reimann Hypothesis
+\item The Voynich Manuscript
+\item The visions of Hildegard of Bingen
+\item Thoth's legacy
+\item Walter Benajmin and the Angel of History
+\item Wendell Berry going Into the Woods
+\item Wilhelm Reich's Cloudbuster
+\item William Blake's Marriage of Heaven and Hell
+
+\end{itemize}
+
+\section{Readings}
+\subsection{Required Course Texts}
+
+\begin{description}
+\item [David Edwards.] \textit{ArtScience: Creativity in the Post-Google Generation}
+\item [Maxine Greene.] \textit{Releasing the Imagination: Essays on Education, the Arts, and Social Change}
+\item [Eric Booth.] \textit{The Everyday Work of Art: Awakening the Extraordinary in Your Daily Life.}
+\end{description}
+
+\subsection{Suggested Books}
+\begin{description}
+\item [Allen, Pat.] \textit{Art is a Way of Knowing.} \\Shambhala, 1995.
+\item [Barron, F., Montouri, A., and Barron, A., eds.] \textit{Creators on Creating: Awakening and Cultivating the Imaginative Mind.} 
+\\New York: Putnam, 1997.
+\item [Hyde, Lewis.] \textit{The Gift: Imagination and the Erotic Life of Property.} 
+\\New York: Vintage, 1983.
+\item [Butala, Sharon.] \textit{Wild Stone Heart}. \\HarperFestival,
+2000. \textsc{ISBN 000255397X}.
+\item [Calvo, C\'esar.] \textit{The Three Halves of Ino Moxo}.
+\\Translated by Kenneth Symington. \\Inner Traditions, 1995.
+\textsc{ISBN 0892815191}.
+\item [Campbell, Joseph.] \textit{The Mythic Image}.
+\\Princeton UP, 1974.
+\item [Ellis, Normandi.] \textit{Dreams of Isis: A Woman's Spiritual
+Sojourn}.
+\\Quest, 1995.
+\item [Hancock, Graham.] \textit{Heaven's Mirror: Quest for the Lost
+Civilization.}.
+\\Crown, 1998.
+\item [Hedges, Chris.] \textit{War Is a Force that Gives Us Meaning}.
+\\Anchor, 2003. \textsc{ISBN 1400034639}.
+\item [Kingston, Maxine Hong.] \textit{The Woman Warrior: Memoirs of a
+Girlhood Among Ghosts}. \\Vintage, 1989. \textsc{ISBN
+0072435194}.
+\item [Kwan, Michael David.] \textit{Things that Must Not be
+Forgotten: A Childhood in Wartime China}. \\Soho Press
+\textsc{ISBN 1569472823}
+\item [Laird, Ross A.] \textit{Grain of Truth: The Ancient Lessons of Craft}. \\MWR, 2000.
+\item [Langewiesche, William.] \textit{American Ground: Unbuilding
+\\the World Trade Center}. \\North Point Press, 2002.
+\textsc{ISBN 0865475822}. (Also see \textit{Inside the Sky}.)
+\item [London, Peter.] \textit{No More Secondhand Art.} 
+\\Boston: Shambhala, 1989.
+\item [Lopate, Phillip.] \textit{The Art of the Personal Essay: An
+Anthology from the Classical Era to the Present}. \\Anchor, 1997.
+\textsc{ISBN 038542339X}.
+\item [Macfarlane, David.] \textit{The Danger Tree: Memory, War and
+the Search for a Family's Past}. \\Walker, 2001. \textsc{ISBN
+0802776167}.
+\item[McNiff, S.] \textit{Art Heals: How Creativity Cures the Soul.} \\Boston: Shambhala Publications, 2004.
+\item [Merwin, W.S.] \textit{The Mays of Ventadorn}. \\National
+Geographic Directions, 2002. \textsc{ISBN 0792265386}.
+\item [Ondaatje, Michael.] \textit{Running in the Family}. \\Vintage,
+1993. \textsc{ISBN 0679746692}.
+\item [Pirsig, Robert.] \textit{Zen and the Art of Motorcycle
+Maintenance}. \\HarperTorch, 2006 (reprint). \textsc{ISBN
+0060589469}.
+\item [Saint-Exup\'ery, A.] \textit{Wind, Sand and Stars}. \\Harvest,
+2002. \textsc{ISBN 0156027496}.
+\item [Sanders, Scott Russell.] \textit{Writing from the Center}.
+\\Indiana UP, 1997. \textsc{ISBN 0253211433}.
+\item [Sullivan, William.] \textit{The Secret of the Incas: Myth,
+Astronomy, and the War Against Time.} \\Crown, 1996.
+\item[Wilson, Frank.] \textit{The Hand: How Its Use Shapes the Brain, Language and Human Culture.}
+\\New York: Vintage, 1998.
+
+\end{description}
+
+\subsection{Books on Creativity and Associated Philosophies}
+\begin{description}
+\item [Achebe, Chinua] \textit{Hopes and Impediments}. New York:
+Doubleday, 1989.
+\item [Barron, F., ed] \textit{Creators on Creating: Awakening and
+Cultivating the Imaginative Mind}. New York: Putnam, 1997.
+\item [Benjamin, Walter] \textit{Theses on the Philosophy of History}.
+\item [Borges, Jorge Luis.] \textit{Collected Fictions}. \\Penguin,
+1999. \textsc{ISBN 0140286802}.
+\item [Bohm, David] \textit{Wholeness and the Implicate Order}.
+London: Ark, 1980.
+\item [Bohm, David] \textit{Unfolding Meaning}. New York: Routledge,
+1985.
+\item [Bohm, David] \textit{On Creativity}. New York: Routledge, 1998.
+\item [Bronowski, Jacob] \textit{Science and Human Values}. New York:
+Harper, 1956.
+\item [---------] \textit{The Face of Violence}. London: Turnstile
+Press, 1964.
+\item [---------] \textit{A Sense of the Future: Essays in Natural
+Philosophy}. Cambridge, MIT Press, 1977.
+\item [Degler, Teri] \textit{The Fiery Muse: Creativity and the
+Spiritual Quest}. Toronto: Random House, 1996.
+\item [Demos, John.] \textit{The Unredeemed Captive: A Family Story
+from Early America}. \\Vintage, 1995. \textsc{ISBN 0679759611}.
+\item [Flack, Audrey] \textit{Art and Soul: Notes on Creating}. New
+York: Penguin, 1986.
+\item [Franklin, Ursula] \textit{The Real World of Technology}.
+Toronto: Anansi, 1999.
+\item [Fulford, Robert] \textit{The Triumph of Narrative: Storytelling
+in an Age of Mass Culture}. Toronto: Anansi, 1999.
+\item [Goldberg, Natalie] \textit{Writing Down the Bones}. Boston:
+Shambhala, 1986.
+\item [Herrigel, Eugen] \textit{Zen in the Art of Archery}. New York:
+Random House, 1977.
+\item [Hildegard of Bingen] \textit{Secrets of God: Writings of
+Hildegard of Bingen}.\\ Boston: Shambhala, 1996.
+\item [Hyde, Lewis] \textit{The Gift: Imagination and the Erotic Life
+of Property}. New York: Vintage, 1983.
+\item [---------] \textit{Trickster Makes This World: Mischief, Myth,
+and Art}. New York: North Point Press, 1998.
+\item [Jim\'enez, Juan Ramon] \textit{The Complete Perfectionist: A
+Poetics of Work}. Edited and translated by Christopher Maurer. New
+York: Doubleday, 1997.
+\item [Jung, C.G] \textit{The Spirit in Man, Art and Literature}.
+Translated by R.F.C. Hull. Princeton: Princeton University Press,
+1998.
+\item [London, Peter] \textit{No More Secondhand Art}. Boston:
+Shambhala, 1989.
+\item [Lorca, Federico] \textit{In Search of Duende}. Translated by
+Christopher Maurer. New York: New Directions, 1998.
+\item [Lyndon, Susan] \textit{The Knitting Sutra: Craft as a Spiritual
+Practice}. San Francisco: Harper, 1997.
+\item [Needleman, Carla] \textit{The Work of Craft: An Inquiry Into
+the Nature of Crafts and Craftsmanship}. New York: Kodansha, 1979.
+\item [Pye, David] \textit{The Nature and Art of Workmanship}.
+Cambridge: Cambridge UP, 1968.
+\item [Richards, Mary] \textit{Centering in Pottery, Poetry and the
+Person}. Middletwon, CT: Wesleyan UP.
+\item [Sarton, May] \textit{Journal of a Solitude}. New York: Norton,
+1973.
+\item [Sennett, Richard] \textit{The Corrosion of Character: The
+Personal Consequences of Work in the New Capitalism}. New York:
+Norton, 1998.
+\item [Thoreau, Henry David] \textit{Walden}. New York: Norton, 1985.
+\item [Wilson, Frank] \textit{The Hand: How Its Use Shapes the Brain,
+Language and Human Culture}. New York: Vintage, 1998.
+\end{description}
+
+\subsection{Mythological Fiction}
+\begin{description}
+\item [Joseph Conrad] \textit{Lord Jim, Heart of Darkness\/}
+\item [Thomas Wharton] \textit{Salamander\/}
+\item [Milan Kundera] \textit{Life is Elsewhere\/}
+\item [Carlos Fuentes] \textit{The Orange Tree\/}
+\item [Gabriel Garcia Marquez] \textit{One Hundred Years of Solitude\/}
+\item [Jorge Luis Borges] \textit{Labyrinths\/}
+\item [Alberto Manguel (editor)] \textit{Black Water: The Book of
+Fantastic Literature\/}
+\item [Don DeLillo] \textit{Underworld\/}
+\item [Somerset Maugham] \textit{The Razor's Edge\/}
+\item [Philip K. Dick] \textit{The Man in the High Castle\/}
+\item [Keri Hulme] \textit{The Bone People\/}
+\item [Salman Rushdie] \textit{Midnight's Children\/}
+\item [John Fowles] \textit{The Magus\/}
+\item [Stephen King] \textit{The Stand\/}
+\item [Philip Roth] \textit{Operation Shylock\/}
+\item [Walter Miller] \textit{A Canticle for Leibowitz\/}
+\end{description}
+
+\section{Demonstration of Learning}
+
+\subsection{Written Assignments}
+Three individual assignments are required for this course: a research
+essay and two creative compositions (projects). The research essay involves you choosing a specific theme or thread and exploring it in
+some depth. We will discuss this project at length in class. The
+creative compositions are opportunities for you to discover
+and explore creativity in your own life. Again, we will
+discuss these projects in class.
+
+For philosophical reasons, I do not prescribe a particular length or structure for the projects: a great essay can be a few pages long (as we'll see). Yet it is difficult to craft a good essay in less than a few thousand words, and difficult to craft a good creative artifact in less than many hours of work. So, I offer two recommendations: make the projects as long as they need to be; and make the projects longer than you think they need to be. There is no upper limit on the length or complexity of the projects.
+
+In terms of the research essay, I'm not interested in how much you can write but rather in the quality of your writing. Perhaps you write like Hemingway, perhaps like Melville or Tolstoy. I don't know, and maybe you don't know either. But I can tell you this: writing a shorter piece of great precision is more difficult than writing a longer, more relaxed and wandering work. In the context of smaller projects every word is on display and under scrutiny, whereas in longer works the sheer bulk of the material tends to hide various flaws. Melville, in fact, is a good example of this.
+
+You may write short narratives in this course, but please do not write
+short form as a means of avoiding work. You will know, I will notice,
+and neither of us will be happy. Instead, make your work as long as it
+needs to be. If you compose a lovely, resonant, short piece, you will
+receive an excellent evaluation. But as I said, writing shorter pieces
+is actually more difficult.
+
+The research essay is worth 30 per cent of your grade. The two creative compositions (projects) are worth 20 per cent each.
+
+\subsection{Group Presentations}
+
+Each learner will be a member of several different peer groups; each
+peer group will present at least one mini-presentation (roughly fifteen minutes each) on various topics. Each class session after the first will involve presentations, with one presentation
+from each group. Class time will be given for preparing the presentations. The structure and content of the presentations will be discussed in class.
+
+The group presentations are worth a total of 30 per cent of your grade.
+
+\subsection{Evaluation of Assignments and Presentations}
+My primary focus, as an instructor, is to assist you in developing
+your creativity. Grades are quite far down on the list of priorities
+for me. I am focused on your engagement with the process, your
+commitment to your own work, the extent to which you show up,
+metaphorically, to be as present as you can be. These are evaluation
+criteria for me.
+
+\subsection{Attendance and Participation}
+The expectation is that you will attend all sessions and involve
+yourself in the class process. Your willingness to engage creatively
+with the learning process, to take appropriate personal risks, and to
+participate in group activities are all central to your involvement in
+this class. Your emotional involvement in the class is
+as important as your academic knowledge of the material.
+
+\subsection{Grade Inflation}
+Every semester there are learners who do well on the
+assignments, complete all the associated learning goals of the course,
+participate well, and wonder why they do not receive a grade of one
+hundred percent (or 98, anyway). Here is the reason: almost every
+semester there are learners who demonstrates a level of commitment
+that goes beyond the course requirement. Such learners complete extra
+work, or hand in exemplary assignments, or undertake a significant
+amount of personal development in addition to the course expectations.
+Such learners typically receive the highest grades.
+
+If you do reasonably well in the course you will receive a reasonable
+grade. Very high grades are intended for extra or exemplary work.
+Unfortunately, over the past thirty years the post-secondary
+educational system in North America has participated in a process of
+grade inflation. Since the 1980's, the average grade for typical
+course work has been increasing by about 25 per cent each decade.
+Elevated assessments do not accurately reflect the work of most
+learners. Even worse, grade inflation has caused many learners to
+expect high grades for average work. I am not a particularly stringent
+assessor; but I will not inflate grades artificially.
+
+The grades for the course will be distributed along a curve, with a
+small number of learners (likely) receiving high grades, most learners
+receiving grades in the middle range, and a few learners struggling
+with lower grades. If you are uncertain about your assessment for a
+given assignment, or if you wish to know where, roughly, you are along
+the distribution curve of the class, or if you would like suggestions
+for how to improve your grade, please ask me for clarification.
+
+
+\section{Class Schedule}
+The class sessions will be balanced between presentations (by the instructor and learners) academic material, group collaboration, and composition. The content for each session will evolve as the semester progresses. We will cover the following themes (though, perhaps not in the order listed below):
+\\
+\begin{compactdesc}
+
+\item[The Nature of Interdisciplinarity]
+A vignette: Bronowski at Nagasaki.
+Definitions and principles.
+Clarifications of common misunderstandings about interdisciplinary approaches and practices.
+An introduction to interdisciplinarity as a mode of inquiry in the arts and sciences.
+\\
+\item[Traditions and Practices]
+Consideration of interdisciplinary practices as effective vehicles for the transmission ofsacred, social, political, artistic, and scientific information.
+Examination of interdisciplinarity as a fundamental and necessary function of human nature and inquiry.
+\\
+\item[Developments and Milestones]
+Consideration of the development of interdisciplinarity and its role in the contemporary world.
+Examination of the relationship between interdisciplinary practices and traditional, faculty-based inquiry in the academic environment.
+\\	
+\item[Themes and Philosophies]
+Introduction to the historical background of interdisciplinary philosophy and practice in science and literature.
+Explication of ancient world views, with particular emphasis on spirituality, science, mythological concepts, and approaches to the imagination.
+\\
+\item[Hermetic Threads]
+Reading of excerpts from core Egyptian, alchemical, and early scientific texts, with particular emphasis on foundational interdisciplinary ideas.
+Examination of the ways in which the sciences and the arts were entwined in the practices and perspectives of all peoples until the twentieth century.
+Exploration of the transmission of interdisciplinary ideas into the contemporary world.
+\\
+\item[Interdisciplinarity in the Expressive Arts]
+Exploration of the transmission of interdisciplinary philosophies and practices by way of the expressive arts.
+Examination of practices and structures within the interdisciplinary expressive arts (writing, storytelling, dance, movement, ritual, religious practice, music, philosophy, etc.), with emphasis on the traditions of psychology and mythology.
+Reading of selected texts within the interdisciplinary expressive arts.
+Examination of the ways in which texts within the interdisciplinary expressive arts have influenced the development of the arts and sciences.
+\\
+\item[Multicultural Principles]
+Introduction to the interdisciplinary contributions made by Asian mythology, literature, and science.
+Explication of ancient Asian world views, with particular emphasis on interdisciplinary spirituality, mythological concepts, and approaches to knowledge.
+Reading of excerpts from Asian texts, with particular emphasis on the synthesis of interdisciplinary expressive arts within those traditions.
+\\
+\item[Other Stuff (that we'll think up as we go along)]
+Much of the course content will be generated by learners.
+
+\end{compactdesc}
+
+\chapter{Mythological Narratives}
+
+\section{Course Philosophy}
+Creative writing is a powerful, ancient, and yet delicate practice. We write~-- quietly, often in isolation, in tentative and mercurial
+moods. We revise, and turn back upon our own narratives, and wonder about the reception our work might meet in the world. Sometimes we hide manuscripts in
+drawers, or take deliberate action~-- as did Franz Kafka and Mahatma Gandhi~-- to prevent our words from making their way to an audience. Kafka and Gandhi were both unsuccessful in preventing their writings from being destroyed; but their impulse to do so, to keep hooded the hawk of their creativity, is common among writers of all stripes.
+
+We're not sure that we have, really, anything to say; or we are afraid that if our words are not well met we might ourselves be wounded. Or we believe, as did the ancient Egyptians, that words have their own life, for good or for ill, and that writing is a means of seizing the power of the gods. This course attempts to explore this conversation ~-- between the writer and the wider world~-- and to find ways of bringing our writing safely out of hiding.
+
+We will be exploring myth, and writing craft, and method, and the strategic practices every writer must learn in wrestling with narrative. Each of us will examine our strengths~-- the ways in which the natural mood and flavour of our writing makes itself known~-- and our vulnerabilities as well: how we get stuck, or lazy, how we lost confidence and gain doubt. How we learn to shut down and hope the whole thing will go away.
+
+This course is about writing, and reading, and making a claim for the fundamental right of storytelling. Within that context, we will
+explore the ancient practices of myth-making (particularly as regards family and culture), the hurdles of writing (as they involve craft and
+precision and clarity) and the great gifts we might receive from others of our creative kin (that is to say, the long tradition of writers of writers and myth-makers).
+
+The threshold between fact and fiction (which is not the same as that between truth and lie) is one of the territories of myth. In this course we stake out that territory, inspecting the geology of its forms and ideals, finding our own individual places to homestead. Myth involves the search for truth, and fidelity to fact, yet also an awareness that truth and fact are often provisional, and mythological; they are shapeshifters on the wide-open plain of
+creativity. We will explore what this means, and what to do about it.
+
+And, finally, the goal of the course (from my point of view, at least), is to have fun: to preserve and nurture the creative and imaginative spirit that is the foundation of all the arts and sciences.
+
+\section{Learning Goals}
+\begin{itemize}
+
+\item Read selected cultural, literary, historical and mythological texts and discuss their origin, development, and contemporary relevance
+\item Interpret multicultural literary traditions within the context of mythopoetic origins
+\item Exhibit knowledge of mythology as both an ancient and a current mode of transmission of important cultural, political, and psychological knowledge
+\item Evaluate diverse perspectives on the nature and role of myth
+\item Write a research-based essay on a topic related to mythology
+\item Compose a creative writing essay using mythopoetic narrative strategies
+
+\end{itemize}
+
+\section{Learning Experiences}
+The course will include a variety of learning experiences contingent upon regular attendance and dedicated participation. Because creative writing and mythology are both interactive processes, much of the class time will be devoted to group experiential exercises, individual reflective tasks, collaborative endeavors, composition, and practical assignments.
+
+We will create a collaborative environment in this class. We are not going to cobble together the type of group one often hears about in the arts: competitive, cut-throat, critical. Repeat: we are not creating such a group. Instead, we will direct our efforts toward building upon the individual strengths of each participant, finding ways for each of us to be self-reflective in terms of assessing our creative work, discovering a means of protecting the quality and integrity of our writing. The creative spirit is remarkably persistent, yet it is also fragile, especially at its inception, and
+we must be conscious of this fragility. Think about it: did you not experience, as a child, the strangulation of your creativity in school, by way of a culture of insensitive peers or teachers? Why do you think hardly anyone feels comfortable singing in public, or dancing, or drawing, or reading their written work to others? We have, most of us, been the victims of inappropriate feedback and judgment. We have to be careful about this, in our course, so that we do not harm one another.
+
+\section{Readings}
+\subsection{Required Course Texts}
+\begin{flushleft}
+\begin{description}
+\item [Lewis Hyde.] \textit{Trickster Makes This World: Mischief, Myth, and Art}
+\item [W.S Merwin.] \textit{The Book of Fables}
+\item [Joseph Campbell.] \textit{Creative Mythology}
+\end{description}
+
+\subsection{Suggested Books}
+\begin{description}
+\item [Butala, Sharon.] \textit{Wild Stone Heart}. \\HarperFestival,
+2000. \textsc{ISBN 000255397X}.
+\item [Calvo, C\'esar.] \textit{The Three Halves of Ino Moxo}.
+\\Translated by Kenneth Symington. \\Inner Traditions, 1995.
+\textsc{ISBN 0892815191}.
+\item [Campbell, Joseph.] \textit{The Mythic Image}.
+\\Princeton UP, 1974.
+\item [Ellis, Normandi.] \textit{Dreams of Isis: A Woman's Spiritual
+Sojourn}.
+\\Quest, 1995.
+\item [Hancock, Graham.] \textit{Heaven's Mirror: Quest for the Lost
+Civilization.}.
+\\Crown, 1998.
+\item [Hedges, Chris.] \textit{War Is a Force that Gives Us Meaning}.
+\\Anchor, 2003. \textsc{ISBN 1400034639}.
+\item [Kingston, Maxine Hong.] \textit{The Woman Warrior: Memoirs of a
+Girlhood Among Ghosts}. \\Vintage, 1989. \textsc{ISBN
+0072435194}.
+\item [Kwan, Michael David.] \textit{Things that Must Not be
+Forgotten: A Childhood in Wartime China}. \\Soho Press
+\textsc{ISBN 1569472823}
+\item [Laird, Ross A.] \textit{A Stone's Throw: The Enduring Nature of Myth}. \\McClelland and Stewart, 2002.
+\item [Langewiesche, William.] \textit{American Ground: Unbuilding
+\\the World Trade Center}. \\North Point Press, 2002.
+\textsc{ISBN 0865475822}. (Also see \textit{Inside the Sky}.)
+\item [Lopate, Phillip.] \textit{The Art of the Personal Essay: An
+Anthology from the Classical Era to the Present}. \\Anchor, 1997.
+\textsc{ISBN 038542339X}.
+\item [Macfarlane, David.] \textit{The Danger Tree: Memory, War and
+the Search for a Family's Past}. \\Walker, 2001. \textsc{ISBN
+0802776167}.
+\item [Merwin, W.S.] \textit{The Mays of Ventadorn}. \\National
+Geographic Directions, 2002. \textsc{ISBN 0792265386}.
+\item [Ondaatje, Michael.] \textit{Running in the Family}. \\Vintage,
+1993. \textsc{ISBN 0679746692}.
+\item [Pirsig, Robert.] \textit{Zen and the Art of Motorcycle
+Maintenance}. \\HarperTorch, 2006 (reprint). \textsc{ISBN
+0060589469}.
+\item [Saint-Exup\'ery, A.] \textit{Wind, Sand and Stars}. \\Harvest,
+2002. \textsc{ISBN 0156027496}.
+\item [Sanders, Scott Russell.] \textit{Writing from the Center}.
+\\Indiana UP, 1997. \textsc{ISBN 0253211433}.
+\item [Sullivan, William.] \textit{The Secret of the Incas: Myth,
+Astronomy, and the War Against Time.} \\Crown, 1996.
+\end{description}
+
+\subsection{Creative Philosophies}
+\begin{description}
+\item [Achebe, Chinua] \textit{Hopes and Impediments}. New York:
+Doubleday, 1989.
+\item [Barron, F., ed] \textit{Creators on Creating: Awakening and
+Cultivating the Imaginative Mind}. New York: Putnam, 1997.
+\item [Benjamin, Walter] \textit{Theses on the Philosophy of History}.
+\item [Borges, Jorge Luis.] \textit{Collected Fictions}. \\Penguin,
+1999. \textsc{ISBN 0140286802}.
+\item [Bohm, David] \textit{Wholeness and the Implicate Order}.
+London: Ark, 1980.
+\item [Bohm, David] \textit{Unfolding Meaning}. New York: Routledge,
+1985.
+\item [Bohm, David] \textit{On Creativity}. New York: Routledge, 1998.
+\item [Bronowski, Jacob] \textit{Science and Human Values}. New York:
+Harper, 1956.
+\item [------] \textit{The Face of Violence}. London: Turnstile
+Press, 1964.
+\item [------] \textit{A Sense of the Future: Essays in Natural
+Philosophy}. Cambridge, MIT Press, 1977.
+\item [Degler, Teri] \textit{The Fiery Muse: Creativity and the
+Spiritual Quest}. Toronto: Random House, 1996.
+\item [Demos, John.] \textit{The Unredeemed Captive: A Family Story
+from Early America}. \\Vintage, 1995. \textsc{ISBN 0679759611}.
+\item [Flack, Audrey] \textit{Art and Soul: Notes on Creating}. New
+York: Penguin, 1986.
+\item [Franklin, Ursula] \textit{The Real World of Technology}.
+Toronto: Anansi, 1999.
+\item [Fulford, Robert] \textit{The Triumph of Narrative: Storytelling
+in an Age of Mass Culture}. Toronto: Anansi, 1999.
+\item [Goldberg, Natalie] \textit{Writing Down the Bones}. Boston:
+Shambhala, 1986.
+\item [Herrigel, Eugen] \textit{Zen in the Art of Archery}. New York:
+Random House, 1977.
+\item [Hildegard of Bingen] \textit{Secrets of God: Writings of
+Hildegard of Bingen}.\\ Boston: Shambhala, 1996.
+\item [Hyde, Lewis] \textit{The Gift: Imagination and the Erotic Life
+of Property}. New York: Vintage, 1983.
+\item [------] \textit{Trickster Makes This World: Mischief, Myth,
+and Art}. New York: North Point Press, 1998.
+\item [Jim\'enez, Juan Ramon] \textit{The Complete Perfectionist: A
+Poetics of Work}. Edited and translated by Christopher Maurer. New
+York: Doubleday, 1997.
+\item [Jung, C.G] \textit{The Spirit in Man, Art and Literature}.
+Translated by R.F.C. Hull. Princeton: Princeton University Press,
+1998.
+\item [London, Peter] \textit{No More Secondhand Art}. Boston:
+Shambhala, 1989.
+\item [Lorca, Federico] \textit{In Search of Duende}. Translated by
+Christopher Maurer. New York: New Directions, 1998.
+\item [Lyndon, Susan] \textit{The Knitting Sutra: Craft as a Spiritual
+Practice}. San Francisco: Harper, 1997.
+\item [Needleman, Carla] \textit{The Work of Craft: An Inquiry Into
+the Nature of Crafts and Craftsmanship}. New York: Kodansha, 1979.
+\item [Pye, David] \textit{The Nature and Art of Workmanship}.
+Cambridge: Cambridge UP, 1968.
+\item [Richards, Mary] \textit{Centering in Pottery, Poetry and the
+Person}. Middletwon, CT: Wesleyan UP.
+\item [Sarton, May] \textit{Journal of a Solitude}. New York: Norton,
+1973.
+\item [Sennett, Richard] \textit{The Corrosion of Character: The
+Personal Consequences of Work in the New Capitalism}. New York:
+Norton, 1998.
+\item [Thoreau, Henry David] \textit{Walden}. New York: Norton, 1985.
+\item [Wilson, Frank] \textit{The Hand: How Its Use Shapes the Brain,
+Language and Human Culture}. New York: Vintage, 1998.
+\end{description}
+
+\subsection{Mythological Fiction}
+\begin{description}
+\item [Joseph Conrad] \textit{Lord Jim, Heart of Darkness\/}
+\item [Thomas Wharton] \textit{Salamander\/}
+\item [Milan Kundera] \textit{Life is Elsewhere\/}
+\item [Carlos Fuentes] \textit{The Orange Tree\/}
+\item [Gabriel Garcia Marquez] \textit{One Hundred Years of Solitude\/}
+\item [Jorge Luis Borges] \textit{Labyrinths\/}
+\item [Alberto Manguel (editor)] \textit{Black Water: The Book of
+Fantastic Literature\/}
+\item [Don DeLillo] \textit{Underworld\/}
+\item [Somerset Maugham] \textit{The Razor's Edge\/}
+\item [Philip K. Dick] \textit{The Man in the High Castle\/}
+\item [Keri Hulme] \textit{The Bone People\/}
+\item [Salman Rushdie] \textit{Midnight's Children\/}
+\item [John Fowles] \textit{The Magus\/}
+\item [Stephen King] \textit{The Stand\/}
+\item [Philip Roth] \textit{Operation Shylock\/}
+\item [Walter Miller] \textit{A Canticle for Leibowitz\/}
+\end{description}
+\end{flushleft}
+
+\section{Demonstration of Learning}
+
+\subsection{Written Assignments}
+Three writing assignments are required for this course: a research
+essay and two creative compositions. The research essay involves you
+choosing a specific mythological theme or thread and exploring it in
+some depth. We will discuss this project at length in class. The
+creative writing compositions are opportunities for you to discover
+and explore the myths surrounding your own life. Again, we will
+discuss these projects in class.
+
+For philosophical reasons, I do not prescribe a particular length for
+the projects: a great essay can be a few pages long (as we'll see).
+Yet it is difficult to craft a good essay in less than a few thousand
+words. So, if you prefer a guideline for the length of the projects, I
+offer two recommendations: make them as long as they need to be; make
+them somewhere between two and five thousand words. There is no upper
+limit on the length of the projects.
+
+I'm not interested in how much you can write but rather in the quality
+of your writing. Perhaps you write like Hemingway, perhaps like
+Melville or Tolstoy. I don't know, and maybe you don't know either.
+But I can tell you this: writing a shorter piece of great precision is
+more difficult than writing a longer, more relaxed and wandering work.
+In the context of smaller projects every word is on display and under
+scrutiny, whereas in longer works the sheer bulk of the material tends
+to hide various flaws. Melville, in fact, is a good example of this.
+
+You may write short narratives in this course, but please do not write
+short form as a means of avoiding work. You will know, I will notice,
+and neither of us will be happy. Instead, make your work as long as it
+needs to be. If you compose a lovely, resonant, short piece, you will
+receive an excellent evaluation. But as I said, writing shorter pieces
+is actually more difficult.
+
+With reference to good, short pieces, I suggest (strongly) looking at
+the poetry of W.S. Merwin, his lovely un-punctuated poetry in which
+the bare words embody some strange and familiar light. Here's an
+example of what I mean:
+
+\begin{verse}
+Why did he promise me\\
+that we would build ourselves\\
+an ark all by ourselves\\
+out in back of the house\\
+on New York Avenue\\
+in Union City New Jersey\\
+to the singing of the streetcars\\
+after the story\\
+of Noah whom nobody\\
+believed about the waters\\
+that would rise over everything\\
+when I told my father\\
+I wanted us to build\\
+an ark of our own there\\
+in the back yard under\\
+the kitchen could we do that\\
+he told me that we could\\
+I want to I said and will we\\
+he promised me that we would\\
+why did he promise that\\
+I wanted us to start then\\
+nobody will believe us\\
+I said that we are building\\
+an ark because the rains\\
+are coming and that was true\\
+nobody ever believed\\
+we would build an ark there\\
+nobody would believe\\
+that the waters were coming\\
+\end{verse}
+
+The three written compositions are worth 25 per cent each of your
+final grade.
+
+\subsection{Group Presentations}
+
+Each learner will be a member of three different peer groups; each
+peer group will present a total of ten mini-presentations (roughly ten minutes each) on various mythological motifs and characters. Each
+class session will involve nine presentations, with one presentation
+from each group. This means that each learner will be involved in
+three short presentations each session. Class time will be given for
+preparing the presentations. The structure and content of the
+presentations will be discussed in class.
+
+The group presentations are worth a total of 25 per cent of your grade.
+
+\subsubsection{Evaluation of Assignments and Presentations}
+My primary focus, as an instructor, is to assist you in developing
+your creativity. Grades are quite far down on the list of priorities
+for me. I am focused on your engagement with the process, your
+commitment to your own work, the extent to which you show up,
+metaphorically, to be as present as you can be. These are evaluation
+criteria for me.
+
+My own criteria will be blended with the evaluation guidelines from
+the creative writing program, which are directed more toward craft and
+articulated below:
+
+\begin{description}
+
+\item[$80-100$] Excellent: the use of language is pleasing and
+vigorous. The writing invites reading; the work is well-crafted and
+grammatically flawless. The author is perceptive.
+
+\item[$76-79$] Very good: the use of language is generally correct.
+There may be a need for further editing. This could be in the
+presentation of the work (style, voice, characterisation, plot,
+point of view), or in the language (diction, grammar, usage,
+spelling, punctuation)~-- but the writing is involving.
+
+\item[$72-75$] Good: the author has created a manuscript with
+substantial content and without any serious errors in tone or
+narration. Problems with creative shaping and delivery may occur,
+and there may be a further need for learning the mechanics of
+language use, but generally, the problems do not interfere with the
+reader's appreciation of the work.
+
+\item[$68-71$] Manuscripts with repeated errors in grammar, usage or
+punctuation will result in a grade of no higher than 71 regardless
+of the proficiency and imagination demonstrated in the creative
+aspects of the work. On the other hand, manuscripts with no problems
+in grammar, usage or punctuation may not receive a grade higher than
+71 if they fail to demonstrate an understanding of the challenges
+(of style or voice, for example) involved in writing in the genre.
+
+
+\item[$64-67$] Satisfactory: this writing shows constrained use of language
+(either in the creative shaping and delivery of content or in
+repeated errors in grammar punctuation, diction and usage), and the
+treatment of the material has not resulted in sufficient depth. The
+writing is potentially interesting, and a revision may improve the
+manuscript.
+
+\item[$60-63$] This meets the minimum criteria of the assignment
+without in any way exceeding it. There are repeated errors such as
+spelling mistakes, sloppiness or a lack of depth to the writing.
+
+
+\item[$56-59$] Below average: the writing is difficult to read because
+of inappropriate delivery or repeated grammatical errors or both.
+Furthermore, the idea may not be appropriate for the form. This
+grade does not permit learners to pursue another course for which
+the graded course was a pre-requisite.
+
+\item[$50-55$] Fail: the author fails to understand the nature of
+creative writing or has not tried.
+
+\end{description}
+
+\subsection{Attendance and Participation}
+The expectation is that you will attend all sessions and involve
+yourself in the class process. Your willingness to engage creatively
+with the learning process, to take appropriate personal risks, and to
+participate in group activities are all central to your involvement in
+this class. Because developing a style of creative writing is very
+much a process of blending your own personal awareness with skills and
+practical techniques, your own emotional involvement in the class is
+as important as your academic knowledge of the material.
+
+\subsection{Grade Inflation}
+Almost every semester there are learners who do well on the
+assignments, complete all the associated learning goals of the course,
+participate well, and wonder why they do not receive a grade of one
+hundred percent (or 98, anyway). Here is the reason: almost every
+semester there are learners who demonstrates a level of commitment
+that goes beyond the course requirement. Such learners complete extra
+work, or hand in exemplary assignments, or undertake a significant
+amount of personal development in addition to the course expectations.
+Such learners typically receive the highest grades.
+
+If you do reasonably well in the course you will receive a reasonable
+grade. Very high grades are intended for extra or exemplary work.
+Unfortunately, over the past thirty years the post-secondary
+educational system in North America has participated in a process of
+grade inflation. Since the 1980's, the average grade for typical
+course work has been increasing by about 25 per cent each decade.
+Elevated assessments do not accurately reflect the work of most
+learners. Even worse, grade inflation has caused many learners to
+expect high grades for average work. I am not a particularly stringent
+assessor; but I will not inflate grades artificially.
+
+The grades for the course will be distributed along a curve, with a
+small number of learners (likely) receiving high grades, most learners
+receiving grades in the middle range, and a few learners struggling
+with lower grades. If you are uncertain about your assessment for a
+given assignment, or if you wish to know where, roughly, you are along
+the distribution curve of the class, or if you would like suggestions
+for how to improve your grade, please ask me for clarification.
+
+\section{Class Schedule}
+The class structure involves 14 sessions. These sessions will be
+balanced between presentations (by the instructor and learners)
+academic material, group collaboration, and composition. The content
+for each session will evolve as the semester progresses. We will cover
+the following themes (though, perhaps not in the order listed below):
+\\
+\begin{itemize}
+
+\item [\textit{The Nature of Myth.}] Definitions of mythology (a body of myths) and mythopoetic (the making of myths). Clarifications of common misunderstandings about myth (e.g. that myths are false, or that myths obfuscate factual information). An introduction to myths as carriers of cultural knowledge in the arts and sciences. Consideration of myths as versions of truth and as effective containers for sacred, social, political, or scientific information (e.g. in ancient astronomy and contemporary religion). Examination of myth-making as a fundamental and necessary function of human nature. Consideration of the persistence of the myth-making function and its role in the contemporary world (e.g. the mythologies evolving around 9/11).
+Examination of the relationship between myth and truth.
+
+\item [\textit{Myths of Ancient Sumer and Egypt.}] Introduction to the historical background of the origins of Western mythology and literature. Explication of Sumerian and Egyptian world views, with particular emphasis on spirituality, mythological concepts, and approaches to the imagination. Reading of excerpts from core Egyptian and Sumerian texts, with particular emphasis on myths that form the foundation of the literatures of the West. Examination of the ways in which science and mythology were entwined in the practices and perspectives of the ancient Egyptians and Sumerians. Introduction to Egyptian hieroglyphic, the most elaborate writing system ever developed, and the role of hieroglyphs in the transmission of myth. Exploration of the transmission of Sumerian and Egyptian mythological ideas into the contemporary world (e.g. the eye on the American dollar bill).
+
+\item [\textit{Greek Influences.}] Exploration of the transmission of myth from the Sumerians and Egyptians to the Greeks. Explication of Greek adaptations of and contributions to myth, with emphasis on the traditions of philosophy and theatre. Reading of selected Greek literary and mythological texts. Examination of the ways in which science and mythology were entwined in the practices and perspectives of the Greeks. Examination of the ways in which Greek texts subsequently influenced the development of European literatures.
+
+\item [\textit{Myths of China, Japan, and India.}] Introduction to the historical background of the origins of Eastern mythology and literature. Explication of ancient Chinese, Japanese, and Indian world views, with particular emphasis on spirituality, mythological concepts, and approaches to the imagination. Exploration of the possible connections between ancient Indian myths and those of ancient Egypt and Sumer, with particular focus on Kundalini yoga. Reading of excerpts from ancient Chinese, Japanese, and Indian mythological texts, with particular emphasis on myths that form the foundation of the broader literatures of Asia. Exploration of the transmission of ancient Chinese and Indian mythological ideas into the contemporary world (e.g. Confucianism and Taoism in modern Asian business practices, and the Tibetan world view).
+
+\item [\textit{Shamanic Myths and Cultures.}] Introduction to the mythologies of ancient aboriginal cultures from Canada, Australia, Africa, Southeast Asia, and South America. Introduction to the mythologies of contemporary aboriginal cultures from Canada, the United States, Australia, New Zealand, Africa, Southeast Asia, and South America. Explication of the shamanic world view, with particular emphasis on spirituality, mythological concepts, and approaches to health and healing. Reading of excerpts from transcriptions of ancient and contemporary shamanic myths, poems, and songs. Exploration of the transmission of ancient shamanic myths, by means of epic poems and songs, into the contemporary world (e.g. the art of the aboriginal peoples of the Northwest).
+
+\item [\textit{Europe and the Middle East.}] Introduction to the transmission and adaptation of ancient myth in the European cultures of the Common Era. Exploration of the Hermetic traditions, the rediscovery of ancient texts, and the influence of these developments on European art and literature after 1500 CE. Examination of the integration of science and mythology in the development of the intellectual and political traditions of Europe and North America (e.g. the Washington Monument and the ground plan of the Mont-Royal neighbourhood in Montreal). Introduction to the Grail mythologies and their foundation role in Western literature from 1500 CE to the present. Reading of excerpts from the mythological texts of Europe and the Middle East. Examination of European myths and their relevance to contemporary politics, sports, entertainment and pop culture in Canada.
+
+\item [\textit{The Psychology of Mythology.}] Introduction to the tradition of twentieth century myth scholars (Carl Jung, Joseph Campbell, Mircia Eliade) and their attempts to integrate all myths into a single continuum of human inquiry and expression. Reading of selected texts by Jung, Campbell, and Eliade. Examination of the relationship between myth and personal psychology (e.g. dreams). Exploration of the psychological models used by scholars to describe the underlying impulses and functions of myths (e.g. the collective unconscious). Consideration of the myths of individuality, the psychological functions that derive from these, and the interplay between personal and social mythologies. Consideration of the necessity of myths and of the development of new myths.
+
+\item [\textit{Mythopoetics in Contemporary Arts and Literature.}] Examination of the many ways in which myths pervade contemporary literary and creative traditions. Reading of selected contemporary and mythological texts from the genres of fiction, non-fiction, and poetry. Consideration of the ways in which myths are conjoined, truncated, and adapted for contemporary readers. Introduction to the artist as a mythological figure (the trickster), and to the mythological role of the artist in contemporary society. Exploration and application of mythopoetic writing strategies.
+
+\item [\textit{Mythology in the Contemporary World.}] Consideration of current personal myths, familial myths, cultural myths, and world myths (e.g. myths of apocalypse, myths of the United States as the gunslinger, the myth of Canada as the North). Examination of popular myths, controversial myths, and myths which have persisted for hundreds or thousands of years essentially unchanged. Reading of excerpts from contemporary mythological texts in the political and social spheres. Exploration of the contemporary role of myth in world politics, religion, and spirituality. Consideration of the future directions of myth in literature, culture, and human nature.
+
+\end{itemize}
+\newpage
+
+\section{Sample Composition One\\ (by your Instructor):\\ The World Tree}
+
+South of the riverbend, twenty minutes along a trail fringed with pink
+flowers of hardhack and gangly stalks of sweet gale, the World Tree
+stands against a spring sky. Through a lattice of dark branches
+restless with vigor, nomadic flecks of blue sweep toward the horizon.
+An eagle rides a crest of sea air, glances down, then spirals away.
+Underfoot, the ground is damp, yielding. A long skein of root twists
+out from the great trunk, meanders toward a bristled head of
+cottongrass. The bole of the tree is broad; black furrows streaked
+with umber climb skyward along its body. High up, a rustling brown
+blur -- squirrel -- cracks a narrow branch. The quick trill of a robin
+sounds nearby. Here, within earshot of the encroaching highways of
+suburban Vancouver, myth and dream and the rhythm of day collide in
+the slow unfurling of the world. 
+
+The low branches of this ancient black spruce -- sweeping upward like fractured tusks, riddled with worm tracks -- are the steps of an ancient ladder into the sky. Twenty feet up, a canopy of moss hangs from encircling boughs over the quiet clearing. The air breathes, exhales with the tang of Labrador tea. The World Tree, resting here in a glade at the edge of the bog, is the true axis of the earth. It extends from an unfathomable root in the underworld, through a trunk scaled like dragon-hide, turbulent as smoke, and reaches, with new and tender shoots, upward. A shimmering and deathless bird perches, vigilant, at its peak. It was here, beside the pool of memory and prophecy at the base of the tree Yggdrasil, that Odin surrendered his one eye in exchange for a single drink from the well. Even now, a pool of dark, standing water lies at the bottom of a hollow between two intertwined roots. The hole is lined with black soil. A small blueberry leaf spins slowly in the water.
+
+The roots snake together at the base of the trunk. I follow them toward the mottled bark, looking for the spot where Odin hung on the tree, pierced by his own spear, for nine days listening and learning the vanished dream-songs of the earth. The rumble of a passing truck, too loud and too close in the afternoon air, reminds me how fragile, how precarious is the solace of this place. Burns Bog is the largest urban wilderness in North America. Its eventual fate -- as park, industrial sprawl, or garbage dump -- lies hidden in a labyrinth of divergent aims: community, business, government. The secret of its preservation ripples beneath the surface of the well. In Norse myth, Yggdrasil will be destroyed by a fiery sword during the final battle of the world. The earth will descend into the primordial sea. Yet one small forest will remain, Hodmimir, preserved by Lif and Lifthrasir, whose names mean ``life'' and ``eager for life.'' They are the inheritors of an unshadowed world rising from the waters of tumult.
+
+I trace my fingers over the trunk, lost in old tales: the twilight of
+gods, a scorched and blackened tree, a luminous eye searching for
+wisdom. And one forest, a delicate landscape snatched from ruin. A
+droplet of clear sap hovers at the edge of a deep wrinkle in the bark.
+I taste it: sweet, like sugarcane, but with a spreading warmth. 
+
+The hinge of the world creaks around the trunk of this tree of storms.
+The surrounding bog, with its forest ramparts hiding ghost cougars and
+startled deer, is an archetype of all ancient and sacred places.
+Through their preservation, we drink from the ancestral well. Long
+draughts of memory, belonging, and sustenance. The trail curves back
+from here, toward the service road and the tractor sunk in the mud. I
+look up. The sun has drifted across the shell of the sky. Amber rays
+lengthen along the trunk of the World Tree. I turn and follow the
+path. The peat shivers as I move across it, pulsates with the rhythm
+of my steps. A pair of sparrows flits through the underbrush. They
+disappear behind a curtain of bracken ferns and emerge, darting and
+jubilant, on the other side. Life, and eager for life.
+
+\newpage
+\section{Sample Composition Two\\ (by your Instructor):\\Myths of the Primordial Waters}
+
+Plato wrote that the past is like the wake behind a boat; it spreads,
+and diminishes behind us, and merges with the surrounding sea. The
+past rolls under and is gone.
+
+We stand upon the foredeck of Plato's boat, gazing forward, cleaving
+our path toward the future. Along the track of our traveling many
+things are lost -- because we are always searching ahead, because the
+wake is jostling and turbulent, because our craft is small and the
+ocean is vast.
+
+It is by means of this manner of journeying into the future that our
+knowledge of ancient peoples is vanishingly small. We know a fair
+amount about the last thousand years of our history, we surmise a
+sketch of the thousand years before that -- and of the remote ages
+before that, we know very little. Snatches, really, vignettes gathered
+from scattered documents and fragmentary tales. For the great majority
+of the history of modern humans -- a hundred thousand years, two
+hundred thousand, no one knows -- we understand almost nothing. Along
+our own coasts, which once were at lower altitude than they are now,
+ancient villages lie hidden beneath the wake of passing boats above.
+
+And yet, old stories have been handed down from that long, invisible
+stretch of years: fables, epics, mythologies of archaic and unknown
+origin. Among those ancient tales is a set of related motifs, from
+many cultures, that tell of seafarers who found their way to distant
+shores. In China, Polynesia, Japan, Egypt, Africa, Scandinavia -- in
+most places bordered by the sea -- we find fantastic tales of oceanic
+travel. On our own coasts -- in Haida Gwaii, and along the sheltered
+eastern shore of Vancouver Island, and inland all the way to the
+Kootenays -- similar stories are told of those who came long ago, and
+lived upon the land, and vanished.
+
+For at least a century, since archaeology and anthropology became
+sciences based on hard evidence, such cultural tales have been
+dismissed as folklore and wishful thinking. The evidence simply did
+not support the stories. The timelines claimed by various cultures
+seemed inconsistent with what was surmised about technologies and
+methods from various historical and pre-historical periods. The ruins
+of ancient sites could not be found (near Atlin, for example, or near
+Telkwa, both sites where aboriginal tales describe cities of utmost
+antiquity). The longevity of known sites could not be established from
+existing data (the Nanaimo petroglyphs, for example). Eventually, the
+scientific consensus was that the claims of myth were just that:
+imagined tales, with no actual basis.
+
+But within about the last decade, a wealth of new evidence challenges,
+and will likely soon overturn, traditional scientific views concerning
+human migration in the ancient world. The emerging data comes from
+various fields: genetics, archaeology, anthropology, linguistics, and
+the developing field of archaeo-astronomy. Working sometimes in
+concert and other times in conflict, these fields are leading us
+through a fundamental paradigm shift in our perspective of the past.
+
+The history of science consistently confirms something we easily
+forget: that most of our certainties will turn out to be wrong. What's
+turning out to be wrong at the moment is our conception of the
+peopling of the Americas. The standard theory -- the Bering land
+bridge, ice-free corridors, southward migration -- has begun to give
+way to a more nuanced and complex view involving multiple waves of
+ancient immigrants arriving at different times and by disparate means.
+
+Debates and developments within the scientific community typically
+take place in closed meetings at universities and at conferences not
+attended by the general public. But the conversation about ancient
+migration has become very public since the 1996 discovery of a
+skeleton known as Kennewick Man. He was found on the banks of the
+Columbia River, in Washington State, by a pair of spectators watching
+hydroplane races. Initially, local aboriginal groups claimed him as
+one of their own; an ancestor, perhaps a fallen warrior from long ago.
+
+But archaeologists who studied Kennewick Man found a curious thing: he
+is not aboriginal. His remains are old -- approximately 9,300 years
+old -- but he is not an ancestor of any current aboriginal population.
+In fact, he's Asian. He may be an ancestor of modern Pacific
+Islanders, or of the Ainu people of northeast Asia. In either case, he
+traveled here more than ten thousand years ago, likely with a small
+population of others like him who made their careful way inland and
+across the Pacific Northwest.
+
+Kennewick Man is not the only oddity of the ancient human landscape.
+Many so-called anomalous remains and sites have been found in both
+North and South America: Monte Verde, for example, in Chile, and the
+entire collection of colossal stone remains in Mexico known as the
+Olmec culture. Along British Columbia's Inside Passage, near the
+Yuculta rapids, stone sculptors carved somber faces into twenty-six
+granite boulders on the shore, more than at any other site on the
+Pacific coast. The carvers are long gone, vanished but for these stone
+traces of mystery.
+
+As the number of anomalies has accumulated, the trajectory of the
+scientific conversation has changed too: from dismissal, to caution,
+to contention, and finally to a new consensus. That final, new
+consensus has not yet fully emerged, but its basic elements are
+already in place: many groups of migrating people came to North and
+South America -- ten, twenty, perhaps as much as thirty thousand years
+ago -- in separate and commingling waves of odyssey, exile, and
+accident.
+
+And how did they come? By boat.
+
+Imagine those ancient mariners, navigating by the stars, uncertain of
+their destination, traveling in what might have been open canoes or
+out-rigged rafts or makeshift kayaks. No compass, no map, no
+protection against the sea's indifference. Nothing but sheer guts and
+necessity.
+
+They came at different times and, no doubt, by varying means: from
+Japan, Russia, Southeast Asia, Polynesia (likely from Europe, as
+well). They established settlements here, lived upon the land for some
+stretch of time, then disappeared. Perhaps they were subsumed into
+existing or descendant groups. Perhaps most of them were wiped out by
+an asteroid impact 13,000 years ago (as one recent theory suggests).
+But no one knows. The descendants of the original, pre-migration
+peoples still exist in Japan, Russia, and Polynesia. They are the
+Ainu, the Jomon, the Polynesians; and they are still here, thousands
+of years after small clusters of their people sailed across the sea.
+
+The puzzle of the most archaic groups is deepened by the fact that sea
+levels are now as much as 30 metres higher than they were 10,000 or
+more years ago. Villages that once lay at the seaside are now long
+immersed, swept by the amnesia of the waters, erased beneath Plato's
+persistent wake.
+
+However, anomalous underwater stone sites have been found in Japan,
+Cuba, Malta, Egypt, and elsewhere. After the 2004 Indian Ocean
+earthquake, stone artifacts from an ancient and fabled submerged city,
+once dismissed by archaeologists as mythological, were washed up on
+the beach by the force of the tsunami. These artifacts include
+six-foot high statues of the head and shoulders of an elephant, a
+horse in flight, and a reclining lion.
+
+In Haida Gwaii, traditional myths tell of the ancient rise of the sea,
+of ice floes moving across the land, of sudden and drastic upheavals
+that transformed the islands. And those Haida myths also speak of an
+earlier people, now gone, who inhabited that mystic place long ago,
+and of whom nothing is now left but ghosts.
+
+Those ghosts take many contemporary forms: the sea-wolf petroglyph
+south of Nanaimo, the unique Christina Lake petroglyph, the funereal
+mound at Keremeos, the persistent tales of the fabled city of
+Dimlahamid in northern British Columbia, between the Bulkley and
+Skeena rivers. And Kennewick Man, of course, who may have known, when
+he was alive, the meaning of the stone sculptures at Yuculta, or might
+himself have carved images into stones scattered across a river delta.
+His people were here, after all -- in what is now Vancouver, and
+Victoria, and inland by way of the rivers -- and the settlements of
+our people today are laid over those of his people by thousands of
+years of rainfall, wind, and memory.
+
+And yet the ancient evidence swells, and spreads, and cannot be laid
+to final rest: scattered human remains, colossal in their age;
+Polynesian chicken bones found in Peru; genetic anomalies among
+various cultural groups (the Scots, for example, may be descended from
+ancient seafaring Egyptians).
+
+The old boats are gone, of course, long undone by the alchemy of salt
+water on wood. But the tales remain, and have not surrendered their
+claims of authenticity. And now, finally, science is coming forward to
+meet the mythological narrative. The new and shared story, woven
+together by the threads of both science and cultural memory, is this:
+
+No single people came first to the Americas, but instead many came, in
+small sorties and great armadas, during a period of human history
+about which we are profoundly ignorant. Before the Ice Age and after
+it they arrived, and made homes for themselves, and left only the tiny
+traces typical of the human story. Their cultures appeared and
+vanished again (as our cultures will also).
+
+These disparate groups were united by the sea, the great trackless
+track that challenged and delivered them. The mariners of today are
+the descendants, in spirit, of those early nomads who first harnessed
+the wind. We pass over their graves, somewhere between the shore and
+the deep water. Watch for that place -- 30 metres of depth -- and
+recognize, as you pass over that line, the legacy you inherit: love of
+the wide waters, the quest for adventure, the longing for what lies
+over the horizon. These are the gifts of the vanished peoples, whom we
+will never know except by the ways in which we are stirred, even now,
+by their ancient dreams.
+
+\newpage
+\subsection{Sample Lecture Notes}
+\textit{Personal Psychology and the Creative Process}
+
+Late in \textit{Heart of Darkness}, after Marlow has meandered deep
+into the jungle but before he meets Kurtz, who utters his now-famous
+judgement upon human nature, ``The horror! The horror!'' -- before
+this, the most famous scene in twentieth century literature, Marlow
+finds himself making necessary repairs to the ship. He ruminates on
+these activities as distractions from the shadows around him, from the
+haunting underbelly of his own nature that he sees in the wilderness
+around him, in the passionate abandon of the local tribes-people.
+Here's the full passage:
+\begin{quotation}
+The earth seemed unearthly. We are accustomed to look upon the
+shackled form of a conquered monster, but there -- there you could
+look at a thing monstrous and free. It was unearthly, and the men
+were -- No, they were not inhuman. Well, you know, that was the
+worst of it -- this suspicion of their not being inhuman. It would
+come slowly to one. They howled and leaped, and spun, and made
+horrid faces; but what thrilled you was just the thought of their
+humanity -- like yours -- the thought of your remote kinship with
+this wild and passionate uproar. Ugly. Yes, it was ugly enough; but
+if you were man enough you would admit to yourself that there was in
+you just the faintest trace of a response to the terrible frankness
+of that noise, a dim suspicion of there being a meaning in it which
+you -- you so remote from the night of first ages -- could
+comprehend. And why not? The mind of man is capable of anything --
+because everything is in it, all the past as well as all the future.
+What was there after all? Joy, fear, sorrow, devotion, valour, rage
+-- who can tell? -- but truth -- truth stripped of its cloak of
+time. Let the fool gape and shudder -- the man knows, and can look
+on without a wink. But he must at least be as much of a man as these
+on the shore. He must meet that truth with his own true stuff --
+with his own inborn strength. Principles won't do. Acquisitions,
+clothes, pretty rags -- rags that would fly off at the first good
+shake. No; you want a deliberate belief. An appeal to me in this
+fiendish row -- is there? Very well; I hear; I admit, but I have a
+voice, too, and for good or evil mine is the speech that cannot be
+silenced. Of course, a fool, what with sheer fright and fine
+sentiments, is always safe. Who's that grunting? You wonder I didn't
+go ashore for a howl and a dance? Well, no -- I didn't. Fine
+sentiments, you say? Fine sentiments, be hanged! I had no time. I
+had to mess about with white-lead and strips of woolen blanket
+helping to put bandages on those leaky steam-pipes -- I tell you. I
+had to watch the steering, and circumvent those snags, and get the
+tin-pot along by hook or by crook. There was surface-truth enough in
+these things to save a wiser man.
+\end{quotation}
+
+Marlow employs seamanship as a kind of shield against the chaos,
+against the frightening shapes of his inner life. After all, he is a
+civilized man, an Englishman, for whom the shadow must be contained.
+Marlow is a sailor, one who traverses the waters but remains above
+them. Writers, conversely, are involved in plumbing those depths, in
+encountering their lights and shadows, in struggling with the full
+breadth of human propensity.
+
+But we distract ourselves too, and the most common method of doing
+this is to allow the electronic world to continually divert us from
+the blank page and blinking cursor. Email alerts, news feeds, blogs:
+there is enough distraction in these things to doom the wisest writer.
+We must go into the darkness, into the bardo, to discover our
+treasures. That we often have difficulty doing so is, in part, due to
+the persistent emphasis of our environment upon the facile and the
+transient and the ephemeral. Always an update, a flashing notice, a
+clamoring icon which seems to confirm our importance -- but in fact
+belies our addiction to the inconsequential.
+
+Writers have not been well-served by technology since about 1990, when
+the last console versions of \textit{WordPerfect\/} showed us a black
+screen upon which a small, blinking cursor waited patiently for us to
+dive into the waters. Since the advent of graphical user interfaces,
+the blackness has been hidden, has been replaced by smilies and floral
+wallpaper and pastel icons. I'm not against the \textsc{GUI}; but for
+writing, it's a serious impediment, the modern equivalent of Marlow's
+leaky steam pipes.
+
+The confrontation with what lies behind, or beneath, or hidden, is the
+essence of all good writing. And whether one perceives that
+hidden-ness as darkness, as Conrad did, or as a terrifying whiteness,
+as did Melville, the mystery is the same. Here's Melville describing
+the peculiar terror evoked by the whiteness of the whale:
+\begin{quotation}
+Is it that by its indefiniteness it shadows forth the heartless
+voids and immensities of the universe, and thus stabs us from behind
+with the thought of annihilation, when beholding the white depths of
+the milky way? Or is it, that as in essence whiteness is not so much
+a colour as the visible absence of colour; and at the same time the
+concrete of all colours; is it for these reasons that there is such
+a dumb blankness, full of meaning, in a wide landscape of snows --
+a colourless, all-colour of atheism from which we shrink? And when
+we consider that other theory of the natural philosophers, that all
+other earthly hues -- every stately or lovely emblazoning -- the
+sweet tinges of sunset skies and woods; yea, and the gilded velvets
+of butterflies, and the butterfly cheeks of young girls; all these
+are but subtile deceits, not actually inherent in substances, but
+only laid on from without; so that all deified Nature absolutely
+paints like the harlot, whose allurements cover nothing but the
+charnel-house within; and when we proceed further, and consider that
+the mystical cosmetic which produces every one of her hues, the
+great principle of light, for ever remains white or colourless in
+itself, and if operating without medium upon matter, would touch all
+objects, even tulips and roses, with its own blank tinge --
+pondering all this, the palsied universe lies before us a leper; and
+like wilful travellers in Lapland, who refuse to wear coloured and
+colouring glasses upon their eyes, so the wretched infidel gazes
+himself blind at the monumental white shroud that wraps all the
+prospect around him. And of all these things the Albino whale was
+the symbol. Wonder ye then at the fiery hunt?
+\end{quotation}
+
+The writer approaches mystery by way of the white page or the black
+screen. That is our task, nothing more. Not to explain the mystery, or
+to resolve it, or to erase it; but to encounter it, struggle with it,
+allow it to enter and change us. This will not happen, cannot happen,
+if we are checking our emails and news feeds all day long. We must sit
+in silence, waiting for the mystery to descend.
+
+\clearpage
+
+
+\chapter{Health Psychology}
+
+\section{Course Intention}
+
+This course explores the relationship between mind, body, heart and spirit as expressed through diverse healing traditions and cultures. It examines the meaning of health and the role of the health practitioner (or healer), with particular emphasis on self-awareness. In addition to studying and practising current Western practices and philosophies of health (psychophysiology, psychoneuroimmunology, somatics, etc.) learners will become familiar with various cross-cultural healing modalities: Tai Chi, Chi Kung, meditation, spiritual approaches, Creative Process and the shamanic path. Throughout the course we will hold a single question: what is health?
+
+\subsection{Learning Goals}
+
+\begin{itemize}
+
+\item To examine a central question of the meaning of health (from the perspective of the individual, group, family and culture) and by extension the nature and meaning of disease or pathology.
+
+\item To become familiar with current applications of psychophysiology, psycho-neuroimmunology, epidemeology, somatics and stress management within the emerging landscape of mind-body research.
+
+\item To explore ancient and non-western healing practices, particularly those of China and India, with an emphasis on understanding the role of culture in health and healing.
+
+\item To examine the relationship between health and the spirit through familiarity with indigenous cultural approaches as well as the healing practices of various spiritual traditions.
+
+\item To study the birth and death processes (from afar) and their role in life, paying attention to issues of grieving, of power, of transformation and of meaning.
+
+\item To develop, for each participant, a personal view of the Creative Process involved in health and healing; a sense of the connection between health and life path, a perspective on the play between light and shadow.
+
+\end{itemize}
+
+\subsection{Learning Experiences}
+
+\begin{itemize}
+\item Regular attendance (missing classes will impact one's evaluation).
+
+\item Class participation in an honest and experiential way.
+
+\item Completion of personal healing practice (see Demonstration, below).
+
+\item Completion of the course readings and assignments (see Demonstration, below), using APA format for the research paper.
+
+\end{itemize}
+
+\subsection{Demonstration and Assessment of Learning}
+
+The expectation is that you will attend all sessions and involve yourself in class discussions. Your willingness to engage creatively with the learning process is of primary importance, not your ability to quote passages from the textbooks (although I will be impressed if you can do this\ldots). Because developing a health counselling style is very much a process of blending your own personal awareness with skills and practical techniques, your own emotional involvement in the class is as important as your academic knowledge of the material.
+
+The path of health and wholeness is rich and meaningful. As such, each participant will be asked to choose a specific healing practice to work on throughout the course and comment upon in a journal (handed in at the midpoint and end of the course). Good health and healing skills, as in many other endeavours, arise from our own self-awareness and ability to be self-reflective. This project is designed to give you an opportunity to consider your own involvement in the process as an academic learner and as an experiential learner. As you practice, take the time to write your thoughts feelings, sensations or insights into the journal. Please try not to write all your entries in the week the project is due. If you have trouble finding things to write about, here are some themes to consider:
+
+\begin{itemize}
+\item What has been your experience of health and illness and how is that experience mirrored by your current practice?
+
+\item Can you identify any themes or patterns that have emerged for you as a result of your experience?
+
+\item What kind of a framework for approaching health and healing do you have now, both personally and professionally?
+
+\item From a professional standpoint, where do you see your greatest challenges in terms of helping clients heal?
+
+\item Do you make any connection between your professional challenges and your prior personal experience with health and illness? If so, which aspects of healing work do you think you might tend to avoid as a result of your own background?
+
+\item Feel free to utilize your own creativity and innovation and to augment your journal with other media such as art, music or video.
+
+\end{itemize}
+
+
+\subsection{Research Paper}
+
+A research paper is also required, offering a means of balancing the personal insights of the journal with scholarly research. Choose a specific healing practice or aspect of health philosophy and take the time to explore it in further depth, completing further readings and citing appropriate references following the APA style. The paper should be 10 to 15 pages in length, double-spaced, with at least 4 references from the field (books or articles). You may choose to explore one of the approaches from class or, with permission of the instructor, a field of your own interest. Feel free to utilize your own creativity and innovation. If you like, you can augment your paper with other media such as art, music or video.
+
+\subsection{Group Presentations}
+
+Each participant will help develop a group presentation to be completed in session 4 or 5. Select one of the approaches covered in class (or, with prior instructor approval, another of your own choosing) and refine your learning of that area, presenting your insights to the group. You may also interview a health practitioner or someone who is on a healing journey and present your conclusions. In addition, hand in a one page summary of your presentation or a reference bibliography.
+
+\subsection{Self-Assessment}
+
+A written self-assessment of your learning experiences is required. This gives you an opportunity to synthesize your insights, both personally and professionally, and to reflect on your relationship with health and healing. The self-assessment should be approximately 3 to 5 pages, double-spaced.
+
+\subsection{Sample Session Topics}
+
+\begin{itemize}
+
+\item [\textit{The Body of Inquiry.}]
+Warm-up. Mindfulness and movement exercises. Chi Kung. Group discussion: What is health? What is healing? What is illness or pathology? What do symptoms mean? What is the role of culture and family in defining health? Can there be healthy disorder? Experiential practice. 
+
+\item [\textit{The Body of Science.}]
+Opening practice: mindfulness meditation. Overview of western approaches to health: psychoneuroimmunology, stress management, etc. Overview of psychophysiology, childhood development, birth as a stress imprint, environmental issues, epidemeology and the immune system.
+
+\item [\textit{The Body of Energy.}]
+Opening practice: Chi Kung, microcosmic orbit. Asian approaches to health and healing: Tai Chi, Chi Kung, the soft martial arts. Taoist practices and philosophy. Chinese medicine. Five element theory. Selections from the Tao Te Ching.
+
+\item [\textit{The Body of Light and Shadow.}]
+Opening practice: ritual of embodiment. Shamanic approaches to health and healing. The spiritual dimensions of healing. Death, grieving and transformation. The duende.
+
+\item [\textit{The Formless Body.}]
+Opening practice: Creative Process. Creative approaches to health and healing: movement, dance, storytelling, poetry, film, art, gardening, woodworking, etc. Nature as healer. Presentations. Back to the question: what is healing?
+
+\end{itemize}
+
+\chapter{Academic Referees}
+
+\section*{}
+
+\begin{flushleft}
+Linda Schwartz,\\
+Dean of Humanities\\
+Kwantlen Polytechnic University\end{flushleft}
+
+\vspace{\baselineskip}
+
+\begin{flushleft}
+
+Sara Menzel,\\
+Coordinator, Counselling Programs\\
+Vancouver Community College
+
+\end{flushleft}
+
+\vspace{\baselineskip}
+
+\begin{flushleft}
+
+Ned Farley,\\
+Chair, Mental Health Counseling Program\\
+Chair, Integrative Studies Program\\
+Faculty, Psy.D. Program\\
+Center for Programs in Psychology\\
+Antioch University Seattle\\
+
+\end{flushleft}
+
+\chapter{Transcripts}
+
+A complete set of all my transcripts is on file at Kwantlen.
+
+
+
+\end{document}
+%%% Local Variables:%%% mode: latex %%% TeX-master: t %%% End: 

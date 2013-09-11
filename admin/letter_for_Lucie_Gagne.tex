@@ -1,0 +1,66 @@
+    %!TEX TS-program = xelatex
+    %!TEX encoding = UTF-8 Unicode
+    \documentclass[10pt, letterpaper]{article}
+    \usepackage{fontspec}
+    \usepackage{placeins}
+    \usepackage{multibbl}
+    \usepackage{graphicx}
+    \usepackage{hieroglf}
+    \usepackage{txfonts}
+    \usepackage{geometry}
+    \geometry{letterpaper, textwidth=5.5in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in}
+    %\setlength\parindent{0in}
+    \defaultfontfeatures{Mapping=tex-text}
+    \setromanfont [Ligatures={Common}, SmallCapsFont={ITC Officina Serif Std}, BoldFont={ITC Officina Serif Std Bold}, ItalicFont={ITC Officina Serif Std Book Italic}]{ITC Officina Serif Std Book}
+    \setmonofont[Scale=0.8]{Lucida Sans Typewriter Std}
+    \setsansfont [Ligatures={Common}, SmallCapsFont={ITC Officina Sans Std}, BoldFont={ITC Officina Sans Std Bold}, ItalicFont={ITC Officina Sans Std Book Italic}]{ITC Officina Sans Std}
+    % ---- CUSTOM AMPERSAND
+    \newcommand{\amper}{{\fontspec[Scale=.95]{StoneSansStd-MediumItalic}\selectfont\itshape\&}}
+    % ---- MARGIN TASK (year, task, etc.)
+    \newcommand{\task}[1]{\marginpar{\small #1}}
+    \usepackage{sectsty}
+    \usepackage[normalem]{ulem}
+    \sectionfont{\sffamily\mdseries\upshape\Large}
+    \subsectionfont{\sffamily\mdseries\scshape\normalsize}
+    \subsubsectionfont{\sffamily\mdseries\upshape\normalsize}
+    \usepackage[dvipdfm, bookmarks, colorlinks, breaklinks, pdftitle={Ross A. Laird},pdfauthor={Ross A. Laird}]{hyperref}
+    \hypersetup{linkcolor=blue,citecolor=blue,filecolor=black,urlcolor=blue}
+    \begin{document}
+    \thispagestyle{empty}
+    \reversemarginpar
+    \noindent
+    \includegraphics[scale=0.25]{/Users/ross/Dropbox/kwantlen/kwantlen_logo}\\[2em]
+    {\LARGE Ross A. Laird, PhD}\\[2em]
+    Phone: \texttt{604-916-1675}\\
+    Email: \href{mailto:ross@rosslaird.com}{ross@rosslaird.com}\\
+    \textsc{url}: \href{http://www.rosslaird.com}{http://www.rosslaird.com}\\
+    \textsc{PGP key}: \href{http://keyserver.ubuntu.com:11371/pks/lookup?op=get&search=0x623D9CC650BD6C0B}{\texttt{50BD6C0B}}
+    \\[2em]
+    \today\\[2em]
+    To whom it may concern;\\
+
+I am writing in support of Lucie Gagne's Professional Development application to explore the possibility of developing a field school in Calanoa, Columbia. This is a unique opportunity for the entire Kwantlen community, and it comes about through a set of circumstances that is unlikely to be repeated. Lucie's initial groundwork investigation has yielded a very positive outlook for this project, and she is well-positioned to follow this initiative to a successful conclusion.
+
+This opportunity is straightforward, time-sensitive, and tremendously exciting for the Kwantlen community. All that's required is to support Lucie as she continues to develop and formalize this project, which, if successful, will offer immense value to our students and to faculty members wishing to explore transformative travel as an educational modality.
+
+I support, without reservation, Lucie's application to continue and fulfill this work. Please feel free to contact me at 604-916-1675, or by email at
+ross@rosslaird.com, if you require further information.\\[1em]
+\noindent
+Sincerely,\\[2em]
+    \includegraphics[scale=0.08]{/Users//ross/Dropbox/professional/signature}
+
+\noindent
+Ross A. Laird, PhD\\
+Faculty, Interdisciplinary Arts\\
+Faculty, Creative Writing\\
+Kwantlen Polytechnic University
+
+
+    %\vspace{1cm}
+
+    \vfill{}
+    \hrulefill
+    \begin{center}
+    {\footnotesize \href{http://www.rosslaird.com}{http://www.rosslaird.com}\pmglyph{\Hibw}}
+    \end{center}
+    \end{document}

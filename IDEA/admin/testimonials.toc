@@ -1,0 +1,18 @@
+\select@language {english}
+\contentsline {chapter}{IDEA Testimonials}{3}
+\contentsline {section}{Short Testimonials}{3}
+\contentsline {section}{Letters of Support}{5}
+\contentsline {subsection}{Lee Beavington}{5}
+\contentsline {subsection}{Tierney Wisniewski}{5}
+\contentsline {subsection}{Marion Buan}{6}
+\contentsline {subsection}{Cameron Doyle}{6}
+\contentsline {subsection}{Erica Ryan}{6}
+\contentsline {subsection}{Marija Prodanovic}{7}
+\contentsline {subsection}{Gurp Chahal}{8}
+\contentsline {subsection}{Adam Denson}{9}
+\contentsline {subsection}{Gurveen Kaur}{10}
+\contentsline {subsection}{Sandy Patrola}{10}
+\contentsline {subsection}{Meghan Kinnarny}{10}
+\contentsline {subsection}{Abbey Ratcliff}{11}
+\contentsline {subsection}{Lisa Burgis}{12}
+\contentsline {subsection}{Punreet Nijjar}{12}

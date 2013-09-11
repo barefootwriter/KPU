@@ -1,0 +1,10 @@
+\contentsline {chapter}{Proposal: Department of Interdisciplinary Studies}{3}
+\contentsline {section}{Context and Rationale}{3}
+\contentsline {section}{A Definition of Interdisciplinary Studies}{5}
+\contentsline {section}{Current Status of Interdisciplinary Initiatives}{7}
+\contentsline {subsection}{Current Projects}{7}
+\contentsline {subsection}{Planned Projects}{8}
+\contentsline {section}{Goals and Timelines}{9}
+\contentsline {subsection}{Short Term (2010 -- 2011)}{9}
+\contentsline {subsection}{Middle Term (2011 -- 2012)}{9}
+\contentsline {subsection}{Long Term (2012 -- 2013)}{9}

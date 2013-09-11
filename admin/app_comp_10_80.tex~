@@ -1,0 +1,328 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[10pt, a4paper]{article}
+\usepackage{fontspec} 
+\usepackage{placeins}
+\usepackage{multibbl}
+\usepackage{graphicx}
+% DOCUMENT LAYOUT
+\usepackage{geometry} 
+\geometry{letterpaper, textwidth=5.5in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in}
+\setlength\parindent{0in}
+
+% FONTS
+\defaultfontfeatures{Mapping=tex-text} % converts LaTeX specials (``quotes'' --- dashes etc.) to unicode
+\setromanfont [Ligatures={Common}, SmallCapsFont={ITC Officina Serif Std}, BoldFont={ITC Officina Serif Std Bold}, ItalicFont={ITC Officina Serif Std Book Italic}]{ITC Officina Serif Std Book}
+\setmonofont[Scale=0.8]{Lucida Sans Typewriter Std} 
+\setsansfont [Ligatures={Common}, SmallCapsFont={ITC Officina Sans Std}, BoldFont={ITC Officina Sans Std Bold}, ItalicFont={ITC Officina Sans Std Book Italic}]{ITC Officina Sans Std} 
+% ---- CUSTOM AMPERSAND
+\newcommand{\amper}{{\fontspec[Scale=.95]{StoneSansStd-MediumItalic}\selectfont\itshape\&}}
+% ---- MARGIN YEARS
+\newcommand{\years}[1]{\marginpar{\footnotesize #1}}
+
+% HEADINGS
+\usepackage{sectsty} 
+\usepackage[normalem]{ulem} 
+\sectionfont{\sffamily\mdseries\upshape\Large}
+\subsectionfont{\sffamily\mdseries\scshape\normalsize} 
+\subsubsectionfont{\sffamily\mdseries\upshape\normalsize} 
+
+% PDF SETUP
+% ---- FILL IN HERE THE DOC TITLE AND AUTHOR
+\usepackage[dvipdfm, bookmarks, colorlinks, breaklinks, pdftitle={Ross A. Laird - vita},pdfauthor={Ross A. Laird}]{hyperref}  
+\hypersetup{linkcolor=blue,citecolor=blue,filecolor=black,urlcolor=blue} 
+
+% DOCUMENT
+\begin{document}
+Cover letter
+A two-section time assignment (25% of annual workload) is available to support the work of teams of faculty who are inaugurating new degree programs, beginning in the Fall of 2010. The successful faculty member will work with two faculty teams (and two degree programs) to:
+• Build a community of inquiry with the lead faculty team to guide the degree’s first offering
+• Develop an implementation timeline for the degree
+• Investigate alternative/innovative pedagogies, technologies, course/faculty timetables and other elements of program delivery
+• Document experiences and understandings as part of a scholarship of teaching & learning project
+• As appropriate, engage other faculty in conversations, workshops, and presentations about the degree’s intentions and the implementation year’s realities
+• Establish a structure for the data collection necessary for the program review process
+• Establish a structure for ongoing collegial faculty engagement
+
+Applicants should have considerable expertise and experience in adult education, interdisciplinary curriculum design, coaching, counselling, and change management. A broad repertoire of both pedagogical and technological tools and experience with blended learning models is required. Ability to lead from a supportive stance, ability to work with a team, and demonstrated success in project work are essential. Course development experience and familiarity with the program approval process at Kwantlen will be assets.
+
+Please indicate your expression of interest and summary of qualifications in writing by June 17, 2010 to employ@kwantlen.ca or to Human Resource Services, Kwantlen Polytechnic University, 20901 Langley By Pass, Langley, B.C. V3A 8G9 or Fax (604) 599-2111 
+
+\newpage
+\reversemarginpar
+\includegraphics[scale=0.5]{ibis}
+{\LARGE Ross A. Laird}\\[1em]
+Phone: \texttt{604-596-5675}\\
+Mobile: \texttt{604-916-1675}\\[.2cm]
+email: \href{mailto:ross@rosslaird.com}{ross@rosslaird.com}\\
+\textsc{url}: \href{http://www.rosslaird.com}{http://www.rosslaird.com}\\
+\textsc{PGP key}: \href{http://keyserver.ubuntu.com:11371/pks/lookup?op=get&search=0x623D9CC650BD6C0B}{\texttt{50BD6C0B}}
+%%\vfill
+
+\section*{Current activities}
+\emph{Developer}: Kwantlen Polytechnic University, Interdisciplinary Arts Initiative\\
+\emph{Faculty}: Kwantlen Polytechnic University, Creative Writing\\
+\emph{Faculty}: Kwantlen Polytechnic University, Learning Communities\\
+\emph{Consultant}: educational and organizational development\\
+\emph{Consultant}: technology and mentorship in education and society\\
+\emph{Consultant}: professional development in counselling and arts\\
+\emph{Clinical Supervisor}: addictions, trauma, and disability\\
+\emph{Author}: nonfiction, fiction, poetry, essays
+
+%%\hrule
+\section*{Areas of specialization}
+creativity, interdisciplinarity, counselling, technology, \\mentorship, conflict resolution,  integrative health promotion, \\leadership, disability resourcing, trauma and addictions recovery
+
+\section*{Consulting}
+\noindent
+\years{1986--2010}Laird Associates Consulting\\
+\textsf{Counselling, organizational development, personal development\\100+ organizations, 1000+ individuals\\Please see sample project list on page \pageref{sample_consulting}}.\\
+\years{2000--2010}Clinical Supervision\\
+\textsf{Professional development for counsellors and educators\\100+ projects, 2000+ individuals\\Please see sample client list on page \pageref{sample_supervision}}.
+
+\section*{Teaching}
+\noindent
+\years{2007--2010}Kwantlen Polytechnic University\\
+\textsf{Interdisciplinary Arts, Creative Writing, Learning Communities}\\
+\years{2009--2010}Kwantlen Polytechnic University\\
+\textsf{Chair, Department of Creative Writing}\\
+\years{1993--2009}Vancouver Community College\\
+\textsf{Counselling Skills program, Substance Abuse Counselling program}\\
+\years{2003--2007}Vancouver Art Therapy Institute\\
+\textsf{Art Therapy certification program}
+\FloatBarrier
+\noindent
+\years{2005--2007}City University\\
+\textsf{MA Psychology program}\\
+\years{2002--2007}The Union Institute\\
+\textsf{Interdisciplinary Doctoral program}\\
+\years{2003--2006}Simon Fraser University\\
+\textsf{Writing and Publishing program}\\
+\years{2000--2006}Langara College\\
+\textsf{Integrative health program}\\
+\years{2000--2006}The Justice Institute of BC\\
+\textsf{Integrative health program (co-founder)}\\
+\years{1998--2005}Antioch University\\
+\textsf{MA Psychology program}\\
+\years{1992--1996}University of British Columbia\\
+\textsf{Professional and Continuing Studies in Technology}
+
+%\hrule
+\section*{Education}
+\noindent
+\years{1998}\textsc{PhD} in Interdisciplinary Creative Process, The Union Institute\\
+\years{1995}\textsc{Certification} in Bodynamic Analysis, The Bodynamic Institute, Denmark\\
+\years{1992}\textsc{MA} in Counselling Psychology, Antioch University\\
+\years{1986}\textsc{BA Honours} in English Literature, University of British Columbia
+
+%\hrule
+\section*{Grants, honours \amper{} awards}
+\noindent
+\years{2009}\textit{Jurist}, Governor General's Literary Awards, Canada Council for the Arts\\
+\years{2005}\textit{Winner}, Communications Award, BC Association of Clinical Counsellors\\
+\years{2004}\textit{Adjudicator}, Event Magazine Literary Competition\\
+\years{2004}\textit{Jurist}, Professional Development Grants, Canada Council for the Arts\\
+\years{2002}\textit{Winner}, Professional Development Grant, Canada Council for the Arts\\
+\years{2000}\textit{Winner}, Sussman Award for Academic Excellence, The Union Institute\\
+\years{2000}\textit{Finalist}, Governor General's Award, Canada Council for the Arts
+\FloatBarrier
+\noindent
+\years{2000}\textit{Finalist}, BC Book Award\\
+\years{1998}\textit{Winner}, Lamont Poetry Prize
+
+
+\section*{Service}
+\noindent
+\years{1993--2010}\textit{Social Justice consulting policy} (ten percent \textit{pro bono})\\
+\years{2008--2010}\textit{Founder}, Kwantlen Running Club\\
+\years{2009--2010}\textit{Member}, Humanities Faculty Council, Kwantlen Polytechnic University\\
+\years{2009--2010}\textit{Member}, Academic and Career Advancement Faculty Council, Kwantlen Polytechnic University
+\FloatBarrier
+\noindent
+\years{2009--2010}\textit{Member}, Task Force on Mission and Mandate, Kwantlen Polytechnic University\\
+\years{2009--2010}\textit{Member}, Branding Committee, Kwantlen Polytechnic University\\
+\years{2009--2010}\textit{Presenter}, Phoenix Society Humanities Initiative\\
+\years{2009--2010}\textit{Presenter}, Third Age Learning at Kwantlen\\
+\years{2006--2010}\textit{Creator}, Vancouver Community College Scholarship for personal development\\
+\years{2006--2010}\textit{Creator}, Vancouver Community College Scholarship for academic achievement\\
+\years{2008--2010}\textit{Facilitator}, technology education for parents and schools
+\FloatBarrier
+\noindent
+\years{2000--2010}\textit{Mentor}, personal, professional, and educational development\\
+\years{2010}\textit{Presenter}, Kwantlen Parent Information sessions\\
+\years{2010}\textit{Creator}, Kwantlen technology development project\\
+\years{2010}\textit{Member}, Kwantlen Polytechnic University, Registrar search committee\\
+\years{2009}\textit{Creator}, Kwantlen evening of illumination and renewal\\
+\years{2009}\textit{Speaker}, Kwantlen Polytechnic University, convocation address
+\FloatBarrier
+\noindent
+\years{2009}\textit{Member}, Kwantlen Polytechnic University, Executive Director of Research search committee\\
+\years{2009}\textit{Member}, Kwantlen Polytechnic University, BA Advisor search committee\\
+\years{2007--2008}\textit{Member}, National Council of the Writers' Union of Canada\\
+\years{1998--2000}\textit{Board member, Chair of Finance}, BC Association of Clinical Counsellors
+
+\section*{Publications}
+
+\subsection*{Books}
+\noindent
+\years{2010}Laird, Ross A. \emph{Labyrinth: Addictions and the Search for Healing}. Vancouver: ar2us, 2010\\ (in production).\\
+\years{2003}Laird, Ross A. \emph{A Stone's Throw: The Enduring Nature of Myth}. Toronto: McClelland and Stewart, 2003. ISBN 978-1-55199-091-0\\
+\years{2001}Laird, Ross A. \emph{Grain of Truth: The Ancient Lessons of Craft}. Toronto: Macfarlane Walter and Ross, 2001. ISBN 978-1-55199-090-3 (finalist, Governor General's Award)\\
+\years{2001}Laird, Ross A. \emph{Grain of Truth: The Ancient Lessons of Craft}. New York: Walker, 2001.\\
+\years{2001}Laird, Ross A. \emph{Group Counselling Reader}. Vancouver: VCC Scholarship Fund, 2005.
+
+\subsection*{Essays}
+\noindent
+\years{2010}Laird, Ross A. ``It was the Best of Times, It was the Best of Times: Digital Media and the Transformation of the Artist.'' \emph{Write: The Journal of the Writers' Union of Canada} Summer 2010: 2 pages.\\
+\years{2009}Laird, Ross A. ``Addictions and the Cultures of Technology.'' \emph{Ross A. Laird: Ideas Matter}. Web.\\
+\years{2009}Laird, Ross A. ``Health and Development through Mentorship.'' \emph{Ross A. Laird: Ideas Matter}. Web.
+\years{2009}Laird, Ross A. ``The Wayfinder: Convocation Address, Kwantlen Polytechnic University.'' \emph{Ross A. Laird: Ideas Matter}. Web\\
+\years{2007}Laird, Ross A. ``Geek Life.'' \emph{Ross A. Laird: Ideas Matter}. Web.\\
+\years{2007}Laird, Ross A. ``The Joys of Free Diving.'' \emph{Pacific Yachting} July 2007: 5 pages.\\
+\years{2007}Laird, Ross A. ``Myths of the Primordial Waters: Ancient Mariners, Human Migration and the Sea.'' \emph{Pacific Yachting} September 2007: 4 pages.
+\FloatBarrier
+\noindent
+\years{2005}Laird, Ross A. ``Rhymes of the Ancient Mariners.'' \emph{Pacific Yachting} February 2005: 3 pages.\\
+\years{2005}Laird, Ross A. ``Keeping Afloat: How to Prevent Leaks and Catastrophes at Sea.'' \emph{Pacific Yachting} July 2005: 4 pages.\\
+\years{2005}Laird, Ross A. ``Choosing and Using Plywood: The Impostor that Often Bests the Original.'' \emph{Pacific Yachting} August 2005: 4 pages.\\
+\years{2004}Laird, Ross A. ``The Casco: Home from the Sea.'' \emph{Pacific Yachting} February 2004: 5 pages.\\
+\years{2004}Laird, Ross A. ``The Ten Pound Toolkit: Essential Tools for Today’s Mariner.'' \emph{Pacific Yachting} August 2004: 3 pages.
+\FloatBarrier
+\noindent
+\years{2004}Laird, Ross A. ``The Woods We Use: Endangered Hardwoods.'' \emph{Pacific Yachting} August 2004: 3 pages.\\
+\years{2004}Laird, Ross A. ``Rogue Waves: Monsters of the Sea.'' \emph{Pacific Yachting} November 2004: 5 pages.\\
+\years{2004}Laird, Ross A. ``Review of Jacob's Wound: A Search for the Spirit of Wildness.'' \emph{Globe and Mail} October 31, 2004: 1 page.\\
+\years{2004}Laird, Ross A. ``Hypnotherapy in the Forest of the Human Mind.'' Inaugural essay, \emph{the Canadian Journal of Hypnotherapy} Fall 2004: 3 pages.
+\FloatBarrier
+\noindent
+\years{2003}Laird, Ross A. ``Waves of Grain: Choosing Wood for Marine Applications.'' \emph{Pacific Yachting} June 2003: 5 pages.\\
+\years{2003}Laird, Ross A. ``Making It to the Finish: A Brief Guide to Wood Finishing and Refinishing.'' \emph{Pacific Yachting} July 2003: 6 pages.\\
+\years{2003}Laird, Ross A. ``Epoxy: The One-Product Toolkit.'' \emph{Pacific Yachting} September 2003: 4 pages.\\
+\years{2003}Laird, Ross A. ``First on Four Legs: Creative Arts and Psychology.'' \emph{Insights} Fall 2003: 2 pages.\\
+\years{2002}Laird, Ross A. ``Grain of Truth: The Ancient Lessons of Craft.'' \emph{Pacific Yachting} February 2003: 5 pages.\\
+\years{2001}Laird, Ross A. ``Song of a Black Spruce: Conservation and Conflict in Burns Bog.'' \emph{Canadian Geographic} May 2001: 1 page.
+\FloatBarrier
+\noindent
+\years{2001}Laird, Ross A. ``Workshop Awakening: Zen and the Art of Woodworking.'' \emph{Canadian Home Workshop} October 2001: 2 pages.\\
+\years{2001}Laird, Ross A. ``The Jasper Queen: A Meditation on September 11.'' \emph{Ross A. Laird: Ideas Matter}. Web.\\
+\years{2001}Laird, Ross A. ``Grain of Truth: The Ancient Lessons of Craft.'' \emph{Network} Winter 2001--2002: 1 page.\\
+
+\section*{Sample Presentations, Workshops \amper{} Keynotes}
+\noindent
+\years{2010}Kwantlen Polytechnic University, \emph{Teaching in Digital Culture}\\
+\years{2010}UBC Teacher Education Conference 2010 (keynote), \emph{The New Mashup: Digital Media, Educational Development, and Teaching}\\
+\years{2010}BC Post Secondary Counsellors' Association 2010 (keynote), \emph{Understanding and Dealing with Technology Addictions}\\
+\years{2010}Langley School District, \emph{Addictions and the Cultures of Technology}\\
+\years{2010}Vancouver Island Health Authority Conference 2010 (keynote), \emph{Informed Practice in Mentorship, Technology, Trauma, and Youth Development}\\
+\years{2010}Community Vision for Children and Families, \emph{Health, Healing, and Development}\\
+\years{2010}Air Canada Employee Assistance program, \emph{Professional Development in Health, Healing}
+\FloatBarrier
+\noindent
+\years{2010}Disability Resource Network of BC Conference 2010 (keynote), \emph{Becoming the Wayfinder: Why Mentorship Matters}\\
+\years{2009}BC Association of Clinical Counsellors, \emph{Professional Development in Technology Addictions}\\
+\years{2009}BC Association of Teacher Librarians Conference 2009, \emph{Addictions and the Cultures of Technology}\\
+\years{2009}Capilano University Professional Development, \emph{Mentorship for Educators}\\
+\years{2009}BC Partnership for Responsible Gambling Conference 2009 (keynote), \emph{Technology Addictions and Gambling}\\
+\years{2009}Vancouver School District Professional Development, \emph{Technology Addictions and Adolescent Development}
+\FloatBarrier
+\noindent
+\years{2009}Disability Resource Network of BC Conference 2009 (keynote), \emph{The Developing Human: Integrative Approaches to Health and Wellness}\\
+\years{2008}VCC Voices from the Community Inaugural Lecture, \emph{The Developing Human}\\
+\years{2008}UBC David Berman Memorial Conference, \emph{Addiction and the Search for Healing}\\
+\years{2008}Cross Cancer Agency, \emph{Wisdom in the Wound: Creativity and Healing}\\
+\years{2008}Western Canada Conference on Addictions and Mental Health, \emph{Mentorship for Youth in Addiction}\\
+\years{2007}BC College and Institutes Counsellors' Association Conference (keynote), \emph{Creativity and Healing}\\
+\years{2007}Richmond Addictions Services, \emph{Technology Addictions}\\
+\years{2007}Vancouver Island Health Authority Conference, \emph{Trauma and Addictions in Youth Mental Health}\\
+\years{2006}Western Canada Conference on Addictions and Mental Health, \emph{Creative Interventions for Addicted Youth}
+\FloatBarrier
+\noindent
+\years{2006}BC Association of Art Therapists Conference, \emph{Creativity and Storytelling}\\
+\years{2006}Timber Framer's Guild Conference (keynote), \emph{Compass and Beam: The Enduring Traditions of Log Building}\\
+\years{2006}Westcoast Child Care Resource Centre, \emph{Working with Groups}\\
+\years{2006}Haven Society, \emph{Trauma and the Wisdom of the Body}\\
+\years{2005}International Log Builders' Association Conference (keynote), \emph{Creativity and Craft}\\
+\years{2005}Family Services of Greater Vancouver, \emph{Working with Groups}
+\FloatBarrier
+\noindent
+\years{2005}The Hannah Education Centre, \emph{Creativity in Education}\\
+\years{2004}Alcohol and Drug Professional Development Conference, \emph{Creative Interventions with Youth}\\
+\years{2004}Hollyhock Retreat Centre, \emph{residential retreat for creativity and healing}\\
+\years{2003}North Island Spring Gathering Conference, \emph{Creativity in Counselling}\\
+\years{2003}Canada Council for the Arts Reading Series, \emph{Creativity as a Path of Devotion}\\
+\years{2003}Sudden Infant Death Syndrome Conference, \emph{Building a Support Group}
+\FloatBarrier
+\noindent
+\years{2002}National Association of Poetry Therapy (United States) Conference, \emph{Creativity and Healing}\\
+\years{2002}Pacific Institute on Addictions Conference, \emph{Creativity and Addiction}\\
+\years{2001}BC Psychological Association Conference, \emph{Swimming in Fresh Water: Creativity in Psychology and Counselling}\\
+\years{2001}Vermont College (United States) Creativity Symposium, \emph{Creativity as a Path of Illumination}
+
+\section*{Consulting \amper{} supervision}
+
+\subsection*{Sample consulting projects}
+\label{sample_consulting}
+\noindent
+\years{2010}The Writers' Union of Canada, \emph{professional development in new media project}\\
+\years{1995--2010}Stenberg College, \emph{curriculum development projects}\\
+\years{2009}The Business Council of BC, \emph{mentorship training}\\
+\years{2009}Vancouver Coastal Health \emph{organizational development retreat}\\
+\years{2006--2009}TransLink, \emph{conflict resolution projects}\\
+\years{2009}School District 72, \emph{leadership training}\\
+\years{2008}Degree Quality Assessment Board, \emph{degree program evaluation}\\
+\years{2006--2008}Coast Mountain Bus Company, \emph{conflict resolution projects}\\
+\years{2006--2008}Atlantis and PedalHeads summer programs for kids, \emph{staff training}
+\FloatBarrier
+\noindent
+\years{2008}BC Gaming Policy Enforcement Branch, \emph{technology addictions project}\\
+\years{2005--2007}Coast Mountain Bus Company, \emph{senior management leadership training}\\
+\years{2007}La Luna Theatre Productions, \emph{organizational development}\\
+\years{2007}IKEA United States, \emph{senior management professional development retreat}\\
+\years{2006}Vancouver Coastal Health \emph{professional development project}\\
+\years{2006}BC Ministry of Children and Family Development, \emph{Foetal Alcohol Spectrum Disorder curriculum development and training}\\
+\years{2005}Gwaii Trust, \emph{Haida Gwaii trauma and addictions recovery project}
+\FloatBarrier
+\noindent
+\years{2002--2005}Children's Foundation\\
+\years{2004}Canadian Cancer Society, \emph{recent diagnosis counselling development project}\\
+\years{2000}Confidential client, \emph{cult debriefing project}\\
+\years{1995--1997}Phoenix Alcohol and Drug Rehabilitation Foundation, \emph{curriculum development project}
+
+\subsection*{Sample supervision clients}
+\label{sample_supervision}
+\noindent
+\years{2008--2010}North American Opiate Medication Initiative\\
+\years{2004--2010}Corrections Canada Libby House\\
+\years{2000--2010}Royal Oak and Oak Grove methadone programs\\
+\years{1997--2010}Turning Point Recovery Society\\
+\years{1995--2010}HOPE Bridge Services\\
+\years{2007--2010}Community Vision for Children and Families
+\FloatBarrier
+\noindent
+\years{2006--2008}Vancouver Coastal Health\\
+\years{2007}The Orchard Recovery Centre\\
+\years{2007}Salvation Army Homestead\\
+\years{2004--2007}Art Therapy Consultation Group\\
+\years{2006--2007}The Dr. Peter AIDS Foundation
+\FloatBarrier
+\noindent
+\years{2004--2007}Vancouver Hospital\\
+\years{2003--2006}Yaletown Medical Clinic\\
+\years{2003}Westminster House\\
+\years{1997--2000}Phoenix Alcohol and Drug Rehabilitation Foundation\\
+\years{1996--1998}Downtown Eastside Youth Activities Society\\
+
+%\vspace{1cm}
+\vfill{}
+\hrulefill
+
+% FILL IN THE FULL URL TO YOUR CV
+\begin{center}
+{\footnotesize \href{http://www.rosslaird.com}{http://www.rosslaird.com} — Last updated: \today
+}
+\end{center}
+
+
+\end{document}
+

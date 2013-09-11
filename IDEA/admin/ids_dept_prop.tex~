@@ -1,0 +1,141 @@
+   \TeXXeTstate=1
+\documentclass[12pt,DIV11,letterpaper,oneside,abstractoff,headsepline]{scrreprt}
+   \usepackage{fontspec,xunicode}
+   \defaultfontfeatures{Numbers=OldStyle,Scale=MatchLowercase,Mapping=tex-text}
+   \setmainfont{Sabon LT Std}
+   \setromanfont[Mapping=tex-text]{Sabon LT Std}
+   \setsansfont[Scale=MatchUppercase]{Myriad Pro}
+   \usepackage{xltxtra}
+\pagestyle{headings}
+\usepackage{paralist}
+\usepackage{datetime}
+\usepackage{titling}
+\usepackage[sf]{titlesec}
+\usepackage{url}
+\setcounter{secnumdepth}{-1}
+\setkomafont{pagehead}{%
+\normalfont\normalcolor\upshape\sffamily\small}
+\author{Prepared by: Steve Dooley and Ross A. Laird}
+\date{September 2010}
+\pretitle{\begin{center}\LARGE\sffamily CIR:CLE\\The Centre for Interdisciplinary Research: Community Learning and Engagement \end{center}\begin{center}}
+
+  \title{\huge\sffamily Purpose, Plans, and Direction}
+
+
+\begin{document}
+\maketitle
+\tableofcontents
+\chapter[CIR:CLE]{CIR:CLE}
+\includegraphics[scale=0.25]{/home/ross/Dropbox/docs/kwantlen/enso}\\[2em]
+\section{The Context}
+\label{sec-1}
+
+Kwantlen is British Columbia's Polytechnic University. The integration of the terms Polytechnic and University in our title reflects our unique mandate, mission, and character as a post-secondary institution. The first principle articulated in our new mission and mandate is to be ``a leader in innovative and interdisciplinary education.''
+
+\textsc{CIR:CLE} embodies the core values and vision of Kwantlen’s emerging identity. By working within and across disciplines, CIR:CLE encourages innovation and collaboration among faculty, creates opportunities for scholarship and teaching, and prepares learners to be competitive in a rapidly changing world. Faculty working within CIR:CLE provide learning experiences that facilitate creativity, critical awareness, cultural sensitivity, social responsibility, civic engagement, and global citizenship.
+
+In Kwantlen's Strategic Action Plan (2010), the first principle is to ensure that ``Kwantlen's learning environment inspires inquiry, collaboration, creativity, and application.'' The first priority is to ``develop and implement new programs, especially undergraduate degree programs'' that ``support initiatives to increase scholarly and research activity within and across a range of Faculties.'' CIR:CLE embodies these aims as foundational to its practices of scholarship and teaching.
+
+The first and primary principle of Kwantlen's Senate Subcommittee on Academic Planning and Priorities is to ``implement and support new programs, especially those that reflect community needs, labour market and broad societal education needs, and which are in keeping with Kwantlen’s values and mandate as a Polytechnic University.'' CIR:CLE is precisely aligned with this interdisciplinary priority. 
+
+The second principle of the Senate Subcommittee on Academic Planning and Priorities is to ``provide opportunities that encourage faculty to develop new teaching interests and methodologies in keeping with the institution’s mandate.'' Plans for CIR:CLE involve the forging of strategic partnerships between various stakeholders at Kwantlen (Humanities, Social Sciences, The School of Business, The Faculty of Academic and Career Advancement, The Centre for Academic Growth, among others) to encourage innovation, to support diverse teaching interests, and to broaden and integrate educational opportunities from various fields. CIR:CLES recognizes the pivotal role that the Kwantlen community, and our surrounding communities, fulfill in supporting learners to develop their values, direction, and fundamental character. CIR:CLE provides a dynamic community of inquiry that is learner-focused, innovative, and socially and culturally responsive. At CIR:CLE, personal, academic, and professional development are integrated. Faculty demonstrate an authentic spirit of interdisciplinary inquiry and model this for learners. In turn, learners are supported in diverse modes of inquiry by a research and learning environment that is collaborative, innovative, creative and respectful.
+
+CIR:CLE embodies Kwantlen’s vision to be an innovative and outstanding Polytechnic University that provides a balance of pure, practical and applied educational experiences to learners from diverse backgrounds. CIR:CLE serves regional needs, reflects community values, and provide a desirable destination for those seeking an accessible and relevant learning environment. CIR:CLE is an archetypal example of Kwantlen’s diversity, inclusivity, and continued evolution.
+\newpage
+\section{Current Status and Proposed Plans}
+\label{sec-2}
+
+\subsection{Current Projects}
+\label{sec-2.1}
+
+\begin{itemize}
+\item Interdisciplinary Expressive Arts (IDEA) courses
+\item New media and social media teaching project (collaboration between
+    Humanities, the Department of Instructional and Educational
+    Technology, and the Centre for Academic Growth)
+\item Humanities collaboration with Phoenix Society
+\item Arts, Culture, and Media course development (collaboration
+    between Humanities and the School of Business)
+\item Sustainability course developments (collaboration between
+    Humanities, the Faculty of Social Sciences, and the Faculty of
+    Academic and Career Advancement)
+\item Modern Languages new media and social media teaching project
+    (collaboration between Modern Languages and IDEA)
+\item Interdisciplinary research project in creativity and mental
+    health (collaboration between Humanities and Social Sciences)
+\item Annual Interdisciplinary Illumination events
+\end{itemize}
+\subsection{Planned Projects}
+\label{sec-2.2}
+
+\begin{itemize}
+\item Interdisciplinary Expressive Arts course developments (underway)
+\item Interdisciplinary course developments in Music, English (in
+     discussion), Fine Arts (in discussion), and Philosophy
+\item Course and project developments through expressions of
+     interest, by faculty members, in innovative and
+     interdisciplinary initiatives
+\item Cross-listings and specialized sections of existing courses (by
+     invitation and/or application) from various academic units
+\end{itemize}
+
+The CIR:CLE will provide a means of streamlining many of the interdisciplinary projects already underway, will provide support for those projects, and will offer faculty members avenues for developing new and innovative initiatives. The Department will promote cross-appointments to encourage interested faculty from other departments to extend their work into the Interdisciplinary area. Such cross-appointments will develop through invitation, application, and expressions of interest.
+
+The CIR:CLE will be an example of an increasingly popular mode of collaboration within the university system (The Humanities, Arts, Science, and Technology Advanced Collaboratory and the Townsend Humanities Lab are two other examples).
+
+Soon after inception, the CIR:CLE plans to offer first a Minor, then a Major, in Interdisciplinary Studies.
+\newpage
+
+\section{Goals and Timelines}
+\label{sec-3}
+
+Plans for the proposed CIR:CLE include the following:
+\subsection{Short Term (2010 -- 2011)}
+\label{sec-3.1}
+
+\begin{enumerate}
+\item Governance and policy consultation and approval.
+\item Assignment of institutional resources necessary to support the
+     bootstrapping of the Department. This will require a 50 percent
+     annual assignment for one faculty member. 25 percent is already
+     allocated (leaving 25 percent to be secured).
+\item Development of Interdisciplinary Studies foundational courses (1100
+      and 2100).
+\item Cross-listing and/or development of specialized sections of
+     interdisciplinary courses from various departments. Four courses
+     are currently under discussion and/or development: \textsc{CRWR3301},
+     \textsc{SUST1100}, \textsc{LCOM1100}, and \textsc{LCOM4330}.
+\item Continued offering and promotion of IDEA 3100 and IDEA 4100.
+\item By the Fall of 2011, the Department plans to offer at least ten
+     courses through a combination of direct development, sponsorship,
+     and cross-listing.
+\end{enumerate}
+\subsection{Middle Term (2011 -- 2012)}
+\label{sec-3.2}
+
+\begin{enumerate}
+\item Development and promotion of a Minor in Interdisciplinary Studies.
+\item Continued development of new courses and collaborations.
+\item Growth in numbers of faculty whose primary allocation resides in
+     the CIR:CLE.
+\item Development of an interdisciplinary digital community (using open
+     source content and collaboration tools such as Drupal).
+\item Securing of an office.
+\end{enumerate}
+\subsection{Long Term (2012 -- 2014)}
+\label{sec-3.3}
+
+\begin{enumerate}
+\item Development of a Major in Interdisciplinary Studies (a version of
+       the Major concept proposal has already been approved by the
+       Humanities Curriculum Committee).
+\item Ongoing growth and development to support the Kwantlen community.
+\end{enumerate}
+\section{A Definition of Interdisciplinary Studies}
+\label{sec-4}
+
+Interdisciplinary Studies refers to a specific set of educational activities, goals and strategies. Based on innovative pedagogy and integrative approaches to learning, Interdisciplinary Studies involve the synthesis and synergy of various disciplines toward a cohesive, unified educational experience. Interdisciplinarity is much more than enrollment in courses from more than a single discipline. Authentic interdisciplinarity emphasizes the linkages between disciplines by focusing on contrasting and complementary aspects of diverse educational domains. Interdisciplinary studies encourage students to develop broader intellectual skills, greater facility for critical thinking, and greater awareness of the social relevance of their education. 
+
+Interdisciplinary students have the opportunity to develop exemplary skills in problem solving, insight, team-building, lateral thinking, and multi-modal learning styles. Interdisciplinary strategies involve approaching an issue or problem from various perspectives. This typically entails intellectual inquiries that range beyond the borders of any single discipline or domain.  Global warming and the \textsc{AIDS} pandemic are two examples of contemporary issues that require interdisciplinary approaches. 
+
+\end{document}

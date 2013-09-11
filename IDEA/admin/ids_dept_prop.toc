@@ -1,0 +1,10 @@
+\contentsline {chapter}{CIR:CLE}{3}
+\contentsline {section}{The Context}{3}
+\contentsline {section}{Current Status and Proposed Plans}{5}
+\contentsline {subsection}{Current Projects}{5}
+\contentsline {subsection}{Planned Projects}{5}
+\contentsline {section}{Goals and Timelines}{7}
+\contentsline {subsection}{Short Term (2010 -- 2011)}{7}
+\contentsline {subsection}{Middle Term (2011 -- 2012)}{7}
+\contentsline {subsection}{Long Term (2012 -- 2014)}{7}
+\contentsline {section}{A Definition of Interdisciplinary Studies}{8}
