@@ -1,5 +1,5 @@
 
-IDEA Steering Committee members
+IDEA Steering Committee members:
 
 Farhad Dastur (faculty member in Psychology)+
 Constanza Rojas Primus (faculty member in Modern Languages and Cultural Studies)+
