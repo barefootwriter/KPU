@@ -1,0 +1,21 @@
+\select@language {english}
+\contentsline {chapter}{Interdisciplinary Expressive Arts 3100}{3}
+\contentsline {section}{Course Overview}{3}
+\contentsline {section}{Learning Goals}{4}
+\contentsline {section}{Learning Experiences}{5}
+\contentsline {section}{Readings}{5}
+\contentsline {subsection}{Required Course Texts}{5}
+\contentsline {subsection}{Suggested Books}{6}
+\contentsline {subsection}{Books on Creativity and Associated Philosophies}{7}
+\contentsline {subsection}{Mythological Fiction}{9}
+\contentsline {section}{Demonstration of Learning}{10}
+\contentsline {subsection}{Assignments}{10}
+\contentsline {subsubsection}{Assessment Criteria for Creative Projects}{11}
+\contentsline {subsection}{Group Presentations}{11}
+\contentsline {subsubsection}{Presentation Methods and Goals}{11}
+\contentsline {subsubsection}{Suggested Topics for Interdisciplinary Presentations}{13}
+\contentsline {subsubsection}{Assessment Criteria for Group Presentations and Overall Engagement}{14}
+\contentsline {subsection}{Attendance and Participation}{15}
+\contentsline {subsection}{Grade Inflation}{16}
+\contentsline {section}{Due Dates}{17}
+\contentsline {section}{Class Schedule}{18}

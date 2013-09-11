@@ -1,0 +1,856 @@
+\documentclass[letterpaper,10pt,headsepline]{scrreprt}
+\usepackage[latin1]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[dvips]{graphicx}
+\usepackage{mathpazo}
+\usepackage{microtype}
+\usepackage{scrpage2}
+\usepackage{paralist}
+\clubpenalty=6000
+\widowpenalty=6000
+\author{Ross Laird}
+\title{Creative Writing 3301}
+\date{09/01/08}
+\ohead{Creative Writing 3301}
+\pagestyle{scrheadings}
+\setcounter{secnumdepth}{-1}
+\begin{document}
+\section{Creative Writing 3301}
+Instructor: Ross Laird, Ph.D.\\ 
+Telephone: 604-916-1675\\
+Email: ross@rosslaird.info\\
+Website: www.rosslaird.info\\
+Location: Kwantlen University College, Surrey Campus\\
+Schedule: Tuesdays, 16:00-18:50\\
+January 8 to April 8, 2008\\
+
+\subsection{Basic Philosophy of the Course}
+Creative writing is a powerful, ancient, and yet delicate practice. We write~--- quietly, often in isolation, in tentative and mercurial
+moods. We revise, and turn back upon our own narratives, and wonder about the reception our work might meet in the world. Sometimes we hide manuscripts in
+drawers, or take deliberate action~--- as did Franz Kafka and Mahatma Gandhi~--- to prevent our words from making their way to an audience. Kafka and Gandhi were both unsuccessful in preventing their writings from being destroyed; but their impulse to do so, to keep hooded the hawk of their creativity, is common among writers of all stripes.
+
+We're not sure that we have, really, anything to say; or we are afraid that if our words are not well met we might ourselves be wounded. Or we believe, as did the ancient Egyptians, that words have their own life, for good or for ill, and that writing is a means of seizing the power of the gods. This course attempts to explore this conversation ~--- between the writer and the wider world~--- and to find ways of bringing our writing safely out of hiding.
+
+We will be exploring myth, and writing craft, and method, and the strategic practices every writer must learn in wrestling with narrative. Each of us will
+examine our strengths~--- the ways in which the natural mood and flavour of our writing makes itself known~--- and our vulnerabilities as well: how we get stuck, or lazy, how we lost confidence and gain doubt. How we learn to shut down and hope the whole thing will go away.
+
+This course is about writing, and reading, and making a claim for the fundamental right of storytelling. Within that context, we will
+explore the ancient practices of myth-making (particularly as regards family and culture), the hurdles of writing (as they involve craft and
+precision and clarity) and the great gifts we might receive from others of our creative kin (that is to say, the long tradition of writers of writers and myth-makers).
+
+The threshold between fact and fiction (which is not the same as that between truth and lie) is one of the territories of myth. In this course we stake out that territory, inspecting the geology of its forms and ideals, finding our own individual places to homestead. Myth involves the search for truth, and fidelity to fact, yet also an awareness that truth and fact are often provisional, and mythological; they are shapeshifters on the wide-open plain of
+creativity. We will explore what this means, and what to do about it.
+
+And, finally, the goal of the course (from my point of view, at least), is to have fun: to preserve and nurture the creative and imaginative spirit that is the foundation of all the arts and sciences.
+
+\subsection{Learning Goals}
+\begin{itemize}
+
+\item Read selected cultural, literary, historical and mythological texts and discuss their origin, development, and contemporary relevance
+\item Interpret multicultural literary traditions within the context of mythopoetic origins
+\item Exhibit knowledge of mythology as both an ancient and a current mode of transmission of important cultural, political, and psychological knowledge
+\item Evaluate diverse perspectives on the nature and role of myth
+\item Write a research-based essay on a topic related to mythology
+\item Compose a creative writing essay using mythopoetic narrative strategies
+
+\end{itemize}
+\clearpage
+
+\subsection{Learning Experiences}
+The course will include a variety of learning experiences contingent upon regular attendance and dedicated participation. Because creative writing and mythology are both interactive processes, much of the class time will be devoted to group experiential exercises, individual reflective tasks, collaborative endeavors, composition, and practical assignments.
+
+We will create a collaborative environment in this class. We are not going to cobble together the type of group one often hears about in the arts: competitive, cut-throat, critical. Repeat: we are not creating such a group. Instead, we will direct our efforts toward building upon the individual strengths of each participant, finding ways for each of us to be self-reflective in terms of assessing our creative work, discovering a means of protecting the quality and integrity of our writing. The creative spirit is remarkably persistent, yet it is also fragile, especially at its inception, and
+we must be conscious of this fragility. Think about it: did you not experience, as a child, the strangulation of your creativity in school, by way of a culture of insensitive peers or teachers? Why do you think hardly anyone feels comfortable singing in public, or dancing, or drawing, or reading their written work to others? We have, most of us, been the victims of inappropriate feedback and judgment. We have to be careful about this, in our course, so that we do not harm one another.
+
+\section{Readings}
+\subsection{Required Course Texts}
+
+\begin{description}
+\item [Lewis Hyde.] \textit{Trickster Makes This World: Mischief, Myth, and Art}
+\item [W.S Merwin.] \textit{The Book of Fables}
+\item [Joseph Campbell.] \textit{Creative Mythology}
+\end{description}
+
+\subsection{Suggested Books}
+\begin{description}
+\item [Butala, Sharon.] \textit{Wild Stone Heart}. \\HarperFestival,
+  2000. \textsc{ISBN 000255397X}.
+\item [Calvo, C\'esar.] \textit{The Three Halves of Ino Moxo}.
+  \\Translated by Kenneth Symington. \\Inner Traditions, 1995.
+  \textsc{ISBN 0892815191}.
+\item [Campbell, Joseph.] \textit{The Mythic Image}.
+  \\Princeton UP, 1974.
+\item [Ellis, Normandi.] \textit{Dreams of Isis: A Woman's Spiritual
+    Sojourn}.
+  \\Quest, 1995.
+\item [Hancock, Graham.] \textit{Heaven's Mirror: Quest for the Lost
+    Civilization.}.
+  \\Crown, 1998.
+\item [Hedges, Chris.] \textit{War Is a Force that Gives Us Meaning}.
+  \\Anchor, 2003. \textsc{ISBN 1400034639}.
+\item [Kingston, Maxine Hong.] \textit{The Woman Warrior: Memoirs of a
+    Girlhood Among Ghosts}. \\Vintage, 1989. \textsc{ISBN
+    0072435194}.
+\item [Kwan, Michael David.] \textit{Things that Must Not be
+    Forgotten: A Childhood in Wartime China}. \\Soho Press
+  \textsc{ISBN 1569472823}
+\item [Laird, Ross A.] \textit{A Stone's Throw: The Enduring Nature of Myth}. \\McClelland and Stewart, 2002.
+\item [Langewiesche, William.] \textit{American Ground: Unbuilding
+    \\the World Trade Center}. \\North Point Press, 2002.
+  \textsc{ISBN 0865475822}. (Also see \textit{Inside the Sky}.)
+\item [Lopate, Phillip.] \textit{The Art of the Personal Essay: An
+    Anthology from the Classical Era to the Present}. \\Anchor, 1997.
+  \textsc{ISBN 038542339X}.
+\item [Macfarlane, David.] \textit{The Danger Tree: Memory, War and
+    the Search for a Family's Past}. \\Walker, 2001. \textsc{ISBN
+    0802776167}.
+\item [Merwin, W.S.] \textit{The Mays of Ventadorn}. \\National
+  Geographic Directions, 2002. \textsc{ISBN 0792265386}.
+\item [Ondaatje, Michael.] \textit{Running in the Family}. \\Vintage,
+  1993. \textsc{ISBN 0679746692}.
+\item [Pirsig, Robert.] \textit{Zen and the Art of Motorcycle
+    Maintenance}. \\HarperTorch, 2006 (reprint). \textsc{ISBN
+    0060589469}.
+\item [Saint-Exup\'ery, A.] \textit{Wind, Sand and Stars}. \\Harvest,
+  2002. \textsc{ISBN 0156027496}.
+\item [Sanders, Scott Russell.] \textit{Writing from the Center}.
+  \\Indiana UP, 1997. \textsc{ISBN 0253211433}.
+\item [Sullivan, William.] \textit{The Secret of the Incas: Myth,
+    Astronomy, and the War Against Time.} \\Crown, 1996.
+\end{description}
+
+\subsection{Books on Creativity and Associated Philosophies}
+\begin{description}
+\item [Achebe, Chinua] \textit{Hopes and Impediments}. New York:
+  Doubleday, 1989.
+\item [Barron, F., ed] \textit{Creators on Creating: Awakening and
+    Cultivating the Imaginative Mind}. New York: Putnam, 1997.
+\item [Benjamin, Walter] \textit{Theses on the Philosophy of History}.
+\item [Borges, Jorge Luis.] \textit{Collected Fictions}. \\Penguin,
+  1999. \textsc{ISBN 0140286802}.
+\item [Bohm, David] \textit{Wholeness and the Implicate Order}.
+  London: Ark, 1980.
+\item [Bohm, David] \textit{Unfolding Meaning}. New York: Routledge,
+  1985.
+\item [Bohm, David] \textit{On Creativity}. New York: Routledge, 1998.
+\item [Bronowski, Jacob] \textit{Science and Human Values}. New York:
+  Harper, 1956.
+\item [---------] \textit{The Face of Violence}. London: Turnstile
+  Press, 1964.
+\item [---------] \textit{A Sense of the Future: Essays in Natural
+    Philosophy}. Cambridge, MIT Press, 1977.
+\item [Degler, Teri] \textit{The Fiery Muse: Creativity and the
+    Spiritual Quest}. Toronto: Random House, 1996.
+\item [Demos, John.] \textit{The Unredeemed Captive: A Family Story
+    from Early America}. \\Vintage, 1995. \textsc{ISBN 0679759611}.
+\item [Flack, Audrey] \textit{Art and Soul: Notes on Creating}. New
+  York: Penguin, 1986.
+\item [Franklin, Ursula] \textit{The Real World of Technology}.
+  Toronto: Anansi, 1999.
+\item [Fulford, Robert] \textit{The Triumph of Narrative: Storytelling
+    in an Age of Mass Culture}. Toronto: Anansi, 1999.
+\item [Goldberg, Natalie] \textit{Writing Down the Bones}. Boston:
+  Shambhala, 1986.
+\item [Herrigel, Eugen] \textit{Zen in the Art of Archery}. New York:
+  Random House, 1977.
+\item [Hildegard of Bingen] \textit{Secrets of God: Writings of
+    Hildegard of Bingen}.\\ Boston: Shambhala, 1996.
+\item [Hyde, Lewis] \textit{The Gift: Imagination and the Erotic Life
+    of Property}. New York: Vintage, 1983.
+\item [---------] \textit{Trickster Makes This World: Mischief, Myth,
+    and Art}. New York: North Point Press, 1998.
+\item [Jim\'enez, Juan Ramon] \textit{The Complete Perfectionist: A
+    Poetics of Work}. Edited and translated by Christopher Maurer. New
+  York: Doubleday, 1997.
+\item [Jung, C.G] \textit{The Spirit in Man, Art and Literature}.
+  Translated by R.F.C. Hull. Princeton: Princeton University Press,
+  1998.
+\item [London, Peter] \textit{No More Secondhand Art}. Boston:
+  Shambhala, 1989.
+\item [Lorca, Federico] \textit{In Search of Duende}. Translated by
+  Christopher Maurer. New York: New Directions, 1998.
+\item [Lyndon, Susan] \textit{The Knitting Sutra: Craft as a Spiritual
+    Practice}. San Francisco: Harper, 1997.
+\item [Needleman, Carla] \textit{The Work of Craft: An Inquiry Into
+    the Nature of Crafts and Craftsmanship}. New York: Kodansha, 1979.
+\item [Pye, David] \textit{The Nature and Art of Workmanship}.
+  Cambridge: Cambridge UP, 1968.
+\item [Richards, Mary] \textit{Centering in Pottery, Poetry and the
+    Person}. Middletwon, CT: Wesleyan UP.
+\item [Sarton, May] \textit{Journal of a Solitude}. New York: Norton,
+  1973.
+\item [Sennett, Richard] \textit{The Corrosion of Character: The
+    Personal Consequences of Work in the New Capitalism}. New York:
+  Norton, 1998.
+\item [Thoreau, Henry David] \textit{Walden}. New York: Norton, 1985.
+\item [Wilson, Frank] \textit{The Hand: How Its Use Shapes the Brain,
+    Language and Human Culture}. New York: Vintage, 1998.
+\end{description}
+\newpage
+\subsection{Mythological Fiction}
+\begin{description}
+\item [Joseph Conrad] \textit{Lord Jim, Heart of Darkness\/}
+\item [Thomas Wharton] \textit{Salamander\/}
+\item [Milan Kundera] \textit{Life is Elsewhere\/}
+\item [Carlos Fuentes] \textit{The Orange Tree\/}
+\item [Gabriel Garcia Marquez] \textit{One Hundred Years of Solitude\/}
+\item [Jorge Luis Borges] \textit{Labyrinths\/}
+\item [Alberto Manguel (editor)] \textit{Black Water: The Book of
+    Fantastic Literature\/}
+\item [Don DeLillo] \textit{Underworld\/}
+\item [Somerset Maugham] \textit{The Razor's Edge\/}
+\item [Philip K. Dick] \textit{The Man in the High Castle\/}
+\item [Keri Hulme] \textit{The Bone People\/}
+\item [Salman Rushdie] \textit{Midnight's Children\/}
+\item [John Fowles] \textit{The Magus\/}
+\item [Stephen King] \textit{The Stand\/}
+\item [Philip Roth] \textit{Operation Shylock\/}
+\item [Walter Miller] \textit{A Canticle for Leibowitz\/}
+\end{description}
+
+\clearpage
+
+\section{Demonstration of Learning}
+
+\subsection{Written Assignments}
+Three writing assignments are required for this course: a research
+essay and two creative compositions. The research essay involves you
+choosing a specific mythological theme or thread and exploring it in
+some depth. We will discuss this project at length in class. The
+creative writing compositions are opportunities for you to discover
+and explore the myths surrounding your own life. Again, we will
+discuss these projects in class.
+
+For philosophical reasons, I do not prescribe a particular length for
+the projects: a great essay can be a few pages long (as we'll see).
+Yet it is difficult to craft a good essay in less than a few thousand
+words. So, if you prefer a guideline for the length of the projects, I
+offer two recommendations: make them as long as they need to be; make
+them somewhere between two and five thousand words. There is no upper
+limit on the length of the projects.
+
+I'm not interested in how much you can write but rather in the quality
+of your writing. Perhaps you write like Hemingway, perhaps like
+Melville or Tolstoy. I don't know, and maybe you don't know either.
+But I can tell you this: writing a shorter piece of great precision is
+more difficult than writing a longer, more relaxed and wandering work.
+In the context of smaller projects every word is on display and under
+scrutiny, whereas in longer works the sheer bulk of the material tends
+to hide various flaws. Melville, in fact, is a good example of this.
+
+You may write short narratives in this course, but please do not write
+short form as a means of avoiding work. You will know, I will notice,
+and neither of us will be happy. Instead, make your work as long as it
+needs to be. If you compose a lovely, resonant, short piece, you will
+receive an excellent evaluation. But as I said, writing shorter pieces
+is actually more difficult.
+
+With reference to good, short pieces, I suggest (strongly) looking at
+the poetry of W.S. Merwin, his lovely un-punctuated poetry in which
+the bare words embody some strange and familiar light. Here's an
+example of what I mean:
+\clearpage
+\begin{verse}
+Why did he promise me\\
+that we would build ourselves\\
+an ark all by ourselves\\
+out in back of the house\\
+on New York Avenue\\
+in Union City New Jersey\\
+to the singing of the streetcars\\
+after the story\\
+of Noah whom nobody\\
+believed about the waters\\
+that would rise over everything\\
+when I told my father\\
+I wanted us to build\\
+an ark of our own there\\
+in the back yard under\\
+the kitchen could we do that\\
+he told me that we could\\
+I want to I said and will we\\
+he promised me that we would\\
+why did he promise that\\
+I wanted us to start then\\
+nobody will believe us\\
+I said that we are building\\
+an ark because the rains\\
+are coming and that was true\\
+nobody ever believed\\
+we would build an ark there\\
+nobody would believe\\
+that the waters were coming\\
+\end{verse}
+
+The three written compositions are worth 25 per cent each of your
+final grade.
+
+\newpage
+
+\subsection{Group Presentations}
+
+Each student will be a member of three different peer groups; each
+peer group will present a total of ten mini-presentations (roughly five
+minutes each) on various mythological motifs and characters. Each
+class session will involve nine presentations, with one presentation
+from each group. This means that each student will be involved in
+three short presentations each session. Class time will be given for
+preparing the presentations. The structure and content of the
+presentations will be discussed in class.
+
+The group presentations are worth a total of 25 per cent of your grade.
+
+\subsubsection{Evaluation of Assignments and Presentations}
+My primary focus, as an instructor, is to assist you in developing
+your creativity. Grades are quite far down on the list of priorities
+for me. I am focused on your engagement with the process, your
+commitment to your own work, the extent to which you show up,
+metaphorically, to be as present as you can be. These are evaluation
+criteria for me.
+
+My own criteria will be blended with the evaluation guidelines from
+the creative writing program, which are directed more toward craft and
+articulated below:
+
+\begin{description}
+
+\item[$80-100$] Excellent: the use of language is pleasing and
+  vigorous. The writing invites reading; the work is well-crafted and
+  grammatically flawless. The author is perceptive.
+
+\item[$76-79$] Very good: the use of language is generally correct.
+  There may be a need for further editing. This could be in the
+  presentation of the work (style, voice, characterisation, plot,
+  point of view), or in the language (diction, grammar, usage,
+  spelling, punctuation)~--- but the writing is involving.
+
+\item[$72-75$] Good: the author has created a manuscript with
+  substantial content and without any serious errors in tone or
+  narration. Problems with creative shaping and delivery may occur,
+  and there may be a further need for learning the mechanics of
+  language use, but generally, the problems do not interfere with the
+  reader's appreciation of the work.
+
+\item[$68-71$] Manuscripts with repeated errors in grammar, usage or
+  punctuation will result in a grade of no higher than 71 regardless
+  of the proficiency and imagination demonstrated in the creative
+  aspects of the work. On the other hand, manuscripts with no problems
+  in grammar, usage or punctuation may not receive a grade higher than
+  71 if they fail to demonstrate an understanding of the challenges
+  (of style or voice, for example) involved in writing in the genre.
+
+
+\item[$64-67$] Satisfactory: this writing shows constrained use of language
+  (either in the creative shaping and delivery of content or in
+  repeated errors in grammar punctuation, diction and usage), and the
+  treatment of the material has not resulted in sufficient depth. The
+  writing is potentially interesting, and a revision may improve the
+  manuscript.
+
+\item[$60-63$] This meets the minimum criteria of the assignment
+  without in any way exceeding it. There are repeated errors such as
+  spelling mistakes, sloppiness or a lack of depth to the writing.
+
+
+\item[$56-59$] Below average: the writing is difficult to read because
+  of inappropriate delivery or repeated grammatical errors or both.
+  Furthermore, the idea may not be appropriate for the form. This
+  grade does not permit students to pursue another course for which
+  the graded course was a pre-requisite.
+
+\item[$50-55$] Fail: the author fails to understand the nature of
+  creative writing or has not tried.
+
+\end{description}
+
+\subsection{Attendance and Participation}
+The expectation is that you will attend all sessions and involve
+yourself in the class process. Your willingness to engage creatively
+with the learning process, to take appropriate personal risks, and to
+participate in group activities are all central to your involvement in
+this class. Because developing a style of creative writing is very
+much a process of blending your own personal awareness with skills and
+practical techniques, your own emotional involvement in the class is
+as important as your academic knowledge of the material.
+
+\subsection{Grade Inflation}
+Almost every semester there are students who do well on the
+assignments, complete all the associated learning goals of the course,
+participate well, and wonder why they do not receive a grade of one
+hundred percent (or 98, anyway). Here is the reason: almost every
+semester there are students who demonstrates a level of commitment
+that goes beyond the course requirement. Such students complete extra
+work, or hand in exemplary assignments, or undertake a significant
+amount of personal development in addition to the course expectations.
+Such students typically receive the highest grades.
+
+If you do reasonably well in the course you will receive a reasonable
+grade. Very high grades are intended for extra or exemplary work.
+Unfortunately, over the past thirty years the post-secondary
+educational system in North America has participated in a process of
+grade inflation. Since the 1980's, the average grade for typical
+course work has been increasing by about 25 per cent each decade.
+Elevated assessments do not accurately reflect the work of most
+students. Even worse, grade inflation has caused many students to
+expect high grades for average work. I am not a particularly stringent
+assessor; but I will not inflate grades artificially.
+
+The grades for the course will be distributed along a curve, with a
+small number of students (likely) receiving high grades, most students
+receiving grades in the middle range, and a few students struggling
+with lower grades. If you are uncertain about your assessment for a
+given assignment, or if you wish to know where, roughly, you are along
+the distribution curve of the class, or if you would like suggestions
+for how to improve your grade, please ask me for clarification.
+\clearpage
+
+\section{Class Schedule}
+The class structure involves 14 sessions. These sessions will be
+balanced between presentations (by the instructor and students)
+academic material, group collaboration, and composition. The content
+for each session will evolve as the semester progresses. We will cover
+the following themes (though, perhaps not in the order listed below):
+\\
+\begin{compactdesc}
+
+\item[The Nature of Myth]
+Definitions of mythology (a body of myths) and mythopoetic (the making of myths).
+Clarifications of common misunderstandings about myth (e.g. that myths are false, or that myths obfuscate factual information).
+An introduction to myths as carriers of cultural knowledge in the arts and sciences.
+Consideration of myths as versions of truth and as effective containers for sacred, social, political, or scientific information (e.g. in ancient astronomy and contemporary religion).
+Examination of myth-making as a fundamental and necessary function of human nature.
+Consideration of the persistence of the myth-making function and its role in the contemporary world (e.g. the mythologies evolving around 9/11).
+Examination of the relationship between myth and truth.\\
+
+\item[Myths of Ancient Sumer and Egypt]
+Introduction to the historical background of the origins of Western mythology and literature.
+Explication of Sumerian and Egyptian world views, with particular emphasis on spirituality, mythological concepts, and approaches to the imagination.
+Reading of excerpts from core Egyptian and Sumerian texts, with particular emphasis on myths that form the foundation of the literatures of the West.
+Examination of the ways in which science and mythology were entwined in the practices and perspectives of the ancient Egyptians and Sumerians.
+Introduction to Egyptian hieroglyphic, the most elaborate writing system ever developed, and the role of hieroglyphs in the transmission of myth.
+Exploration of the transmission of Sumerian and Egyptian mythological ideas into the contemporary world (e.g. the eye on the American dollar bill).\\
+
+\item[Greek Influences]
+Exploration of the transmission of myth from the Sumerians and Egyptians to the Greeks.
+Explication of Greek adaptations of and contributions to myth, with emphasis on the traditions of philosophy and theatre.
+Reading of selected Greek literary and mythological texts.
+Examination of the ways in which science and mythology were entwined in the practices and perspectives of the Greeks.
+Examination of the ways in which Greek texts subsequently influenced the development of European literatures.\\
+\newpage
+\item[Myths of China, Japan, and India]
+Introduction to the historical background of the origins of Eastern mythology and literature.
+Explication of ancient Chinese, Japanese, and Indian world views, with particular emphasis on spirituality, mythological concepts, and approaches to the imagination.
+Exploration of the possible connections between ancient Indian myths and those of ancient Egypt and Sumer, with particular focus on Kundalini yoga.
+Reading of excerpts from ancient Chinese, Japanese, and Indian mythological texts, with particular emphasis on myths that form the foundation of the broader literatures of Asia.
+Exploration of the transmission of ancient Chinese and Indian mythological ideas into the contemporary world (e.g. Confucianism and Taoism in modern Asian business practices, and the Tibetan world view).\\
+
+\item[Shamanic Myths and Cultures]
+Introduction to the mythologies of ancient aboriginal cultures from Canada, Australia, Africa, Southeast Asia, and South America.
+Introduction to the mythologies of contemporary aboriginal cultures from Canada, the United States, Australia, New Zealand, Africa, Southeast Asia, and South America.
+Explication of the shamanic world view, with particular emphasis on spirituality, mythological concepts, and approaches to health and healing\\
+Reading of excerpts from transcriptions of ancient and contemporary shamanic myths, poems, and songs.
+Exploration of the transmission of ancient shamanic myths, by means of epic poems and songs, into the contemporary world (e.g. the art of the aboriginal peoples of the Northwest).\\
+
+\item[Europe and the Middle East]
+Introduction to the transmission and adaptation of ancient myth in the European cultures of the Common Era.
+Exploration of the Hermetic traditions, the rediscovery of ancient texts, and the influence of these developments on European art and literature after 1500 CE.
+Examination of the integration of science and mythology in the development of the intellectual and political traditions of Europe and North America (e.g. the Washington Monument and the ground plan of the Mont-Royal neighbourhood in Montreal).
+Introduction to the Grail mythologies and their foundation role in Western literature from 1500 CE to the present.
+Reading of excerpts from the mythological texts of Europe and the Middle East.
+Examination of European myths and their relevance to contemporary politics, sports, entertainment and pop culture in Canada.\\
+
+\item[The Psychology of Mythology]
+Introduction to the tradition of twentieth century myth scholars (Carl Jung, Joseph Campbell, Mircia Eliade) and their attempts to integrate all myths into a single continuum of human inquiry and expression.
+Reading of selected texts by Jung, Campbell, and Eliade.
+Examination of the relationship between myth and personal psychology (e.g. dreams).
+Exploration of the psychological models used by scholars to describe the underlying impulses and functions of myths (e.g. the collective unconscious).
+Consideration of the myths of individuality, the psychological
+functions that derive from these, and the interplay between personal
+and social mythologies. Consideration of the necessity of myths and of the development of new myths.\\
+
+\item[Mythopoetics in Contemporary Arts and Literature]
+Examination of the many ways in which myths pervade contemporary literary and creative traditions.
+Reading of selected contemporary and mythological texts from the genres of fiction, non-fiction, and poetry.
+Consideration of the ways in which myths are conjoined, truncated, and adapted for contemporary readers.
+Introduction to the artist as a mythological figure (the trickster), and to the mythological role of the artist in contemporary society.
+Exploration and application of mythopoetic writing strategies.\\
+
+\item[Mythology in the Contemporary World]
+Consideration of current personal myths, familial myths, cultural myths, and world myths (e.g. myths of apocalypse, myths of the United States as the gunslinger, the myth of Canada as the North).
+Examination of popular myths, controversial myths, and myths which have persisted for hundreds or thousands of years essentially unchanged.
+Reading of excerpts from contemporary mythological texts in the political and social spheres.
+Exploration of the contemporary role of myth in world politics, religion, and spirituality.
+Consideration of the future directions of myth in literature, culture, and human nature.\\
+
+\end{compactdesc}
+\newpage
+
+\section{The World Tree}
+
+South of the riverbend, twenty minutes along a trail fringed with pink
+flowers of hardhack and gangly stalks of sweet gale, the World Tree
+stands against a spring sky. Through a lattice of dark branches
+restless with vigor, nomadic flecks of blue sweep toward the horizon.
+An eagle rides a crest of sea air, glances down, then spirals away.
+Underfoot, the ground is damp, yielding. A long skein of root twists
+out from the great trunk, meanders toward a bristled head of
+cottongrass. The bole of the tree is broad; black furrows streaked
+with umber climb skyward along its body. High up, a rustling brown
+blur -- squirrel -- cracks a narrow branch. The quick trill of a robin
+sounds nearby. Here, within earshot of the encroaching highways of
+suburban Vancouver, myth and dream and the rhythm of day collide in
+the slow unfurling of the world. 
+
+The low branches of this ancient black spruce -- sweeping upward like
+fractured tusks, riddled with worm tracks -- are the steps of an ancient
+ladder into the sky. Twenty feet up, a canopy of moss hangs from
+encircling boughs over the quiet clearing. The air breathes, exhales
+with the tang of Labrador tea. The World Tree, resting here in a glade
+at the edge of the bog, is the true axis of the earth. It extends from
+an unfathomable root in the underworld, through a trunk scaled like
+dragon-hide, turbulent as smoke, and reaches, with new and tender
+shoots, upward. A shimmering and deathless bird perches, vigilant, at
+its peak. It was here, beside the pool of memory and prophecy at the
+base of the tree Yggdrasil, that Odin surrendered his one eye in
+exchange for a single drink from the well. Even now, a pool of dark,
+standing water lies at the bottom of a hollow between two intertwined
+roots. The hole is lined with black soil. A small blueberry leaf spins
+slowly in the water. 
+
+The roots snake together at the base of the trunk. I follow them
+toward the mottled bark, looking for the spot where Odin hung on the
+tree, pierced by his own spear, for nine days listening and learning
+the vanished dream-songs of the earth. The rumble of a passing truck,
+too loud and too close in the afternoon air, reminds me how fragile,
+how precarious is the solace of this place. Burns Bog is the largest
+urban wilderness in North America. Its eventual fate -- as park,
+industrial sprawl, or garbage dump -- lies hidden in a labyrinth of
+divergent aims: community, business, government. The secret of its
+preservation ripples beneath the surface of the well. In Norse myth,
+Yggdrasil will be destroyed by a fiery sword during the final battle
+of the world. The earth will descend into the primordial sea. Yet one
+small forest will remain, Hodmimir, preserved by Lif and Lifthrasir,
+whose names mean ``life'' and ``eager for life.'' They are the inheritors
+of an unshadowed world rising from the waters of tumult. 
+
+I trace my fingers over the trunk, lost in old tales: the twilight of
+gods, a scorched and blackened tree, a luminous eye searching for
+wisdom. And one forest, a delicate landscape snatched from ruin. A
+droplet of clear sap hovers at the edge of a deep wrinkle in the bark.
+I taste it: sweet, like sugarcane, but with a spreading warmth. 
+
+The hinge of the world creaks around the trunk of this tree of storms.
+The surrounding bog, with its forest ramparts hiding ghost cougars and
+startled deer, is an archetype of all ancient and sacred places.
+Through their preservation, we drink from the ancestral well. Long
+draughts of memory, belonging, and sustenance. The trail curves back
+from here, toward the service road and the tractor sunk in the mud. I
+look up. The sun has drifted across the shell of the sky. Amber rays
+lengthen along the trunk of the World Tree. I turn and follow the
+path. The peat shivers as I move across it, pulsates with the rhythm
+of my steps. A pair of sparrows flits through the underbrush. They
+disappear behind a curtain of bracken ferns and emerge, darting and
+jubilant, on the other side. Life, and eager for life.
+
+\newpage
+\section{Myths of the Primordial Waters: Ancient Mariners, Human
+  Migration, and the Sea}
+
+Plato wrote that the past is like the wake behind a boat; it spreads,
+and diminishes behind us, and merges with the surrounding sea. The
+past rolls under and is gone.
+
+We stand upon the foredeck of Plato's boat, gazing forward, cleaving
+our path toward the future. Along the track of our traveling many
+things are lost -- because we are always searching ahead, because the
+wake is jostling and turbulent, because our craft is small and the
+ocean is vast.
+
+It is by means of this manner of journeying into the future that our
+knowledge of ancient peoples is vanishingly small. We know a fair
+amount about the last thousand years of our history, we surmise a
+sketch of the thousand years before that -- and of the remote ages
+before that, we know very little. Snatches, really, vignettes gathered
+from scattered documents and fragmentary tales. For the great majority
+of the history of modern humans -- a hundred thousand years, two
+hundred thousand, no one knows -- we understand almost nothing. Along
+our own coasts, which once were at lower altitude than they are now,
+ancient villages lie hidden beneath the wake of passing boats above.
+
+And yet, old stories have been handed down from that long, invisible
+stretch of years: fables, epics, mythologies of archaic and unknown
+origin. Among those ancient tales is a set of related motifs, from
+many cultures, that tell of seafarers who found their way to distant
+shores. In China, Polynesia, Japan, Egypt, Africa, Scandinavia -- in
+most places bordered by the sea -- we find fantastic tales of oceanic
+travel. On our own coasts -- in Haida Gwaii, and along the sheltered
+eastern shore of Vancouver Island, and inland all the way to the
+Kootenays -- similar stories are told of those who came long ago, and
+lived upon the land, and vanished.
+
+For at least a century, since archaeology and anthropology became
+sciences based on hard evidence, such cultural tales have been
+dismissed as folklore and wishful thinking. The evidence simply did
+not support the stories. The timelines claimed by various cultures
+seemed inconsistent with what was surmised about technologies and
+methods from various historical and pre-historical periods. The ruins
+of ancient sites could not be found (near Atlin, for example, or near
+Telkwa, both sites where aboriginal tales describe cities of utmost
+antiquity). The longevity of known sites could not be established from
+existing data (the Nanaimo petroglyphs, for example). Eventually, the
+scientific consensus was that the claims of myth were just that:
+imagined tales, with no actual basis.
+
+But within about the last decade, a wealth of new evidence challenges,
+and will likely soon overturn, traditional scientific views concerning
+human migration in the ancient world. The emerging data comes from
+various fields: genetics, archaeology, anthropology, linguistics, and
+the developing field of archaeo-astronomy. Working sometimes in
+concert and other times in conflict, these fields are leading us
+through a fundamental paradigm shift in our perspective of the past.
+
+The history of science consistently confirms something we easily
+forget: that most of our certainties will turn out to be wrong. What's
+turning out to be wrong at the moment is our conception of the
+peopling of the Americas. The standard theory -- the Bering land
+bridge, ice-free corridors, southward migration -- has begun to give
+way to a more nuanced and complex view involving multiple waves of
+ancient immigrants arriving at different times and by disparate means.
+
+Debates and developments within the scientific community typically
+take place in closed meetings at universities and at conferences not
+attended by the general public. But the conversation about ancient
+migration has become very public since the 1996 discovery of a
+skeleton known as Kennewick Man. He was found on the banks of the
+Columbia River, in Washington State, by a pair of spectators watching
+hydroplane races. Initially, local aboriginal groups claimed him as
+one of their own; an ancestor, perhaps a fallen warrior from long ago.
+
+But archaeologists who studied Kennewick Man found a curious thing: he
+is not aboriginal. His remains are old -- approximately 9,300 years
+old -- but he is not an ancestor of any current aboriginal population.
+In fact, he's Asian. He may be an ancestor of modern Pacific
+Islanders, or of the Ainu people of northeast Asia. In either case, he
+traveled here more than ten thousand years ago, likely with a small
+population of others like him who made their careful way inland and
+across the Pacific Northwest.
+
+Kennewick Man is not the only oddity of the ancient human landscape.
+Many so-called anomalous remains and sites have been found in both
+North and South America: Monte Verde, for example, in Chile, and the
+entire collection of colossal stone remains in Mexico known as the
+Olmec culture. Along British Columbia's Inside Passage, near the
+Yuculta rapids, stone sculptors carved somber faces into twenty-six
+granite boulders on the shore, more than at any other site on the
+Pacific coast. The carvers are long gone, vanished but for these stone
+traces of mystery.
+
+As the number of anomalies has accumulated, the trajectory of the
+scientific conversation has changed too: from dismissal, to caution,
+to contention, and finally to a new consensus. That final, new
+consensus has not yet fully emerged, but its basic elements are
+already in place: many groups of migrating people came to North and
+South America -- ten, twenty, perhaps as much as thirty thousand years
+ago -- in separate and commingling waves of odyssey, exile, and
+accident.
+
+And how did they come? By boat.
+
+Imagine those ancient mariners, navigating by the stars, uncertain of
+their destination, traveling in what might have been open canoes or
+out-rigged rafts or makeshift kayaks. No compass, no map, no
+protection against the sea's indifference. Nothing but sheer guts and
+necessity.
+
+They came at different times and, no doubt, by varying means: from
+Japan, Russia, Southeast Asia, Polynesia (likely from Europe, as
+well). They established settlements here, lived upon the land for some
+stretch of time, then disappeared. Perhaps they were subsumed into
+existing or descendant groups. Perhaps most of them were wiped out by
+an asteroid impact 13,000 years ago (as one recent theory suggests).
+But no one knows. The descendants of the original, pre-migration
+peoples still exist in Japan, Russia, and Polynesia. They are the
+Ainu, the Jomon, the Polynesians; and they are still here, thousands
+of years after small clusters of their people sailed across the sea.
+
+The puzzle of the most archaic groups is deepened by the fact that sea
+levels are now as much as 30 metres higher than they were 10,000 or
+more years ago. Villages that once lay at the seaside are now long
+immersed, swept by the amnesia of the waters, erased beneath Plato's
+persistent wake.
+
+However, anomalous underwater stone sites have been found in Japan,
+Cuba, Malta, Egypt, and elsewhere. After the 2004 Indian Ocean
+earthquake, stone artifacts from an ancient and fabled submerged city,
+once dismissed by archaeologists as mythological, were washed up on
+the beach by the force of the tsunami. These artifacts include
+six-foot high statues of the head and shoulders of an elephant, a
+horse in flight, and a reclining lion.
+
+In Haida Gwaii, traditional myths tell of the ancient rise of the sea,
+of ice floes moving across the land, of sudden and drastic upheavals
+that transformed the islands. And those Haida myths also speak of an
+earlier people, now gone, who inhabited that mystic place long ago,
+and of whom nothing is now left but ghosts.
+
+Those ghosts take many contemporary forms: the sea-wolf petroglyph
+south of Nanaimo, the unique Christina Lake petroglyph, the funereal
+mound at Keremeos, the persistent tales of the fabled city of
+Dimlahamid in northern British Columbia, between the Bulkley and
+Skeena rivers. And Kennewick Man, of course, who may have known, when
+he was alive, the meaning of the stone sculptures at Yuculta, or might
+himself have carved images into stones scattered across a river delta.
+His people were here, after all -- in what is now Vancouver, and
+Victoria, and inland by way of the rivers -- and the settlements of
+our people today are laid over those of his people by thousands of
+years of rainfall, wind, and memory.
+
+And yet the ancient evidence swells, and spreads, and cannot be laid
+to final rest: scattered human remains, colossal in their age;
+Polynesian chicken bones found in Peru; genetic anomalies among
+various cultural groups (the Scots, for example, may be descended from
+ancient seafaring Egyptians).
+
+The old boats are gone, of course, long undone by the alchemy of salt
+water on wood. But the tales remain, and have not surrendered their
+claims of authenticity. And now, finally, science is coming forward to
+meet the mythological narrative. The new and shared story, woven
+together by the threads of both science and cultural memory, is this:
+
+No single people came first to the Americas, but instead many came, in
+small sorties and great armadas, during a period of human history
+about which we are profoundly ignorant. Before the Ice Age and after
+it they arrived, and made homes for themselves, and left only the tiny
+traces typical of the human story. Their cultures appeared and
+vanished again (as our cultures will also).
+
+These disparate groups were united by the sea, the great trackless
+track that challenged and delivered them. The mariners of today are
+the descendants, in spirit, of those early nomads who first harnessed
+the wind. We pass over their graves, somewhere between the shore and
+the deep water. Watch for that place -- 30 metres of depth -- and
+recognize, as you pass over that line, the legacy you inherit: love of
+the wide waters, the quest for adventure, the longing for what lies
+over the horizon. These are the gifts of the vanished peoples, whom we
+will never know except by the ways in which we are stirred, even now,
+by their ancient dreams.
+
+\newpage
+\section{Blinking Cursor, Blank Page}
+Late in \textit{Heart of Darkness}, after Marlow has meandered deep
+into the jungle but before he meets Kurtz, who utters his now-famous
+judgement upon human nature, ``The horror! The horror!'' --- before
+this, the most famous scene in twentieth century literature, Marlow
+finds himself making necessary repairs to the ship. He ruminates on
+these activities as distractions from the shadows around him, from the
+haunting underbelly of his own nature that he sees in the wilderness
+around him, in the passionate abandon of the local tribes-people.
+Here's the full passage:
+\begin{quotation}
+  The earth seemed unearthly. We are accustomed to look upon the
+  shackled form of a conquered monster, but there --- there you could
+  look at a thing monstrous and free. It was unearthly, and the men
+  were --- No, they were not inhuman. Well, you know, that was the
+  worst of it --- this suspicion of their not being inhuman. It would
+  come slowly to one. They howled and leaped, and spun, and made
+  horrid faces; but what thrilled you was just the thought of their
+  humanity --- like yours --- the thought of your remote kinship with
+  this wild and passionate uproar. Ugly. Yes, it was ugly enough; but
+  if you were man enough you would admit to yourself that there was in
+  you just the faintest trace of a response to the terrible frankness
+  of that noise, a dim suspicion of there being a meaning in it which
+  you --- you so remote from the night of first ages --- could
+  comprehend. And why not? The mind of man is capable of anything ---
+  because everything is in it, all the past as well as all the future.
+  What was there after all? Joy, fear, sorrow, devotion, valour, rage
+  --- who can tell? --- but truth --- truth stripped of its cloak of
+  time. Let the fool gape and shudder --- the man knows, and can look
+  on without a wink. But he must at least be as much of a man as these
+  on the shore. He must meet that truth with his own true stuff ---
+  with his own inborn strength. Principles won't do. Acquisitions,
+  clothes, pretty rags --- rags that would fly off at the first good
+  shake. No; you want a deliberate belief. An appeal to me in this
+  fiendish row --- is there? Very well; I hear; I admit, but I have a
+  voice, too, and for good or evil mine is the speech that cannot be
+  silenced. Of course, a fool, what with sheer fright and fine
+  sentiments, is always safe. Who's that grunting? You wonder I didn't
+  go ashore for a howl and a dance? Well, no --- I didn't. Fine
+  sentiments, you say? Fine sentiments, be hanged! I had no time. I
+  had to mess about with white-lead and strips of woolen blanket
+  helping to put bandages on those leaky steam-pipes --- I tell you. I
+  had to watch the steering, and circumvent those snags, and get the
+  tin-pot along by hook or by crook. There was surface-truth enough in
+  these things to save a wiser man.
+\end{quotation}
+
+Marlow employs seamanship as a kind of shield against the chaos,
+against the frightening shapes of his inner life. After all, he is a
+civilized man, an Englishman, for whom the shadow must be contained.
+Marlow is a sailor, one who traverses the waters but remains above
+them. Writers, conversely, are involved in plumbing those depths, in
+encountering their lights and shadows, in struggling with the full
+breadth of human propensity.
+
+But we distract ourselves too, and the most common method of doing
+this is to allow the electronic world to continually divert us from
+the blank page and blinking cursor. Email alerts, news feeds, blogs:
+there is enough distraction in these things to doom the wisest writer.
+We must go into the darkness, into the bardo, to discover our
+treasures. That we often have difficulty doing so is, in part, due to
+the persistent emphasis of our environment upon the facile and the
+transient and the ephemeral. Always an update, a flashing notice, a
+clamoring icon which seems to confirm our importance --- but in fact
+belies our addiction to the inconsequential.
+
+Writers have not been well-served by technology since about 1990, when
+the last console versions of \textit{WordPerfect\/} showed us a black
+screen upon which a small, blinking cursor waited patiently for us to
+dive into the waters. Since the advent of graphical user interfaces,
+the blackness has been hidden, has been replaced by smilies and floral
+wallpaper and pastel icons. I'm not against the \textsc{GUI}; but for
+writing, it's a serious impediment, the modern equivalent of Marlow's
+leaky steam pipes.
+
+The confrontation with what lies behind, or beneath, or hidden, is the
+essence of all good writing. And whether one perceives that
+hidden-ness as darkness, as Conrad did, or as a terrifying whiteness,
+as did Melville, the mystery is the same. Here's Melville describing
+the peculiar terror evoked by the whiteness of the whale:
+\begin{quotation}
+  Is it that by its indefiniteness it shadows forth the heartless
+  voids and immensities of the universe, and thus stabs us from behind
+  with the thought of annihilation, when beholding the white depths of
+  the milky way? Or is it, that as in essence whiteness is not so much
+  a colour as the visible absence of colour; and at the same time the
+  concrete of all colours; is it for these reasons that there is such
+  a dumb blankness, full of meaning, in a wide landscape of snows ---
+  a colourless, all-colour of atheism from which we shrink? And when
+  we consider that other theory of the natural philosophers, that all
+  other earthly hues --- every stately or lovely emblazoning --- the
+  sweet tinges of sunset skies and woods; yea, and the gilded velvets
+  of butterflies, and the butterfly cheeks of young girls; all these
+  are but subtile deceits, not actually inherent in substances, but
+  only laid on from without; so that all deified Nature absolutely
+  paints like the harlot, whose allurements cover nothing but the
+  charnel-house within; and when we proceed further, and consider that
+  the mystical cosmetic which produces every one of her hues, the
+  great principle of light, for ever remains white or colourless in
+  itself, and if operating without medium upon matter, would touch all
+  objects, even tulips and roses, with its own blank tinge ---
+  pondering all this, the palsied universe lies before us a leper; and
+  like wilful travellers in Lapland, who refuse to wear coloured and
+  colouring glasses upon their eyes, so the wretched infidel gazes
+  himself blind at the monumental white shroud that wraps all the
+  prospect around him. And of all these things the Albino whale was
+  the symbol. Wonder ye then at the fiery hunt?
+\end{quotation}
+
+The writer approaches mystery by way of the white page or the black
+screen. That is our task, nothing more. Not to explain the mystery, or
+to resolve it, or to erase it; but to encounter it, struggle with it,
+allow it to enter and change us. This will not happen, cannot happen,
+if we are checking our emails and news feeds all day long. We must sit
+in silence, waiting for the mystery to descend.
+
+\end{document}

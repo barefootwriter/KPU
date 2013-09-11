@@ -1,0 +1,24 @@
+\select@language {english}
+\contentsline {chapter}{Mythological Narratives}{3}
+\contentsline {section}{Basic Philosophy of the Course}{3}
+\contentsline {section}{Learning Goals}{4}
+\contentsline {section}{Learning Experiences}{4}
+\contentsline {section}{Readings}{4}
+\contentsline {subsection}{Required Course Texts}{4}
+\contentsline {subsection}{Suggested Books}{4}
+\contentsline {subsection}{Books on Creativity and Associated Philosophies}{6}
+\contentsline {subsection}{Mythological Fiction}{8}
+\contentsline {section}{Demonstration of Learning}{9}
+\contentsline {subsection}{Written Assignments}{9}
+\contentsline {subsubsection}{Assessment Criteria for Creative Compositions}{9}
+\contentsline {subsection}{Group Presentations and Overall Engagement}{10}
+\contentsline {subsubsection}{Presentation Methods and Goals}{10}
+\contentsline {subsubsection}{Example Topics for Presentations}{11}
+\contentsline {subsubsection}{Assessment Criteria for Group Presentations and Overall Engagement}{13}
+\contentsline {subsection}{Attendance and Participation}{13}
+\contentsline {subsection}{Grade Inflation}{15}
+\contentsline {section}{Due Dates}{16}
+\contentsline {section}{Thematic Schedule}{16}
+\contentsline {section}{Example Projects}{19}
+\contentsline {subsection}{Creative Composition: The World Tree}{20}
+\contentsline {subsection}{Research Project: Myths of the Primordial Waters}{21}
