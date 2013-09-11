@@ -13,4 +13,23 @@
 *.xcf
 *.rtf
 *.doc
+*.odt
+*.psd
+*.pages
+*.xls
+*.docx
+*.xlsx
+*.out
+*.rst
+*.BASE
+*.OTHER
+*.THIS
+*.webloc
+*.png
+*.swp
+*.4ct
+*.ods
+*.sla
+*.numbers
+*.eps
 
