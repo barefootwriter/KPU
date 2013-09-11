@@ -1,0 +1,28 @@
+\select@language {english}
+\contentsline {subsection}{Instructor}{1}
+\contentsline {section}{Basic Philosophy of the Course}{1}
+\contentsline {section}{Learning Goals}{2}
+\contentsline {section}{Learning Experiences}{3}
+\contentsline {section}{Readings}{3}
+\contentsline {subsection}{Required Course Text}{3}
+\contentsline {subsection}{Suggested Books}{3}
+\contentsline {subsection}{Books on Interdisciplinary Creativity}{4}
+\contentsline {subsection}{Further Suggestions}{6}
+\contentsline {section}{Demonstration of Learning}{7}
+\contentsline {subsection}{Assignments}{7}
+\contentsline {subsubsection}{Individual Project}{7}
+\contentsline {subsubsection}{Assessment Criteria for the Individual Project}{8}
+\contentsline {subsection}{Group Project}{8}
+\contentsline {subsubsection}{Presentation Methods and Goals}{8}
+\contentsline {subsubsection}{Suggested Topics for Interdisciplinary Presentations}{10}
+\contentsline {subsubsection}{Assessment Criteria for Group Presentations and Overall Engagement}{11}
+\contentsline {subsection}{Online Community Project}{12}
+\contentsline {subsubsection}{Portfolio}{12}
+\contentsline {subsection}{Attendance and Participation}{13}
+\contentsline {subsection}{Grade Inflation}{15}
+\contentsline {section}{Due Dates}{16}
+\contentsline {section}{Thematic Schedule}{16}
+\contentsline {section}{Resources}{18}
+\contentsline {subsection}{How to Start Writing}{18}
+\contentsline {subsection}{Steps to Better Writing}{19}
+\contentsline {subsection}{Practical Tips}{21}
