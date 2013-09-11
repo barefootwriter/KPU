@@ -1,0 +1,55 @@
+;; This buffer is for notes you don't want to save, and for Lisp evaluation.
+;; If you want to create a file, visit that file with C-x C-f,
+;; then enter the text in that file's own buffer.
+
+Year One:
+
+IDEA 1100
+PSYC 1100
+CRWR 1100
+WRIT 1100 (writing-intensive, currently ENGL 1100)
+FINA 1120
+FINA XXXX
+IDDS 1165
+MUSI XXXX
+QUAN XXXX (Quantitative)
+BREA XXXX (Breadth)
+     
+Year Two:
+
+CRWR 2300
+CRWR XXXX
+PSYC XXXX
+FINA XXXX
+FINA XXXX
+MUSI XXXX
+MUSI XXXX
+CUST XXXX
+QUAN XXXX
+BREA XXXX
+
+Year Three:
+
+IDEA 3100
+CRWR 3301
+CRWR XXXX
+FINA XXXX
+FINA XXXX
+MUSI XXXX
+MUSI XXXX
+CUST XXXX
+QUAN XXXX
+BREA XXXX
+
+Year Four:
+
+IDEA 4100
+CRWR XXXX
+CRWR XXXX
+FINA XXXX
+FINA XXXX
+FINA XXXX
+MUSI XXXX
+MUSI XXXX
+BREA XXXX
+CUST XXXX

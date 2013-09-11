@@ -1,0 +1,43 @@
+\TeXXeTstate=1
+\documentclass[12pt,DIV10,oneside,headsepline,letterpaper]{scrreprt}
+\usepackage{fontspec,xunicode}
+\defaultfontfeatures{Numbers=OldStyle,Scale=MatchLowercase,Mapping=tex-text}
+\setmainfont{Sabon LT Std}
+\setromanfont[Mapping=tex-text]{Adobe Jenson Pro}
+\setsansfont[Scale=MatchUppercase,Letters=SmallCaps]{Myriad Pro}
+\usepackage{graphicx}
+\usepackage{xltxtra}
+\setcounter{secnumdepth}{-1}
+\begin{document}
+\section{Convocation Address}
+
+There is a crossroads, and a gate, in all the old tales. On one side lies the known, the practiced, the familiar. And on the far side, unseen and unimagined, lies the Other: the one we left behind, who has been waiting all this time. That threshold is a holy place; it does not decay, nor can it be thwarted, nor can it be lost within the tangle of grooved and meandering ways. The crossroads remains, and is protected. The air is still, and warm. Drops of morning moisture lie upon the tips of slender grasses. A sound comes from the far side of the gate; the soft warbling, perhaps, of a stream in the near distance. You reach for that gate -- we all do. It might be opened with a small and gentle push.
+
+And on the other side one finds the ancient gods, the ones we have forgotten. They exist now only as dreams, as figments, as fragments of tales buried by the heedless weight of time. But it is from them that we learned to write, to sing, to measure, to craft the world into the shape of our own image. We left them behind long ago; but in all the myths, they were our first teachers.
+
+In the oldest Egyptian tombs and temples, in rooms festooned with hieroglyphs, in texts that lay undeciphered for five thousand years, one may read of an ancient god who is the bringer of knowledge and of illumination. He is the mythological ancestor of the many guides and mentors who populate the tales of every culture. He is the original storyteller, the inventor of writing, the trickster and wayfinder. His name is Thoth. The Greeks called him Hermes. He illuminates the labyrinths, the lost and switchbacking tunnels, and he is keeper of that great and hidden ancient library that adventurers still seek but have not found.
+
+It is Hermes ~-- whose many titles include the bringer of dreams, the watcher by night, the thief at the gates~-- who so often appears, at the crossroads, as both guide and protector. He knows the paths to hidden things, is the patron of knowledge, and is capable of traveling through the underworld unscathed. He is the border-crosser, the wanderer, whom the ancient texts describe as the ``master of spells and words of power, the voice of truth.'' The wayfinder knows all the subterranean passageways. His symbol is the ibis bird, or the crane, whose beak is like the crescent moon, bright in the dark sky.
+
+By whatever name he is called~-- Thoth, Hermes, Merlin, Gandalf, Yoda~-- his presence stretches far back. As long as we have told tales he occupies a central place within them, helping and healing. He stands at the gate, and watches by night, and wanders, and guides the heart home. He is the truth-teller.
+
+And the honouring of truth-telling, the welcoming and cherishing of it, is what brings us to this place today. After all, the many forms of education are the closest activity we have, in this age of cynicism, to the search for truth.
+
+The truth of our age -- as in every age -- has two faces, two sides, two paths at the crossroads. The first and perhaps most obvious path is one of tremendous upheaval and uncertainty: climate change, political corrosion, economic turmoil, nascent technologies that threaten the social fabric in many ways. The landscapes of culture, art, and media are increasingly fractured. Within this turbulent tumble lies the university graduate: pressured by the exigencies of commerce, disoriented by the labyrinthine paths ahead, anxious about the future that we all share.
+
+The pathways and buffers which once guided and protected university learners and graduates from the messiness and momentum of life beyond these cloistered walls are now, for the most part, dismantled or disintegrating. Professional paths that once were secure are now fraught with new obstacles. The sacred space of intellectual and creative inquiry seems under threat. The artifacts of that inquiry have lost much of their meaning. The casual blog has vanquished the thoughtful book.
+
+At least, this is how it seems to many people within the university system: dark times, enemies at the gate.
+
+But the crossroads has two paths. And besides, all the great stories begin this way. Emotional, cultural, and political turbulence provide the source and fuel for creativity, innovation, ingenuity. All that's required of us is that we pass through the gate of uncertainty. The current age is therefore a great gift. We have been placed upon the threshold at this specific moment of truth.
+
+The dismantling of traditional norms and practices in education, culture, and commerce has yielded a new kind of freedom. Well-educated people are now free, in the philosophical and perhaps spiritual sense, to pursue the clamor and craft of their work in a manner that we have not encountered before; not since the audacious invention of writing itself. The path beyond the gate -- which in all the old stories is rough and meandering -- this path offers an unrivaled adventure. Along its track simplicities reveal themselves behind the swirl of turbulence. In the context of today, this path offers new professional practices, fresh perspectives on the nature and meaning of work, a new ethics of environmental stewardship and community involvement. These are the outer appearances -- the carapace, the shell -- of what amounts to a re-imagining of what it means to be an educated and creative person.
+
+Now, more than at any time since we first began to write and dream under the tutelage of those ancient and forgotten gods, the path of education leads toward a reclaiming of the fundamental rights of creativity, engagement, and citizenship. Those archaic gods have not perished, nor have they been exiled, nor have they turned away from this hidebound world. They have been transformed, rather, they have shapeshifted into the archetypes and symbols of modern consciousness. They have become the outward forms of inward dreams. The wayfinder now inhabits the individual heart, as inner guide and compass.
+
+Freedom, adventure, courage, truth: these are the watchwords of the contemporary educated professional and our call to action. Every age calls its inhabitants to action. How do we know this? Writers and artists tell us. How do they tell us? By facing their own crises of confidence, by wrestling with the emerging norms and practices of their time, by choosing words and ideas and images as their instruments and the foundations upon which they stand. Why should we expect our age to be any different? Why would we want it to be?
+
+Whichever paths you choose, and whichever gates you pass through, I wish for you safety, and guidance, and truthfulness. I wish for you the spirit of wayfinding, that you might be led through the tunnels and labyrinths, that you find the still centre of your purpose and your being: untarnished, persistent, illuminated and brightly burning. May the wayfinder guide you through the gate and onward, to whatever home you find and make your own.
+
+
+\end{document}

@@ -1,0 +1,27 @@
+\select@language {english}
+\contentsline {chapter}{Writing for New Forms and Media}{3}
+\contentsline {section}{Course Overview}{3}
+\contentsline {section}{Learning Goals}{4}
+\contentsline {section}{Learning Experiences}{4}
+\contentsline {section}{Readings}{5}
+\contentsline {subsection}{Required Course Text}{5}
+\contentsline {subsection}{Suggested Books}{5}
+\contentsline {subsection}{Books on Interdisciplinary Creativity}{5}
+\contentsline {subsection}{Further Suggestions}{6}
+\contentsline {section}{Demonstration of Learning}{8}
+\contentsline {subsection}{Creative Compositions}{8}
+\contentsline {subsubsection}{Assessment Criteria for the Creative Compositions}{9}
+\contentsline {subsection}{Group Project}{10}
+\contentsline {subsubsection}{Presentation Methods and Goals}{10}
+\contentsline {subsubsection}{Suggested Topics for Presentations}{11}
+\contentsline {subsubsection}{Assessment Criteria for Group Presentations and Overall Engagement}{12}
+\contentsline {subsection}{Online Community Project}{12}
+\contentsline {subsection}{Digital Portfolio}{13}
+\contentsline {subsection}{Attendance and Participation}{14}
+\contentsline {subsection}{Grade Inflation}{15}
+\contentsline {section}{Due Dates}{17}
+\contentsline {section}{Thematic Schedule}{17}
+\contentsline {section}{Resources}{19}
+\contentsline {subsection}{How to Start Writing}{19}
+\contentsline {subsection}{Steps to Better Writing}{20}
+\contentsline {subsection}{Practical Tips}{22}

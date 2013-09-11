@@ -1,0 +1,35 @@
+<h2><r:title /></h2>
+<div class="entry group">
+<r:find url="/courses/2011/06/22/writing-for-new-forms-and-media">
+  <ul class="lst entry-meta">
+  <li><a href="/courses/2011/06/22/writing-for-new-forms-and-media">Overview</a></li>
+    <r:children:each>
+    <li><r:link/></li>
+    </r:children:each>
+  </ul>
+</r:find>
+<div class="entry-body hyphenate">
+
+<h3>The Nature of Interdisciplinarity </h3>
+
+
+<h3>Themes and Details</h3>
+<ul>
+<li>What's broken, why it's broken, and why we should not try (too hard) to fix it.
+<li>What creative freedom means today: new models for releasing your work in the wild.
+<li>Understanding and dealing with text as a commodity.
+<li>The meanings of Open, Free, Closed, and Proprietary (and the risks and opportunities offered by each).
+<li>Free (as in beer), free (as in speech): what's that all about?
+<li>Digital text as the new standard for all text: what this means and how to handle it.
+<li>Should you burn your books (to stay warm through the winter), or do something else with them? What else?
+<li>What doesn't kill you makes you stronger: the ascendency of the web (and how and why to write in that sphere).
+<li>The contemporary writer and modern public life: why the reclusiveness of the writer (which once worked in our favour) is now a major impediment to creative engagement.
+<li>Creative communities: how they work, what they offer, and why we should get involved.
+<li>Ancestral roots and the creative spirit: (from the ancient Egpytians to William Blake to the tweeting blogger).
+</ul>
+
+
+
+
+</div><!-- /entry-body -->
+</div><!-- /entry -->

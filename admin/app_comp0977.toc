@@ -1,0 +1,38 @@
+\contentsline {chapter}{Introductory Letter}{5}
+\contentsline {subsubsection}{At least three years' relevant experience.}{5}
+\contentsline {subsubsection}{A proven ability to teach business, professional, and technical communication skills (written and oral) \dots to students in a variety of applied programs \dots .}{5}
+\contentsline {subsubsection}{A Master’s Degree in \dots or an equivalent field.}{6}
+\contentsline {subsubsection}{Familiarity and working ability with current business communications technology.}{6}
+\contentsline {subsubsection}{Demonstrated ability to tailor curriculum for highly specialized fields.}{6}
+\contentsline {subsubsection}{And one or two more items \dots }{6}
+\contentsline {chapter}{Credentials}{8}
+\contentsline {section}{PhD, Interdisciplinary Creative Process,\\ The Union Institute and University}{8}
+\contentsline {section}{Dissertation}{8}
+\contentsline {section}{The Sussman Award for Academic Excellence}{9}
+\contentsline {section}{Finalist for the Governor General's Award}{9}
+\contentsline {section}{MA, Psychology}{10}
+\contentsline {section}{Bodynamics}{10}
+\contentsline {section}{Road Learning}{10}
+\contentsline {section}{BA, English Literature}{11}
+\contentsline {chapter}{Teaching Experience: Academic}{12}
+\contentsline {chapter}{Teaching Experience: Professional}{15}
+\contentsline {chapter}{Teaching Philosophy}{19}
+\contentsline {subsection}{Course Organization}{19}
+\contentsline {subsection}{Presentation and Process}{19}
+\contentsline {chapter}{Learner Feedback}{22}
+\contentsline {chapter}{Peer Feedback}{25}
+\contentsline {chapter}{Other Professional Experience}{28}
+\contentsline {section}{Scholarly Accomplishments}{28}
+\contentsline {section}{Professional Practice and Affiliation}{28}
+\contentsline {chapter}{Achievements as a Professional Author}{29}
+\contentsline {section}{Grain of Truth: The Ancient Lessons of Craft}{30}
+\contentsline {subsection}{Reviews of Grain of Truth}{30}
+\contentsline {subsection}{Excerpt from Grain of Truth}{32}
+\contentsline {section}{A Stone's Throw: The Enduring Nature of Myth}{34}
+\contentsline {subsection}{Reviews of A Stone's Throw}{34}
+\contentsline {subsection}{Excerpt from A Stone's Throw}{37}
+\contentsline {section}{Labyrinth: Addictions and the Search for Healing}{39}
+\contentsline {subsection}{Selected Excerpts from Labyrinth}{40}
+\contentsline {section}{Essays}{47}
+\contentsline {chapter}{Academic Referees}{48}
+\contentsline {chapter}{Transcripts}{49}

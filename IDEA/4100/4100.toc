@@ -1,0 +1,23 @@
+\select@language {english}
+\contentsline {subsection}{Instructor}{1}
+\contentsline {section}{Basic Philosophy of the Course}{1}
+\contentsline {section}{Learning Goals}{2}
+\contentsline {section}{Learning Experiences}{3}
+\contentsline {section}{Readings}{3}
+\contentsline {subsection}{Required Course Texts}{3}
+\contentsline {subsection}{Suggested Books}{4}
+\contentsline {subsection}{Books on Creativity and Associated Philosophies}{5}
+\contentsline {subsection}{Further Suggestions}{7}
+\contentsline {section}{Demonstration of Learning}{8}
+\contentsline {subsection}{Assignments}{8}
+\contentsline {subsubsection}{Assessment Criteria for Creative Projects}{9}
+\contentsline {subsection}{Group Presentations}{9}
+\contentsline {subsubsection}{Presentation Methods and Goals}{9}
+\contentsline {subsubsection}{Suggested Topics for Interdisciplinary Presentations}{11}
+\contentsline {subsubsection}{Assessment Criteria for Group Presentations and Overall Engagement}{12}
+\contentsline {subsection}{Attendance and Participation}{13}
+\contentsline {subsection}{Grade Inflation}{14}
+\contentsline {section}{Due Dates}{15}
+\contentsline {section}{Thematic Schedule}{16}
+\contentsline {section}{Sample Project}{17}
+\contentsline {subsection}{Deep Water}{17}

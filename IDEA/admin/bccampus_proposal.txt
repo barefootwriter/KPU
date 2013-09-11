@@ -1,0 +1,23 @@
+Overview
+
+Many of our graduates will find careers in interdisciplinary environments in which technology (especially web technology) plays a key role. They will work on website and application development, they will be involved in startup teams that use technology to collaborate and communicate, and they will use social media platforms of all kinds. Indeed, the application of technology skill will be the core of their careers.
+
+At the moment, Kwantlen does not provide any means by which students can learn these skills in the way they are practiced in the real world. Technology themes are explored in various Kwantlen courses, but the technology infrastructure we provide does not resemble in any way how technology practices unfold in career situations. So, our students are unprepared to enter career situations in which these skills are expected and foundational. We just don't teach them the technology practices required to get them there. The challenge is not fundamentally technological or economic: we don't need new hardware or software. What we need, rather, is a methodology for technology workflow and development. In the absence of that methodology, it's as if we are training our students to be bakers but we don't give then access to an oven.
+
+Kwantlen faculty members in Interdisciplinary Expressive Arts, Creative Writing, Journalism, and Communications have all expressed interest in developing real-world web development capability at Kwantlen or through a collaboration with BC Campus. This would involve building upon what already exists (servers, disk space, Internet connectivity) and simply adding the free and open source tools and approaches that our students and faculty need (server access, file management, version control, etc.).
+
+Kwantlen's IET has begun to work toward this kind of solution, and small steps are being made. At the same time, BC Campus has expressed an interest in working with us to see what we can accomplish through their infrastructure. A few challenges will need to be grappled with: security, oversight, collaboration, and cost (which simply involves the cost of oversight and maintenance; no capital costs are required).
+
+This project is simple to implement, from a technology point of view. No one has to build anything. The tools already exist and are installed (both at Kwantlen and BC Campus). By making the decision to support this project and see where it leads, we would open the door to showing our students how to make websites, how to build and use platforms, how to program software the way it's done in the real world, and how to make their way in careers that increasingly utilize technology at their core.
+
+Technology Requirements
+
+Server space on a Ubuntu server or virtual machine
+SSH command-line access
+Git and similar open source web development software (Apache, Gunicorn, Nginx,...)
+Python/Django stack (with virtual environments)
+LAMP stack
+Live site deployment support (this is the tricky part, not from a technology perspective but in terms of oversight).
+
+
+ 

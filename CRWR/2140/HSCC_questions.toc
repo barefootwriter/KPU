@@ -1,0 +1,24 @@
+\select@language {english}
+\contentsline {subsection}{Notes and Responses}{1}
+\contentsline {section}{The Context of Course Development}{1}
+\contentsline {section}{Question 1: Online Presence}{3}
+\contentsline {subsection}{Part One}{3}
+\contentsline {subsection}{Part Two}{3}
+\contentsline {section}{Question 2: Uniqueness}{4}
+\contentsline {section}{Question 3: Scope}{4}
+\contentsline {subsection}{Part One}{4}
+\contentsline {subsection}{Part Two}{5}
+\contentsline {section}{Question 4: Code}{5}
+\contentsline {section}{Question 5: Course Title}{6}
+\contentsline {section}{Question 6: HTML5}{6}
+\contentsline {section}{Question 7: Learning Resources}{7}
+\contentsline {subsection}{Part One}{7}
+\contentsline {subsection}{Part Two}{8}
+\contentsline {subsection}{Part Three}{8}
+\contentsline {subsection}{Part Four}{9}
+\contentsline {subsection}{Part Five}{10}
+\contentsline {subsubsection}{Books}{10}
+\contentsline {subsubsection}{Critical Engagement}{11}
+\contentsline {subsubsection}{Scholarly Research}{12}
+\contentsline {subsection}{Part Six}{12}
+\contentsline {section}{Final Thoughts}{13}
