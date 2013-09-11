@@ -1,0 +1,27 @@
+\select@language {english}
+\contentsline {chapter}{Creativity and Leadership in Groups}{3}
+\contentsline {section}{Course Intention}{3}
+\contentsline {section}{Learning Goals}{3}
+\contentsline {section}{Learning Experiences}{3}
+\contentsline {section}{Readings}{4}
+\contentsline {subsection}{Required Course Texts}{4}
+\contentsline {subsection}{Suggested Reading}{4}
+\contentsline {section}{Demonstration of Learning}{4}
+\contentsline {subsection}{Attendance and Participation}{4}
+\contentsline {subsubsection}{Assessment Criteria for Attendance and Participation}{4}
+\contentsline {subsection}{Design Project}{5}
+\contentsline {subsubsection}{Section 1: Design and Rationale}{5}
+\contentsline {subsubsection}{Section 2: Self Awareness}{5}
+\contentsline {subsubsection}{Section 3: Sessional Outline}{5}
+\contentsline {subsubsection}{Assessment Criteria for the Design Project}{5}
+\contentsline {subsection}{Group Presentation}{6}
+\contentsline {subsubsection}{Assessment Criteria for the Group Presentation}{6}
+\contentsline {section}{Assessment of Learning}{6}
+\contentsline {subsection}{Assessment Philosophy}{7}
+\contentsline {subsection}{Grade Inflation}{8}
+\contentsline {section}{Assessment Forms}{9}
+\contentsline {subsection}{Attendance and Participation}{9}
+\contentsline {subsection}{Group Design Paper}{10}
+\contentsline {subsection}{Group Presentation}{10}
+\contentsline {section}{General Course Guidelines}{10}
+\contentsline {section}{Thematic Schedule}{11}

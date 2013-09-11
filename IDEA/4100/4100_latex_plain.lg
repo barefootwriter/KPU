@@ -1,0 +1,13 @@
+htfcss: pplri8t font-style: italic;
+htfcss: pplb8t font-weight: bold;
+htfcss: pplb8t font-weight: bold;
+htfcss: pplb8t font-weight: bold;
+File: 4100_latex_plain.html
+--- characters ---
+Font("cmsy","10","10","100")
+Font("pplr8t","","10","100")
+Font("pplb8t","","10","144")
+Font("pplb8t","","10","120")
+Font("pplb8t","","10","100")
+Font("pplri8t","","10","100")
+Font("pplrc8t","","10","100")
