@@ -30,6 +30,6 @@ John Dewey: “The aim of education should be to teach us rather how to think, t
 * Rubrics
 * Recognition
 
-Carol Rodgers on Reflection “Seeing Student Learning; Teacher Change and the Role of Reflection.” Harvard Educational Review, Summer 2002.
+Carol Rodgers on Reflection: “Seeing Student Learning; Teacher Change and the Role of Reflection.” Harvard Educational Review, Summer 2002.
 
 
