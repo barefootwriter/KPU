@@ -1,4 +1,6 @@
-IDEA Steering Committee members:
+IDEA Steering Committee members
+===============================
+
 
 Farhad Dastur (faculty member in Psychology)+
 
