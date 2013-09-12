@@ -1,6 +1,8 @@
 
+tmp/
 archive/
 *.pdf
+*.PDF
 *.svg
 *.jpg
 *.log
@@ -15,6 +17,7 @@ archive/
 *.rtf
 *.doc
 *.odt
+*.odp
 *.psd
 *.pages
 *.xls
@@ -34,3 +37,4 @@ archive/
 *.numbers
 *.eps
 *.ps
+*.xml
