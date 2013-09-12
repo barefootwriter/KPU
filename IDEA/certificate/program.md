@@ -1,6 +1,10 @@
-Program Framework
+Post-baccalaureate Certificate Program
+=======================================
 
-Modular, skills-based curriculum
+Mentorship and Community Engagement
+-----------------------------------
+
+### Modular, skills-based curriculum
 
 2 core modules: core and group
 
@@ -8,7 +12,7 @@ Modular, skills-based curriculum
 
 Mentorship practicum (skills-based, not time-based)
 
-Characteristics:
+### Characteristics
 
 * Online component with digital portfolio and badges
 * Prior learning assessment and gap analysis.
