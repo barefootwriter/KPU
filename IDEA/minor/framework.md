@@ -1,4 +1,3 @@
-
 Framework for the IDEA Minor
 ============================
 
@@ -22,7 +21,8 @@ New courses:
 
 * Core Mentorship Skills
 * Community Performance and Theatre Exploration (with mentorship language)
+* Interdisciplinary Field School in the Amazon (collaboration with Design)
 
-Total Courses: 8
+Total Courses: 9
 
-1100, 3100, 3301, 3302, 4100, Nature, Theatre, Core
+1100, 3100, 3301, 3302, 4100, Nature, Theatre, Amazon, Core
