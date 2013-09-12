@@ -22,7 +22,7 @@ Kurt Penner (faculty member in Psychology, Administrator in Student Life)+
 
 Jane Fee (Deputy-Provost & Associate VP, Academic)+
 
-Romy Kozak (Associate Dea)-
+Romy Kozak (Associate Dean, Arts)-
 
 Tierney Wisniewski (former student, winner of Dean's medal)+
 
