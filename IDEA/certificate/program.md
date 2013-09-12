@@ -4,7 +4,7 @@ Modular, skills-based curriculum
 
 2 core modules: core and group
 
-2 supplementary modules: one from the student’s area of expertise and one from a new area. Chosen from the following modules: Family, Teachers, Workplace, Culture, Nature, and Creativity
+2 supplementary modules: one from the student’s area of expertise and one from a new area.
 
 Mentorship practicum (skills-based, not time-based)
 
