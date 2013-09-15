@@ -2,6 +2,16 @@
 IDEA Outcomes
 =============
 
+What we need to do here:
+
+1. Review the skill set and make sure that it properly reflects the foundation.
+2. Review the AAC&U outcomes and make sure that we have not missed anything
+   from that list.
+3. Itemize a version of the skill set list (with additions from the AAC&U
+   list) so that we have a bulleted list that we can use across all courses.
+   To make this relatively easy, we could just condense each of the descriptive items in the skill set list and extract several bullet points from each (or maybe just one bullet point from some). I've tried this with the first skill (creating a good question) below.
+
+
 The Foundation
 --------------
 
@@ -17,6 +27,11 @@ The Skill Set
 ### Creating a “Good” Question
 
 The questions we ask tell us a lot about how we think, the assumptions we make and what we’re willing to accept as answers. What is a “good” question? How do questions emerge? Where do they come from? How does a question evolve? How do we hold space for our questions and how do they “work” on us? We will discuss these questions about questions, and see where they lead us.
+
+#### Condensed version
+
+* Creating effective questions for a broad range of inquiry.
+
 
 ### Critical Thinking and Crap Detection
 
