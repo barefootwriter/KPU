@@ -11,11 +11,11 @@ Kennedy, D., Hyland, A., & Ryan, N. (2006). *Writing and using learning outcomes
 This chapter of the Bologna Process implemtation guide discusses considerations for creating effective learning outcomes in programs and courses that utlize the Bologna process. The text explores the implications of a core approach: *… The principal question asked of the student or the graduate will therefore
 no longer be “what did you do to obtain your degree?” but rather “what can you do now that you have obtained your degree?” (Purser, Council of Europe, 2003).
 
-Campbell, G. (2013). *The single most consequential thing we do in universities: a case study in teaching assessment to new academics*. In Salter, D. J. (Ed). *Cases on quality teaching practices in higher education*. Hershey, PA: IGI Global.
+Campbell, G. (2013). *The single most consequential thing we do in universities: a case study in teaching assessment to new academics*. In Salter, D. J. (Ed), *Cases on quality teaching practices in higher education*. Hershey, PA: IGI Global.
 
 Discusses a general approach to thinking purposefully about assessment.
 
-Courneya, C. A. (2013). *White coat warm heART*. In Salter, D. J. (Ed). *Cases on quality teaching practices in higher education*. Hershey, PA: IGI Global.
+Courneya, C. A. (2013). *White coat warm heART*. In Salter, D. J. (Ed), *Cases on quality teaching practices in higher education*. Hershey, PA: IGI Global.
   
 Discusses the uses of art and art-making approaches during professional medical identity formation. Shows several examples of successful learner-centered, art-based approaches.
 
@@ -29,4 +29,8 @@ third decade of research*. San Francisco: Jossey-Bass.
  
 All three of the above explore the social and emotional world of learners. The 1991 work shows that social and emotional gains made by students during their time at university are considerably greater than their intellectual gains. This work also shows the importance of course climate in contributing to learner success. The 1997 work examines the importance of relationship-building between faculty and learners. The 2005 work discusses student challenges with self-management.
 
- 
+Felton, P., & Finley, A. (2013). *Motivating teaching excellence: Lessons from U.S. teaching awards*. In Salter, D.J. (Ed.), *Cases in Quality Teaching Practices in Higher Education*. Hershey, PA: IGI Global.
+
+Discusses opportunities and challenges for motivating learning innovation and excellence among faculty.
+
+
