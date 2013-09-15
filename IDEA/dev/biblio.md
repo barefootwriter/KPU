@@ -4,16 +4,20 @@ Annotated Bibiliography
 
 Ambrose, S. A., Bridges, M.W., Dipietro,, M., Lovett, M.C., & Norman, M.K. (2010). *How learning works: Seven research-based principles for smart teaching*. San Francisco, CA: Jossey-Bass. 
 
-Discusses general principles for teaching excellence, including: bridging teaching and learning; how prior knowledge affects learning; the implications of how students organize knowledge; what motivates students; how students develop mastery; what kinds of practice and feedback enhance learning; why course climates matters; and how to encourage self-direction. There is also an extensive set of appendices, with many examples. *Appendix C: What are Rubrics and How Can We Use Them?* is especially helpful for our purposes.
+Discusses general principles for teaching excellence, including: bridging teaching and learning; how prior knowledge affects learning; the implications of how students organize knowledge; what motivates students; how students develop mastery; what kinds of practice and feedback enhance learning; why course climates matters; and how to encourage self-direction. There is also an extensive set of appendices, with many examples. *Appendix C: What are Rubrics and How Can We Use Them?* is especially helpful in terms of thinking about assessment.
+
+Ambrose at el suggest that “if the instructor’s objective is for students to develop more sophisticated *process* skills (for example, researching relevant design ideas to spur their creativity, recording their exploration of multiple concepts, and explaining their design choices and revisions along the way to a final product), it may be necessary not only to express these goals explicitly but also to articulate what students need to do to meet the assignment’s objectives (for example, keeping a process journal in which they document their design iterations and explain their thought processes). It may also help to explain to students why these particular goals are important (for example, “Developing strong process skills will help you become more consistent and more able to handle complex tasks.” 
 
 Kennedy, D., Hyland, A., & Ryan, N. (2006). *Writing and using learning outcomes: A practical guide*. In Froment, E., Kohler, J., Purser, L., & Wilson, L. (Eds). *EUA Bologna Handbook — Making Bologna Work*. Berlin, Germany: Raabe Verlag.
 
 This chapter of the Bologna Process implemtation guide discusses considerations for creating effective learning outcomes in programs and courses that utlize the Bologna process. The text explores the implications of a core approach: *… The principal question asked of the student or the graduate will therefore
 no longer be “what did you do to obtain your degree?” but rather “what can you do now that you have obtained your degree?” (Purser, Council of Europe, 2003).
 
+Kennedy et al argue that “the international movement away from a “teacher-centred” approach to a more “outcome-based” approach to education has gained increased momentum from the Bologna process, with its emphasis on student-centred learning and the need to have more precision and clarity in the design and content of curricula. It is clear that learning outcomes play a key role in ensuring transparency of qualifications and of qualification frameworks.”
+
 Campbell, G. (2013). *The single most consequential thing we do in universities: a case study in teaching assessment to new academics*. In Salter, D. J. (Ed), *Cases on quality teaching practices in higher education*. Hershey, PA: IGI Global.
 
-Discusses a general approach to thinking purposefully about assessment.
+Discusses a general approach to assessment that was developed for the New Academics Programme at the University of Manchester. Campbell argues that “designing good assessments, giving feedback, and matching achievement to intended learning outcomes, … [are] all appropriate, and that delivering [these] through a combination of presentation, group exercises, and discussion gives a coherent and powerful experience.”
 
 Courneya, C. A. (2013). *White coat warm heART*. In Salter, D. J. (Ed), *Cases on quality teaching practices in higher education*. Hershey, PA: IGI Global.
   
