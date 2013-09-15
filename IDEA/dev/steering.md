@@ -36,6 +36,8 @@ IDEA Steering Committee members
 
 [Bob Walker](mailto:rgwubc@gmail.com) (IDEA student)
 
+[Steve Dooley](mailto:steve@heer.ca) (Executive Director, SFU Surrey)
+
 
 
 
