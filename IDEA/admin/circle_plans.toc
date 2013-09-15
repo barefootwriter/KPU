@@ -1,4 +1,0 @@
-\contentsline {chapter}{CIR:CLE}{3}
-\contentsline {section}{Our Context}{3}
-\contentsline {section}{Our Compass and Landscape}{5}
-\contentsline {section}{Where to From Here?}{7}
