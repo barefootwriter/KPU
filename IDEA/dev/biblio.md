@@ -35,6 +35,8 @@ Discusses opportunities and challenges for motivating learning innovation and ex
 
 Rogdgers, C. *Seeing student learning; teacher change and the role of reflection.* Harvard Educational Review, Summer 2002, 230—252.
 
-Discusses the importance of practitioner reflection and describes a four-phase reflective cylce that the author uses in her professional development work with teachers.
+Discusses the importance of practitioner reflection and describes a four-phase reflective cylce that the author uses in her professional development work with teachers. Rodgers argues that “supportive and disciplined reflective communities of teachers can help teachers understand that their students’ learning is central, and that their own teaching is subordinate to and in service of that goal.”
+
+
 
 
