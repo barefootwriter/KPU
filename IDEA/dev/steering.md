@@ -2,39 +2,39 @@ IDEA Steering Committee members
 ===============================
 
 
-Farhad Dastur (faculty member in Psychology)
+[Farhad Dastur](mailto:farhad.dastur@kpu.ca) (faculty member in Psychology)
 
-Constanza Rojas Primus (faculty member in Modern Languages and Cultural Studies)
+[Constanza Rojas Primus](mailto:constanza.rojas-primus@kpu.ca) (faculty member in Modern Languages and Cultural Studies)
 
-Sue Ann Cairns (faculty member in English)
+[Sue Ann Cairns](mailto:SueAnn.Cairns@kpu.ca) (faculty member in English)
 
-Tracey Kinney (faculty member in History)
+[Tracey Kinney](mailto:tracey.kinney@kpu.ca) (faculty member in History)
 
-Don Hlus (faculty member in Music)
+[Don Hlus](mailto:don.hlus@kpu.ca) (faculty member in Music)
 
-Lucie Gagne (faculty member in Interior Design, Faculty of Design)
+[Lucie Gagne](mailto:lucie.gagne@kpu.ca) (faculty member in Interior Design, Faculty of Design)
 
-Bob Basil (faculty member in Communications, School of Business)
+[Bob Basil](mailto:bob.basil@kpu.ca) (faculty member in Communications, School of Business)
 
-Lee Beavington (Biology Lab Instructor, Faculty of Science)
+[Lee Beavington](mailto:agentsage@gmail.com (Biology Lab Instructor, Faculty of Science)
 
-Kurt Penner (faculty member in Psychology, Administrator in Student Life)
+[Kurt Penner](mailto:kurt.penner@kpu.ca) (faculty member in Psychology, Administrator in Student Life)
 
-Jane Fee (Deputy-Provost & Associate VP, Academic)
+[Jane Fee](mailto:jane.fee@kpu.ca) (Deputy-Provost & Associate VP, Academic)
 
-Romy Kozak (Associate Dean, Arts)
+[Romy Kozak](mailto:romy.kozak@kpu.ca) (Associate Dean, Arts)
 
-Tierney Wisniewski (former student, winner of Dean's medal)
+[Tierney Wisniewski](mailto:tierneyw@zuzax.com) (former student, winner of Dean's medal)
 
-Ross Laird
+[Ross Laird](mailto:ross@rosslaird.com) IDEA Developer
 
-Sheridan Taylor (student)
+[Sheridan Taylor](mailto:sheridan.taylor@gmail.com) (IDEA student)
 
-Adam Denson (student)
+[Adam Denson](mailto:adamdenson@hotmail.com) (IDEA student)
 
-Amanda Swith-Weston (student)
+[Amanda Swith-Weston](mailto:smith-weston5@hotmail.com) (IDEA student)
 
-Bob Walker (student)
+[Bob Walker](mailto:rgwubc@gmail.com) (IDEA student)
 
 
 
