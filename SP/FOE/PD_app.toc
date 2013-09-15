@@ -1,7 +1,0 @@
-\select@language {english}
-\contentsline {section}{Abstract}{1}
-\contentsline {section}{Proposal Description}{1}
-\contentsline {section}{Fit with Criteria and Institutional Priorities}{2}
-\contentsline {subsection}{Career Plans of the Applicant}{2}
-\contentsline {subsection}{Relevance to Current Work at Kwantlen}{3}
-\contentsline {subsection}{Budget Justification}{4}
