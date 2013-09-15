@@ -19,7 +19,14 @@ Courneya, C. A. (2013). *White coat warm heART*. In Salter, D. J. (Ed). *Cases o
   
 Discusses the uses of art and art-making approaches during professional medical identity formation. Shows several examples of successful learner-centered, art-based approaches.
 
+Pascarella, E., & Terenzini, P. (1977). *Patterns of student-faculty informal interaction beyond the classroom and voluntary freshman attrition*. Journal of Higher Education, 5, 540–552. 
+
 Pascarella, E., & Terenzini, P. (1991). *How college affects students: Findings
 and insights from twenty years of research*. San Francisco: Jossey-Bass.
+
+Pascarella, E. T., & Terenzini, P. T. (2005). *How college affects students: A
+third decade of research*. San Francisco: Jossey-Bass.
  
-Shows that the social and emotional gains made by students during their time at university are considerably greater than their intellectual gains.
+All three of the above explore the social and emotional world of learners. The 1991 work shows that social and emotional gains made by students during their time at university are considerably greater than their intellectual gains. This work also the importance of course climate in contributing to learner success. The 1997 work examines the importance of relationship-building between faculty and learners. The 2005 work discusses student challenges with self-management.
+
+ 
