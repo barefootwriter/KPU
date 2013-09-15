@@ -19,5 +19,7 @@ Courneya, C. A. (2013). *White coat warm heART*. In Salter, D. J. (Ed). *Cases o
   
 Discusses the uses of art and art-making approaches during professional medical identity formation. Shows several examples of successful learner-centered, art-based approaches.
 
+Pascarella, E., & Terenzini, P. (1991). *How college affects students: Findings
+and insights from twenty years of research*. San Francisco: Jossey-Bass.
  
-
+Shows that the social and emotional gains made by students during their time at university are considerably greater than their intellectual gains.
