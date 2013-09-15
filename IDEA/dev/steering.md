@@ -16,7 +16,7 @@ IDEA Steering Committee members
 
 [Bob Basil](mailto:bob.basil@kpu.ca) (faculty member in Communications, School of Business)
 
-[Lee Beavington](mailto:agentsage@gmail.com (Biology Lab Instructor, Faculty of Science)
+[Lee Beavington](mailto:agentsage@gmail.com) (Biology Lab Instructor, Faculty of Science)
 
 [Kurt Penner](mailto:kurt.penner@kpu.ca) (faculty member in Psychology, Administrator in Student Life)
 
