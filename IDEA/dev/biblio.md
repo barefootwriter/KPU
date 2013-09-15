@@ -33,4 +33,8 @@ Felton, P., & Finley, A. (2013). *Motivating teaching excellence: Lessons from U
 
 Discusses opportunities and challenges for motivating learning innovation and excellence among faculty.
 
+Rogdgers, C. *Seeing student learning; teacher change and the role of reflection.* Harvard Educational Review, Summer 2002, 230—252.
+
+Discusses the importance of practitioner reflection and describes a four-phase reflective cylce that the author uses in her professional development work with teachers.
+
 
