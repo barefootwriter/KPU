@@ -27,6 +27,6 @@ and insights from twenty years of research*. San Francisco: Jossey-Bass.
 Pascarella, E. T., & Terenzini, P. T. (2005). *How college affects students: A
 third decade of research*. San Francisco: Jossey-Bass.
  
-All three of the above explore the social and emotional world of learners. The 1991 work shows that social and emotional gains made by students during their time at university are considerably greater than their intellectual gains. This work also the importance of course climate in contributing to learner success. The 1997 work examines the importance of relationship-building between faculty and learners. The 2005 work discusses student challenges with self-management.
+All three of the above explore the social and emotional world of learners. The 1991 work shows that social and emotional gains made by students during their time at university are considerably greater than their intellectual gains. This work also shows the importance of course climate in contributing to learner success. The 1997 work examines the importance of relationship-building between faculty and learners. The 2005 work discusses student challenges with self-management.
 
  
