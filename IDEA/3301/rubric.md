@@ -43,6 +43,6 @@ them). The goal is to ask *your own questions* in a rubric with just a
 few items (about 3 to 5).
 
 Feel free to use a rubric that does not involve a list of
-questions. You might get creative with rubrics based on movement,
+written questions. You might get creative with rubrics based on movement,
 sound, imagery, or any creative modality. The main thing is to find an
 effective means of gathering feedback.
