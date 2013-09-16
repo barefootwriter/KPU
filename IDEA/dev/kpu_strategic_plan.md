@@ -181,8 +181,8 @@ Goals and Strategies
 Quality
 -------
 
-#### All KPU graduates are prepared for global citizenship and Recognized
-teaching and scholarship rewarding careers.
+#### All KPU graduates are prepared for global citizenship and
+     rewarding careers.
 
 * Embed learning outcomes within the University’s academic plan that
 prepare students for global citizenship Continuing and professional
@@ -217,7 +217,7 @@ of Excellence).
 allow students flexible options and recognition for previous learning.
 
 #### KPU is a well-managed, integrated, and transparent organization
-that supports learning.
+     that supports learning.
 
 * Implement an integrated system that aligns institutional plans,
 allows for strategic allocation of resources, and facilitates the
@@ -246,8 +246,7 @@ KPU.
 Reputation
 ----------
 
-#### KPU is widely recognized for its teaching and
-its scholarship.
+#### KPU is widely recognized for its teaching and its scholarship.
 
 * Develop and implement a plan for teaching and learning, Expanded
 educational access including the role of instructional technologies
@@ -261,7 +260,7 @@ research and scholarship.
 and scholarship.
 
 #### KPU’s unique identity is clearly articulated and well understood
-across the University and beyond.
+     across the University and beyond.
 
 * Ensure that KPU’s unique role in higher education, its pride in its
 important endeavors, and the success of its students are all reflected
@@ -270,8 +269,8 @@ in its publications and communications, internal and external.
 * Expand initiatives to improve KPU’s recognition and reputation in
 our communities.
 
-#### KPU is the foremost provider of continuing and
-professional education in its region.
+#### KPU is the foremost provider of continuing and professional
+     education in its region.
 
 * Establish the necessary infrastructure to effectively expand
 continuing and professional education in response to the changing
@@ -280,8 +279,7 @@ needs of business, industry, and individual adults in KPU’s region.
 Relevance
 ---------
 
-#### The impact of KPU’s community engagement has
-doubled by 2018.
+#### The impact of KPU’s community engagement has doubled by 2018.
 
 * Implement a coordinated approach to document, expand, measure, and
 celebrate effective partnerships with KPU’s communities.
@@ -303,8 +301,8 @@ educational pathways and programs to facilitate Aboriginal learner
 success.
 
 #### KPU’s operations support purposeful learner FTE growth of at
-least 5% annually to meet the educational needs of its region’s
-diverse population.
+     least 5% annually to meet the educational needs of its region’s
+     diverse population.
 
 * Expand initiatives to increase operating and capital funding
 from government and other external sources.
@@ -323,7 +321,8 @@ plan directed towards traditional and non-traditional, domestic
 and international learners to support strategic growth.
 
 #### Experiential learning is integrated into every KPU program,
-connecting theory to application and the classroom to the community.
+     connecting theory to application and the classroom to the
+     community.
 
 * Ensure every KPU program of study includes experiential learning
 that connects theory to its application.
@@ -416,6 +415,7 @@ enhancing their learning using multiple teaching methods,
 and drawing on appropriate technologies.
 
 ##### Well-defined Learning Outcomes
+
 KPU students will consolidate and apply their learning
 in a variety of contexts to validate their mastery of stated
 learning outcomes.
