@@ -44,9 +44,8 @@ learn tremendous knowledge and have fun while participating in this
 class."
 
 "The thing that this class brought to my life was permission to create
-and be creative. Though my reasoning was often related to a final grade
-- I think that creating is something that needs to be a bigger part of
-my life - even when grades aren’t a part of it. I thought differently
+and be creative. Though my reasoning was often related to a final grade, I think that creating is something that needs to be a bigger part of
+my life — even when grades aren’t a part of it. I thought differently
 about various things throughout the semester and the 3 hours in IDEA
 were often the time of the week where I actually reflected about myself,
 and my family and the path that we’re on. I listened in IDEA."
