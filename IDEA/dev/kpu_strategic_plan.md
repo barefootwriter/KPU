@@ -181,8 +181,7 @@ Goals and Strategies
 Quality
 -------
 
-#### All KPU graduates are prepared for global citizenship and
-     rewarding careers.
+#### All KPU graduates are prepared for global citizenship and rewarding careers.
 
 * Embed learning outcomes within the University’s academic plan that
 prepare students for global citizenship Continuing and professional
@@ -216,8 +215,7 @@ of Excellence).
 * Ensure that programming builds on KPU’s tradition of laddering to
 allow students flexible options and recognition for previous learning.
 
-#### KPU is a well-managed, integrated, and transparent organization
-     that supports learning.
+#### KPU is a well-managed, integrated, and transparent organization that supports learning.
 
 * Implement an integrated system that aligns institutional plans,
 allows for strategic allocation of resources, and facilitates the
@@ -259,8 +257,7 @@ research and scholarship.
 * Promulgate and celebrate KPU’s achievements in teaching, learning,
 and scholarship.
 
-#### KPU’s unique identity is clearly articulated and well understood
-     across the University and beyond.
+#### KPU’s unique identity is clearly articulated and well understood across the University and beyond.
 
 * Ensure that KPU’s unique role in higher education, its pride in its
 important endeavors, and the success of its students are all reflected
@@ -269,8 +266,7 @@ in its publications and communications, internal and external.
 * Expand initiatives to improve KPU’s recognition and reputation in
 our communities.
 
-#### KPU is the foremost provider of continuing and professional
-     education in its region.
+#### KPU is the foremost provider of continuing and professional education in its region.
 
 * Establish the necessary infrastructure to effectively expand
 continuing and professional education in response to the changing
@@ -300,9 +296,7 @@ and support their role as KPU ambassadors in our communities.
 educational pathways and programs to facilitate Aboriginal learner
 success.
 
-#### KPU’s operations support purposeful learner FTE growth of at
-     least 5% annually to meet the educational needs of its region’s
-     diverse population.
+#### KPU’s operations support purposeful learner FTE growth of at least 5% annually to meet the educational needs of its region’s diverse population.
 
 * Expand initiatives to increase operating and capital funding
 from government and other external sources.
@@ -320,9 +314,7 @@ offerings to realize its polytechnic university mandate.
 plan directed towards traditional and non-traditional, domestic
 and international learners to support strategic growth.
 
-#### Experiential learning is integrated into every KPU program,
-     connecting theory to application and the classroom to the
-     community.
+#### Experiential learning is integrated into every KPU program, connecting theory to application and the classroom to the community.
 
 * Ensure every KPU program of study includes experiential learning
 that connects theory to its application.
