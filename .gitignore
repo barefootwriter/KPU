@@ -1,6 +1,7 @@
 
 tmp/
 archive/
+*~
 *.pdf
 *.PDF
 *.svg
