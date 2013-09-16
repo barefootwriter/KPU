@@ -28,9 +28,8 @@ Mentorship practicum (skills-based, not time-based)
 
 Each skill has a number of lessons (up to about 8). Competency is earned by learning a baseline number of lessons. Master is achieved by learning more. The workflow is competency, partial mastery, full mastery.
 
-See http://www.insidehighered.com/sites/default/server_files/files/Competency%20Transcript%20Draft%20v12.pdf
+See [here](http://www.insidehighered.com/sites/default/server_files/files/Competency%20Transcript%20Draft%20v12.pdf) for a similar approach.
 
-Competency represents an 80% level of mastery. 
 
 
 
