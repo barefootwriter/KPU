@@ -5,31 +5,59 @@ IDEA Testimonials
 Short Testimonials
 ------------------
 
-"Every week when I came to class I felt very encouraged and inspired by
-all of the different creative ideas... I am walking away from this
-semester after putting in a great effort, with new skills and
-experiences that I will be able to reflect on forever."
+“The course asked me to challenge myself, open up and to share my work
+with others. I have been at Kwantlen for five years and during that
+time I have undergone numerous peer reviews, presentations and
+submitted essays that I have toiled on and poured hours into. That
+said, this class seemed to be asking more of me: to submit works that
+originate from me, ultimately in a personal way… Working on these
+projects opened up many avenues of myself to my own consciousness,
+from simply blowing off steam to expressing my opinions to what I most
+enjoy: morphing my own memories and experiences into works with
+anchors to the waking world. [My final project] was the champion of
+all my work. At risk of being over-dramatic, what I experienced was
+something near an epiphany. Realization dawned on me that with every
+activity I use to explore my own creative nature, I slowly better
+myself. I learn that I enjoy not only the process of creating
+something that is my own but the finished product as well. These
+feelings are the beginnings of pride, which I don't feel I have truly
+had with my work for many years… As the semester ends I feel that I
+can truly say I have delved deeper into myself, learning about what
+and who I really am. It is this that I find truly valuable. This is
+something I will ruminate on while on long drives and use to build
+myself as I age… Every semester it is as if I am working on a novel
+about myself. I become ever more self-aware and in turn discover
+things I feel strongly about and other traits that I am not happy to
+have a part of me. To draw on a cliché, the journey itself is much
+more valuable than the beginning or end. Something many often seem to
+forget, including myself. This class was another step in that journey,
+reminding me that the moment I am in, is the only moment I have.”
 
-"I have never taken a course like this before. I think there should be
+“Every week when I came to class I felt very encouraged and inspired by
+all of the different creative ideas… I am walking away from this
+semester after putting in a great effort, with new skills and
+experiences that I will be able to reflect on forever.”
+
+“I have never taken a course like this before. I think there should be
 more courses that follow this criteria. You allowed me to take my
 creativity to a whole new level. I think that creativity should be a
 bigger part of education because it is so crucial to every individual.
 Creativity shapes people as individuals and gives them personality. It
 also allows them to experience things they never have experienced
-before."
+before.”
 
-"This course forced me to let go of the constraints I place on myself
+“This course forced me to let go of the constraints I place on myself
 for constant organization and planning, for which I am grateful. I have
 been able to explore my creative side in a way I had always wanted to
 but never thought I had time for. I have found time for the kinds of
-things I enjoy and feel I have accomplished some real personal growth."
+things I enjoy and feel I have accomplished some real personal growth.”
 
-"My progress within the semester in this class was been great for me not
+“My progress within the semester in this class was been great for me not
 only academically but personally. I have gained so much. A simple little
 project turned into something wonderful. I built new relationships that
-I didn’t know existed."
+I didn’t know existed.”
 
-"I realized that this class is very different from other classes that I
+“I realized that this class is very different from other classes that I
 have taken previously. Therefore, I was going to drop this class because
 I was afraid to be in this unfamiliar learning environment, especially
 with my poor English skill. Furthermore, I am an introvert person who
@@ -37,31 +65,77 @@ feels stressful every time need to present our own thoughts in front of
 the class. However, class activities create a positive atmosphere which
 allows me to learn how to express my individuality in a group setting.
 After a period of time, the supporting and encouraging atmosphere have
-totally changed my mind, and I gradually enjoy to be in this class... I
+totally changed my mind, and I gradually enjoy to be in this class… I
 like this class because I get to know and understand people, and it
-helps me to develop a better interpersonal skills... All in all, I do
+helps me to develop a better interpersonal skills… All in all, I do
 learn tremendous knowledge and have fun while participating in this
-class."
+class.”
 
-"The thing that this class brought to my life was permission to create
-and be creative. Though my reasoning was often related to a final grade, I think that creating is something that needs to be a bigger part of
-my life — even when grades aren’t a part of it. I thought differently
-about various things throughout the semester and the 3 hours in IDEA
-were often the time of the week where I actually reflected about myself,
-and my family and the path that we’re on. I listened in IDEA."
+“Interdisciplinary studies are far more beneficial than just focusing
+on one subject because they allow us to look at things in very
+different ways. IDEA class gave me the confidence to think outside the
+box and apply my artistic and critical forms of thought into my other
+classes even though I was nervous beyond belief. I read more scholarly
+sources for one paper this term than I have in the entire four years I
+have been at Kwantlen and I believe it has everything to do with this
+class and these assignments.”
 
-"I loved participating in the class. The atmosphere was very welcoming
+“I am currently finishing up my last semester at Kwantlen and I wish I
+had known about these courses when they were first introduced. My
+academic journey has been a very long one, between working and changing my
+programs. However, the three IDEA courses that I have
+managed to take at the end have been the courses that will stand out
+the most when I think back on my time at Kwantlen. The amount of
+personal growth I have experienced in these classes has been an
+extremely positive experience and I cannot express my gratitude
+enough. If it was not for these classes and the projects and
+assignments that we had to do I would not have been able to reconnect
+with the creative part of myself that I have somehow managed to lose
+track of over the last many years. Not only was I
+encouraged to reconnect and embrace with the creative, silly, and
+childlike part of me that was lost somewhere in my earlier years at
+Kwantlen, But I was able to do this in a safe environment that encouraged
+this kind of personal development. So I believe that down the road,
+when I am teaching my own students, I will still remember these
+projects and how they made me feel and try to encourage my students to
+do the same. I will not hinder their creativity, but rather, encourage
+it and try to utilize it as a way to demonstrate the importance of
+self-expression and how it contributes to their personal growth.”
+
+“The thing that this class brought to my life was permission to create
+and be creative. Though my reasoning was often related to a final
+grade, I think that creating is something that needs to be a bigger
+part of my life — even when grades aren’t a part of it. I thought
+differently about various things throughout the semester and the 3
+hours in IDEA were often the time of the week where I actually
+reflected about myself, and my family and the path that we’re on. I
+listened in IDEA.”
+
+“I loved participating in the class. The atmosphere was very welcoming
 to speak out. All the students were very nice to each other and
 supportive. I think generally a student wanting to participate is much
 better than a teacher picking on or forcing a student to participate.
 You have created a classroom setting where I felt the need to
-participate because of the thought provoking topics and discussions."
+participate because of the thought provoking topics and discussions.”
 
-"Our IDEA class demonstrates the benefits of a non-traditional classroom
+“I honestly feel that learning happens when there is a lighter
+atmosphere with a sense of freedom. This semester has been a wonderful
+experience and I am glad I had the chance to do this in my last year
+at Kwantlen. I realized a lot about myself and changed my way of
+thinking about education. I will take many aspects of this course with
+me in my future endeavours.”
+
+“Our IDEA class demonstrates the benefits of a non-traditional classroom
 format. Everyone has to pay attention in circle; there is no hiding.
-Everyone is an equal, including the teacher."
+Everyone is an equal, including the teacher.”
 
-"This IDEA class has opened my eyes to a new kind of learning. I can
+“Interdisciplinary Expressive Arts is without a doubt the most
+enlightening class that I have ever taken. Never before have I seen a
+class that facilitates you diving into yourself to discover and
+understand your own creative process in a way that relates to
+you. It’s truly been an incredible experience that I’ll never forget.”
+
+“This IDEA class has opened my eyes to a new kind of learning. I can
 confidently say that I have never enjoyed a university course as much as
 this one. That being said I must explain how I view things. I think it’s
 very unfortunate that to succeed in life I’m having to go to university
@@ -72,27 +146,55 @@ then somehow supposed to give me an advantage in obtaining a good-paying
 job so that I can then buy a bunch of stuff that I may or may not need.
 It makes me very depressed to think that I have spent so much of my time
 being miserable, just so that I can work for the rest of life. This is
-why I liked IDEA class so much."
+why I liked IDEA class so much.”
 
-"The weekly sessions of IDEA 3100 was probably the only academic session
+“The weekly sessions of IDEA 3100 was probably the only academic session
 during this semester which kept me thinking after the class and even for
 while after that! The course moved me to my core. I was made to go deep
 into analysis and simply think about my life in general, and get away
 from the simple small things. This does not happen a lot, especially in
 an academic context, and I appreciate the structure and the content of
-this course."
+this course.”
 
-"IDEA 3100 influenced me in a productive way. I was constantly
+“I cannot remember a semester in which was as much fun as this one. I
+also cannot remember a class that inspired me to write a poem about
+it. Then again, not every class grants its students the opportunity to
+truly find themselves in activities which are important to them. I am
+happy that the feeling of exploration allowed our group projects to
+think bigger with our ideas because there is a certain pressure to
+have a cool presentation to ensure the activity is memorable. As the
+semester progressed there was stiff competition for what activity was
+the best. I still remember the first exercise our teacher had us do:
+we went outside and were given a piece of paper with a list of
+questions on it and we could not look at the next question until we
+felt satisfied with the previous one. The class has a nice synergy of
+activities which pushed us out of our comfort zones and activities
+which reminded us that sometimes we need to look inward. I am sad
+that this class is done. I wonder why more classes are not like this.
+The argument, “Because this is the way we have always done it,” has no
+weight.  Look no further than this class for proof.”
+
+“Thank you so much once again for an amazing semester. Overall, I
+believe I have taken every IDEA course that's been availiable. If I
+had it my way, I would change my major to IDEA! I have learned so much
+from these courses that I can apply in my future endeavours. Honestly,
+I have never experienced taking such courses which are so informative
+and have such a great learning curve. IDEA courses have taught me to
+express my creativity, learn team building skills, develop my self
+awareness, improve my leadership and public speaking, and express my
+imagination. These are all skills that I can apply prefessionally.”
+
+“IDEA 3100 influenced me in a productive way. I was constantly
 reflecting on the ideas thrown in the class (by the instructor and the
 other students). The instructor was truly motivating, and mind-opening
 for me. Overall, I was continuously engaged with the message of the
 course through self-reflection, tasks done as a result of a generated
 motivation, developing a creative approach to a desired healthy
 lifestyle as a projects, and finally doing a project and learning from
-it."
+it.”
 
-"Thank you for a wonderful semester. I have fundamentally renewed how I
-operate. I’ve sought to add and welcome creativity to my life... The
+“Thank you for a wonderful semester. I have fundamentally renewed how I
+operate. I’ve sought to add and welcome creativity to my life… The
 culmination of applying these tools and projects is that I am happier
 and more efficient, and have maintained my motivation to keep moving
 through it all. Also, being in the circle re-conceptualized my ideas of
@@ -101,7 +203,7 @@ reflecting on this semester, my consciousness is now awakened to the way
 that traditional education and its content is formatted, constrained and
 determined through the physical arrangement of a classroom. Further, my
 eyes are now incredibly open to how children interact with their
-traumas. I will carry these lessons forward."
+traumas. I will carry these lessons forward.”
 
 Letters of Support
 ------------------
