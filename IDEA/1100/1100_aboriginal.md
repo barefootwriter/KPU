@@ -1,0 +1,600 @@
+Personal Development and Ancient Knowledge
+==========================================
+
+This course explores interdisciplinary inquiry, creativity and personal
+purpose from the perspective of ancient and Aboriginal ways of knowing.
+We examine what it means to learn, how to learn and the process of
+evaluating and creating knowledge. The course is, for the most part, led
+by the initiatives and interests of students working individually and in
+groups. The course content will evolve as the course develops, but will
+include a diverse number of approaches both ancient and modern to help
+students explore potential academic and career directions.
+
+This is not a typical university course and is likely quite different
+from other educational experiences you’ve had. It’s okay to be somewhat
+disoriented with the learning environment we’ll be creating. We’ll talk
+about it as we go.
+
+In [IDEA](http://kwantlen.ca/idea), ancient and Aboriginal arts and
+sciences are seen as critical to learning and inquiry because they
+connect us to different ways of knowing and enable all of our faculties
+to participate. Movement, emotion, intuition, touch, sight, sound, and
+rhythmic awareness are all foundational to how we orient and make sense
+of the world. Storytelling, musical expression, physical expression,
+meditation, and many other practices support our ability to think and
+act in multi-dimensional ways, and these modalities are highly evolved
+in ancient and Aboriginal cultures. We will play with some of these arts
+and sciences in this course. In the process of exploring various ways of
+inquiring and approaching problems, we not only broaden and deepen our
+knowledge and skills, but we also learn to see who we are as individuals
+and where we stand in the world.
+
+Our sense of personal purpose and meaning in what we do with our lives
+becomes part of our search for truth. In this course we see that truth
+and fact are often provisional, and mythological; they are shapeshifters
+on the wide-open plain of human awareness. We will explore what this
+means, and what to do about it.
+
+And, finally, the goal of the course is to play and have fun: to
+preserve and nurture the creative and imaginative spirit that is the
+foundation of all culture and of all the arts and sciences.
+
+The IDEA Skill Set
+------------------
+
+Perhaps it’s most helpful to come at interdisciplinarity in terms of a
+skill set. Thinking and acting in an interdisciplinary way is really a
+matter of looking at the process of learning. Instead of focusing on the
+“content” we might ask questions about how we identify, interpret,
+create, and communicate this content. These are process questions. Below
+are some examples of the kinds of considerations we will explore during
+our process.
+
+### Creating a “Good” Question
+
+The questions we ask tell us a lot about how we think, the assumptions
+we make and what we’re willing to accept as answers. What is a “good”
+question? How do questions emerge? Where do they come from? How does a
+question evolve? How do we hold space for our questions and how do they
+“work” on us? We will discuss these questions about questions, and see
+where they lead us.
+
+### Critical Thinking and Crap Detection
+
+We are often quick to believe what we read and what we hear, especially
+when it comes from sources that we deem “authoritative.” Teachers,
+journal articles, media, books, professors, parents, and peers all have
+their own take on what is correct and true. Who is right? How do we know
+what we’re hearing is not false or misconstrued? What is true? From what
+perspective is it true? What other perspectives can be taken that are
+also true? What evidence is being used to support the claim? Is the
+evidence appropriate for the kind of claim being made? What ideologies,
+assumptions and beliefs are at play? How do they impact the
+interpretation of “facts”? And what are facts, anyway?
+
+### Finding, Using and Evaluating Resources
+
+Resources are what we use to accomplish something. We have internal
+resources such as courage, empathy, compassion, self-awareness,
+mindfulness and so on to help us create, learn and work with the
+challenges of life. People in our lives such as teachers, peers,
+mentors, and guides also have skills, experience, and knowledge that can
+potentially help us accomplish our goals. As well, the internet, books
+and other sources of information are valuable resources. How do we know
+what resources we need to accomplish a goal? Are they internal,
+interpersonal, or codified? What are the means by which we access these
+resources? How do we know if the sources we’re accessing are good or the
+right ones for our goal? How do we evaluate their quality?
+
+### Communication (speaking, listening, writing, performing)
+
+Language is expressed verbally and non-verbally in a particular
+relational context of culture, values and past experience. Our ability
+to translate ideas into words and actions, move an audience into a
+compelling dialogue, or simply be present to someone else, requires an
+awareness of these contexts and good communication skills. How does a
+mindful and embodied presence shape how we speak and listen? How do we
+write articulately, persuasively, and with accuracy and authenticity?
+How do our values shape the way we communicate?
+
+### Working in a Group
+
+Groups offer invaluable opportunities for personal development and
+routinely transcend the efforts of any one individual. The following
+elements are some of the important capabilities required for healthy
+group process:
+
+-   building trust and a culture of collaboration
+-   attending to individual needs and the needs of the group
+-   sharing responsibility
+-   giving and receiving feedback
+-   embracing and resolving minor conflicts
+
+Much of our class time will be spent in small and large groups exploring
+and developing these skills.
+
+### Following Through on a Process
+
+Any creative process that generates new forms of knowledge (arts,
+sciences and otherwise) typically has a number of phases. These phases
+don’t always happen in order and are not necessarily distinct events,
+but it’s helpful to think about the ecocycle of creative work. First,
+there is the discovery of interest or passion. The question or idea may
+not even be fully formed at this point, but there’s a spark that feels
+like it’s worth following. Next, we immerse ourselves in the topic. We
+read, have conversations, mess around with different approaches.
+Basically, we commit to learning as much as we can about our passion. At
+some point we have consciously consumed as much as we can about the
+topic and we need a break from thinking about it. We let the questions
+incubate and trust that they are working under the surface in the dark
+soil. “Spring” eventually comes, perhaps after a long “winter”. Insights
+and breakthroughs emerge. Little shoots pop up out of the soil. We are
+careful to not jump to conclusions but instead create space for ideas
+and insights to slowly emerge through a process of articulating and
+capturing. In the last stages, we bring all the elements together in a
+creative synthesis and share the bounty of our harvest.
+
+What is happening at each stage of the creative process? What are the
+challenges of each stage? How do we support the work that needs to be
+done in each phase? How do we manage our time in such a way that we are
+able to do creative work sustainably? Doing the preparatory work,
+looking for and taking opportunities, experimenting, being realistic
+about time, taking care of mind/body/heart/soul, and attending to other
+responsibilities all require good skills in managing our time. And how
+do we balance these various factors?
+
+### Self-Awareness and Self-Evaluation
+
+Growing personally and professionally is a process that has no end
+point. Although growth is challenging and at times painful, growth is
+critical to finding meaning and vitality in our life and work. Living
+systems that come to an equilibrium with their environment — that stick
+with the status quo and are content living in their comfort zone — do
+not live for very long! For humans, growth requires self-evaluation,
+which in turn involves looking at our strengths and vulnerabilities,
+considering the evidence and feedback in these areas, identifying where
+we wish to grow, creating a game plan for how we plan to address our
+vulnerabilities, and celebrating our successes.
+
+Self-assessment involves asking questions such about how we wish to
+grow. What is involved in growing in a given area? What opportunities
+can we find and/or create to grow? How do we take responsibility for
+working on ourselves? How does the feedback from others and the results
+of our attempts to develop tell us how we are doing? How do we decide
+what to do with the feedback we receive from others?
+
+Learning Experiences
+--------------------
+
+The course will include a variety of learning experiences contingent
+upon regular attendance and dedicated participation. Because authentic
+interdisciplinary inquiry is an interactive process, much of the class
+time will be devoted to group experiential exercises, individual
+reflective tasks, collaborative endeavors, and practical assignments.
+
+We will create a collaborative environment in this class. We will direct
+our efforts toward building upon the individual strengths of each
+participant, finding ways for each of us to be self-reflective in terms
+of assessing our work together, discovering a means of protecting the
+quality and integrity of our contributions. The creative spirit is
+remarkably persistent, yet it is also fragile, especially at its
+inception, and we must be conscious of this fragility. Think about it:
+did you not experience, as a child, the strangulation of your creativity
+in school, by way of a culture of insensitive peers or teachers? Why do
+you think hardly anyone feels comfortable singing in public, or dancing,
+or drawing, or reading their written work to others? We have, most of
+us, been the victims of inappropriate feedback and judgment. We have to
+be careful about this, in our course, so that we do not harm one
+another.
+
+Readings
+--------
+
+The course includes various readings chosen by group members and small
+groups. We will discuss and assign these readings in class. Suggested
+readings are as follows:
+
+-   Diamond, Jared. *The World Until Yesterday. What Can We Learn from
+    Traditional Societies?* New York: Viking, 2012.
+-   Davis, Wade. *The Wayfinders: Why Ancient Wisdom Matters in the
+    Modern World.* Toronto: House of Anansi, 2009.
+-   Herriot, Trevor. *Jacob’s Wound: A Search for the Spirit of
+    Wildness.* Toronto: McClelland and Stewart, 2004.
+-   Galeano, Eduardo. *Genesis: Memory of Fire.* New York: Nation Books,
+    1985.
+
+Individual Project
+------------------
+
+The individual project is an opportunity for you to explore a given
+domain, or set of domains, in your own way. For example, you might wish
+to complete a craft or art project (a drum, a rhythm instrument, a
+blanket, a mask, etc.), participate in a community service initiative,
+or explore an aspect of ancient or Aboriginal culture in depth. It’s up
+to you; there are no specific restrictions on the type of inquiry you
+undertake. However, your inquiry must be applicable to both the ancient
+and Aboriginal context as well as the university context and must
+include research into both of these contexts. (So, to use the example
+from above, your drum project might include the making of a drum but
+also research into musical rhythm from a scientific point of view.)
+
+The individual project will include a written self-assessment of at
+least 500 words. The self-assessment will include answers to the
+following questions (answers need not be itemized):
+
+-   What research did you do to prepare for this project? Research might
+    include readings, investigative interviews, online searches,
+    self-reflections, ruminations, and many other modalities.
+-   What learning resources did you use? These might include books,
+    articles, online resources, and so on.
+-   Of the research and readings you undertook, what impressed you as
+    being most interesting or relevant?
+-   What kinds of questions did you have before undertaking this
+    project, and how did the project help you answer them?
+-   What kinds of experiments did you undertake with this project? What
+    did you build, write, craft, or try? How did you spend your time,
+    and how did it go?
+-   How did this project help you develop skills of critical thinking
+    and crap detection?
+-   What went well, where did you struggle, and how do you feel about
+    the process you undertook during this project?
+-   What were the best and worst moments of this project? What did you
+    learn from these moments?
+-   How might you have improved this project, of your experience of it?
+-   What did you learn about interdisciplinarity while working on this
+    project?
+-   Have your communication skills -- speaking, listening, writing, and
+    performing -- been enhanced by this project? If so, how?
+-   Has your skill in group work been enhanced by this project? If so,
+    how?
+-   What did you learn about yourself while working on this project?
+-   What will you remember about this project in five years?
+-   How does what you learned apply to your studies at Kwantlen and to
+    your sense of your future direction?
+-   What advice would you give to others who might be undertaking a
+    similar project?
+-   What did this project mean to you? What might it mean for others?
+-   Do you plan to continue this project further, or to work on similar
+    projects in the future?
+-   You learned something crucial in this project which you won’t
+    discover for a while. Make a guess now about what that might be.
+
+### Assessment Criteria for the Individual Project
+
+Projects for this course are focused on authentic and creative inquiry.
+Accordingly, the following criteria – which are based on the philosophy
+of creativity – are used to in addition to the [IDEA skill set](#skills)
+to evaluate engagement and commitment to the individual project:
+
+-   Willingness to take appropriate risks and to challenge oneself.
+-   Willingness to try new things, especially when doing so provokes
+    discomfort.
+-   Openness to personal and interpersonal process.
+-   Willingness to collaborate with others.
+-   Consideration of and responsiveness to others.
+-   Willingness to examine personal values, beliefs, and judgments.
+-   Ability to take personal responsibility and initiative for learning.
+-   Willingness to approach academic inquiry as a skill with discrete
+    steps and standards.
+-   Commitment to improvement in writing and creative work.
+-   Ability to be open and responsive to appropriate feedback.
+
+Group Project
+-------------
+
+Each student will be a member of a group of about six; each group will
+present at the end of the course (roughly thirty minutes) on a topic of
+choice. These presentations will happen in the last three or four weeks
+of the course. Class time will be given for working in groups although
+groups will need to find time outside of class to work with each other.
+The structure and content of the presentations will be discussed in
+class.
+
+### Presentation Methods and Goals
+
+The central idea of the presentations for this course is to give you
+opportunities to practice interdisciplinary, ancient, and Aboriginal
+ways of thinking and expression. As such, the presentation should embody
+aspects from these cultures and domains. Essentially, this means that
+you should try to use multiple presentation strategies and modalities.
+These might include (but are certainly not limited to) any of the
+following:
+
+-   Storytelling
+-   Poetry
+-   Music (playing)
+-   Drumming
+-   Singing
+-   Dance
+-   Movement
+-   Sport
+-   Ritual
+-   Film (showing)
+-   Film making
+-   Photography
+-   Web content
+-   Craft work
+-   Art making
+-   Individual reflection
+-   Meditation
+-   Health practices
+-   Creative process (any type)
+-   Group communication
+-   Cultural practices
+-   Nature experiences
+
+Whenever possible (and workable), try to mix together multiple
+modalities into a single presentation. For example, you might ask the
+group to do some individual reflection using the modality of poetry,
+then create a series of movements based on the poetry, then work in
+small groups to talk about and share the process. Many configurations
+are possible. The trick is to choose an activity that you enjoy, then
+find a way to apply it to the content. Please do not create your
+presentations using only written and/or spoken materials. In other
+words, don’t just stand up at the front of the class and talk about the
+presentation topic. Utilize the energy of the group. Remember that in
+interdisciplinary work divergences are valued as unique opportunities.
+So, feel free to experiment with activities and modalities that may not
+seem, on the surface, to be related to the topic at hand but which
+might, upon experiment, yield surprising connections and results. Be
+playful. Allow yourself to laugh at yourself, to be embarrassed, to
+engage with the process in novel and interesting ways.
+
+In interdisciplinary work, riddles and puzzles are highly prized.
+Accordingly, the presentations should (ideally) not be complete
+explanations or presentations of material. Feel free to play with
+challenging exercises, with impossible scenarios, and other conundra.
+One way to think about this is to consider insoluble riddles, such as
+the one in *Alice in Wonderland*: Why is a raven like a writing desk?
+
+> “Have you guessed the riddle yet?” the Hatter said, turning to Alice
+> again.\
+> “No, I give it up,” Alice replied. “What’s the answer?”\
+> “I haven’t the slightest idea,” said the Hatter.\
+> “Nor I,” said the March Hare.\
+> Alice sighed wearily. “I think you might do something better with the
+> time,” she said, “than wasting it in asking riddles that have
+> no answers.”
+
+The best interdisciplinary topics offer more questions than answers.
+They, are essentially, gateways into the mysterious — which, as Einstein
+will tell you, is an important place to be:
+
+> The most beautiful thing we can experience is the mysterious. It is
+> the source of all true art and science.
+
+### Assessment for Group Presentations
+
+#### Class and Instructor Assessment
+
+After each presentation, time will be set aside for class peers and the
+instructor to assess and give feedback on the presentations. Each group
+will design a rubric and questions for us to use in assessing each
+presentation. This feedback can sometimes be the most valuable part of
+the performance for everyone involved. It’s an opportunity to see what
+worked, what landed with the audience and what didn’t. This conversation
+can help the audience articulate struggles, questions and insights about
+what makes for an effective performance. By designing a rubric and
+questions for the audience to contemplate (either during or after the
+performance, depending on the goals and the presentation), you invite
+everyone to reflect on the nature and purpose of group sharing and
+performance.
+
+#### Self and Group Assessment
+
+This course utilizes experiential learning approaches which depend upon
+student involvement and active participation. Accordingly, the following
+criteria are used to evaluate overall participation and engagement in
+the group presentations and the class:
+
+-   Building trust and a culture of collaboration
+-   Attending to individual needs and the needs of the group
+-   Sharing responsibility
+-   Giving and receiving feedback
+-   Embracing and resolving minor conflicts
+-   Taking appropriate risks and to challenge oneself.
+-   Speaking up and leading.
+-   Staying open to interpersonal process.
+-   Considering and being responsive to others.
+-   Enhancing the interpersonal experience of everyone in the group.
+-   Examining personal values, beliefs, and judgments.
+-   Taking personal responsibility for learning.
+
+Self-Awareness Project
+----------------------
+
+This course explores a wide range of modalities, disciplines, and
+approaches. By the end of the semester you will have accumulated a
+wealth of material and experiences: not only from your own projects but
+also from your group work, class presentations, and other resources.
+This collected material, knowledge, and personal development is the core
+of your learning in the course. What does it mean, and what do you do
+with it now?
+
+The final project is a self-reflection about process. In a narrative of
+at least 1,000 words, try to articulate meaningful answers to questions
+such as these (answers need not be itemized nor limited to this list):
+
+-   Of the research and readings you undertook this semester, what
+    impressed you as being most interesting or relevant?
+-   What went well, where did you struggle, and how do you feel about
+    the process you undertook during this course?
+-   What were the best and worst moments of this semester? What did you
+    learn from these moments?
+-   Are you proud of your work this semester? Is it your best work? If
+    not, why not?
+-   What grade would you give yourself for this course, and why?
+-   How might you have improved your experience this semester?
+-   What did you learn about interdisciplinarity while working on your
+    projects for this course?
+-   What did you learn about yourself while working in this course?
+-   When you look at the [IDEA skill set](#skills), do you feel that
+    your skills have improved in the key areas? If so, how have they
+    improved, and which specific skills still need attention?
+-   What will you remember about this course in five years?
+-   How does what you learned apply to your studies at Kwantlen and to
+    your sense of your future direction?
+-   What advice would you give to others who might be undertaking a
+    similar path?
+-   What’s next for you?
+-   You learned something crucial in this course which you won’t
+    discover for a while. Make a guess now about what that might be.
+
+Course Evaluation
+-----------------
+
+It is difficult (or at least different) to translate evaluation in an
+IDEA course into a letter grade. I prefer to speak about evaluation and
+assessment, not marks. Evaluation in this course takes several forms: I
+evaluate you, you evaluate me, you evaluate yourself, and you evaluate
+each other. I have started by describing a [skill set](#skills). This is
+the focus of the evaluation. You need to demonstrate to yourself (and to
+me) that you have changed (that you have improved your skills) from the
+start of the course to the end of the course. It is that simple, in
+principle. Your level of improvement will translate to a letter grade
+using the following descriptors:
+
+### A-/ A/ A+
+
+Has attained a high level of competency in all, or almost all, of the
+stated skill areas. This competency would allow the student to complete
+excellent interdisciplinary inquiry projects in any area. This would be
+recognizable by any facilitator and the peer group. The student is aware
+of any remaining area of skill vulnerability, has shown improvement in
+that area, has developed strategies for minimizing its adverse effects,
+and has a plan of action for personal and professional development.
+
+### B-/ B/ B+
+
+Has attained a high level of competency in many (but not all) of the
+stated skill areas, or has attained moderate competency in all of the
+skill areas. This competency allows the completion of good inquiry
+projects. The student will have developed a plan of action for further
+development in those areas which need it.
+
+### C- /C /C+
+
+Has attained a moderate level of competency in some of the stated skill
+areas or has attained a low level of competency in all of the skill
+areas. The student will recognize the deficiencies or concerns and will
+have discussed a plan of action to deal with the concerns.
+
+General Learning Criteria
+-------------------------
+
+The evidence for your learning will develop as a consequence of your
+involvement with many tools and learning contexts. The tools will
+include the development and utilization of criteria for evaluating
+yourself, your peers, and the works you read and create. The contexts
+include group work, your individual project, writing, presentations, and
+discussions. This course is a space for participating in a variety of
+formats and to work on those skills that need the most attention. Based
+on the evidence and using the following criteria I will ask you to
+propose a grade for yourself (as part of the self-awareness project). We
+will negotiate a grade that seems fitting, based on the evidence, using
+the following considerations:
+
+-   Commitment to the development of self-awareness.
+-   Openness to interpersonal process.
+-   Ability to creategood questions.
+-   Use of critical thinking and crap detection.
+-   Use of learning resources.
+-   Use of communication skills: speaking, listening, writing, and
+    performing.
+-   Effective group work.
+-   Consideration of and responsiveness to others.
+-   Commitment to enhancing the interpersonal experience of everyone in
+    the class.
+-   Willingness to examine personal values, beliefs, and judgments.
+-   Ability to take personal responsibility for learning.
+-   Willingness to deal with conflicts appropriately if and when they
+    arise.
+-   Ability to be open and responsive to appropriate feedback.
+
+Each item on the above list is an aspect of the first item:
+self-awareness. The most foundational skill in creativity is
+self-awareness. Those who develop this skill consistently query their
+own responses, thoughts, and feelings. They ask themselves:
+
+-   What am I feeling right now?
+-   What am I thinking right now?
+-   Why am I reacting in this particular way?
+-   What do my thoughts, feelings, and reactions tell me about myself?
+-   Is my perception of myself consistent with what other people tell me
+    about the kind of person I am?
+-   When and how do I get stuck, and what am I doing to work on this?
+-   In what ways do I get overwhelmed, or shut down, or avoid?
+
+These questions, and many others, require the capacity for
+self-reflection and self-awareness. As we continue in the course, you
+may wish to consider these questions as they apply to you. At the very
+least, you might wish to consider what you are currently working on in
+your life, in which direction your attention is drawn, into which of the
+innumerable themes of human nature you are now called to delve.
+
+In my role as your instructor, I will be paying attention to how
+thoughtful you are in examining and responding to questions like those
+in the lists above. I will not be analyzing you, but rather noticing
+what kinds of things you do, what your reactions are to various
+situations. My goal in observing your behaviors and interacting with you
+is to assist you in developing greater self-awareness (and, by
+extension, greater empathy, creativity, and character).
+
+I will use the lists above, as well as the assessment criteria listed
+for each assignment, to assess your overall participation in the course.
+I will not be evaluating your level of self-awareness but rather your
+openness to the process of developing your self-awareness.
+
+Grade Inflation
+---------------
+
+Almost every semester there are students who do well on the assignments,
+complete all the associated learning goals of the course, participate
+well, and wonder why they do not receive a grade of one hundred percent
+(or 98, anyway). Here is the reason: almost every semester there are
+students who demonstrates a level of commitment that goes beyond the
+course requirement. Such students complete extra work, or hand in
+exemplary assignments, or undertake a significant amount of personal
+development in addition to the course expectations. Such students
+typically receive the highest grades.
+
+If you do reasonably well in the course you will receive a reasonable
+grade. Very high grades are intended for extra or exemplary work.
+Unfortunately, over the past thirty years the post-secondary educational
+system in North America has participated in a process of grade
+inflation. Since the 1980’s, the average grade for typical course work
+has been increasing by about 25 per cent each decade. Elevated
+assessments do not accurately reflect the work of most students. Even
+worse, grade inflation has caused many students to expect high grades
+for average work. I am not a overly stringent assessor, but I will not
+inflate grades artificially.
+
+In this course a small number of students will (likely) receive high
+grades; most students will receive grades in the middle range; and a few
+students will struggle with lower grades. If you are uncertain about
+your assessment for a given assignment, or if you would like suggestions
+for how to improve your grade, please ask me for clarification.
+
+If you wish to achieve a good grade, please do the following:
+
+-   Show up for class – every class. This course depends on student
+    engagement. (This becomes especially important during the final
+    weeks of the semester.)
+-   Be attentive and mindful to the various criteria listed for each of
+    the projects and the course overall.
+-   Take the initiative to plan and develop your projects and
+    presentations. This course is (very likely) more fluid and
+    spontaneous than you are used to. Your ability to manage your time,
+    commitment, and energy is crucial.
+-   Speak up in every class (review the criteria for group engagement
+    and presentations).
+-   Don’t look for the right answer to a question or challenge. Instead,
+    find the answer that is meaningful to you.
+-   Ask for help if you need it.
+-   Be attentive to the Kwantlen policies on [academic
+    honesty](http://www.kwantlen.ca/__shared/assets/Honesty1432.pdf) and [plagiarism](http://www.kwantlen.ca/policies/C-LearnerSupport/c08.pdf).
+-   Commit to your projects in a substantial way. Good projects take
+    time. Rushed projects are obviously rushed.
+-   Have fun. Authentic learning often begins with joy.
+
+ 
