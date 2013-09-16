@@ -29,7 +29,7 @@ myself as I age… Every semester it is as if I am working on a novel
 about myself. I become ever more self-aware and in turn discover
 things I feel strongly about and other traits that I am not happy to
 have a part of me. To draw on a cliché, the journey itself is much
-more valuable than the beginning or end. Something many often seem to
+more valuable than the beginning or end — something many often seem to
 forget, including myself. This class was another step in that journey,
 reminding me that the moment I am in, is the only moment I have.”
 
