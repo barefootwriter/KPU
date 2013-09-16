@@ -13,4 +13,4 @@ The Interdisciplinary Expressive Arts (IDEA) program is a collaborative educatio
 
 #### How to make the most useful contribution?
 
-At the moment we are working on the development of two credentials: a [Minor](https://github.com/rosslaird/kwantlen/tree/master/IDEA/minor) and a Post-baccalaureate [certificate](https://github.com/rosslaird/kwantlen/tree/master/IDEA/certificate) in *Mentorship and Community Engagement*. We are particularly interested in contributions to these projects, which will offer innovative and integrative credentials to learners at the university.
+At the moment we are working on the development of two credentials: a [Minor](https://github.com/rosslaird/kwantlen/tree/master/IDEA/minor) and a Post-baccalaureate [Certificate](https://github.com/rosslaird/kwantlen/tree/master/IDEA/certificate) in *Mentorship and Community Engagement*. We are particularly interested in contributions to these projects, which will offer innovative and integrative credentials to learners at the university.
