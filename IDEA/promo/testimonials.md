@@ -672,11 +672,7 @@ interdisciplinary.
 The difference between IDEA and the modern lecture-hall-classrooms is
 that I believed that I could learn something from this class. The
 questions were “how” instead of “why”, and “how?” is the question that
-all inventions and major changes start with, so my question is “how” can
-Kwantlen expect to become the first interdisciplinary school, and better
-our education system by introducing a more creative process, if we plan
-to veto the only set of classes that support our supposed change for the
-future?
+all inventions and major changes start with.
 
 ### Abbey Ratcliff
 
