@@ -2,9 +2,6 @@
 IDEA Testimonials
 =================
 
-Short Testimonials
-------------------
-
 “The course asked me to challenge myself, open up and to share my work
 with others. I have been at Kwantlen for five years and during that
 time I have undergone numerous peer reviews, presentations and
