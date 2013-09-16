@@ -15,10 +15,10 @@ projects opened up many avenues of myself to my own consciousness,
 from simply blowing off steam to expressing my opinions to what I most
 enjoy: morphing my own memories and experiences into works with
 anchors to the waking world. [My final project] was the champion of
-all my work. At risk of being over-dramatic, what I experienced was
-something near an epiphany. Realization dawned on me that with every
-activity I use to explore my own creative nature, I slowly better
-myself. I learn that I enjoy not only the process of creating
+all my work. At the risk of being overly-dramatic, what I experienced
+was something near an epiphany. Realization dawned on me that with
+every activity I use to explore my own creative nature, I slowly
+better myself. I learn that I enjoy not only the process of creating
 something that is my own but the finished product as well. These
 feelings are the beginnings of pride, which I don't feel I have truly
 had with my work for many years… As the semester ends I feel that I
