@@ -10,7 +10,7 @@ funding for such initiatives needs to come from within each Faculty,
 it is important that the Faculty of Arts deploy these funds, as
 resources permit, for a range of projects and partnerships that
 further our commitments to teaching excellence, research and
-scholarship, student retention, and community involvement.  The Dean’s
+scholarship, student retention, and community involvement. The Dean’s
 Office will administer the funds described below over three
 application cycles per year. Deadlines for 2013 are February 15, June
 15, and October 15. Applications must be submitted prior to the start
@@ -31,7 +31,7 @@ Applications will consist of the following:
 * identification of the funding category (A, B, C, D, or E; see
   details below) the title of the initiative names,
 * departmental/program affiliations, and job title/position of all the
-* persons involved (NEW: each named participant must attached a brief
+  persons involved (NEW: each named participant must attached a brief
   statement outlining the scope of their participation. These
   statements need to be sent with the complete application.)
 * the date(s) of the initiative an overall initiative budget, including an
