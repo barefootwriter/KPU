@@ -19,7 +19,10 @@ competitive process by a Selection Committee consisting of consisting
 of two members of the Dean's Office and up to three faculty members
 appointed through Arts Faculty Council.
 
-The maximum amount of each award is $2,500.  Collaboration across departments is encouraged.  Faculty may apply for more than the maximum amount (up to $5,000) if more than one department is represented in the application. 
+The maximum amount of each award is $2,500.  Collaboration across
+departments is encouraged.  Faculty may apply for more than the
+maximum amount (up to $5,000) if more than one department is
+represented in the application.
 
 ### APPLICATION AND AWARD DETAILS
 
