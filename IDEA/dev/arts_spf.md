@@ -29,7 +29,7 @@ represented in the application.
 Applications will consist of the following:
 
 * identification of the funding category (A, B, C, D, or E; see
-* details below) the title of the initiative names,
+  details below) the title of the initiative names,
 * departmental/program affiliations, and job title/position of all the
 * persons involved (NEW: each named participant must attached a brief
   statement outlining the scope of their participation. These
