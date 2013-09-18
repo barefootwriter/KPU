@@ -33,7 +33,7 @@ See [here](http://www.insidehighered.com/sites/default/server_files/files/Compet
 
 ### The Zen of program development
 
-These principles are approaches are borrowed both from the [Zen of Python](http://www.python.org/dev/peps/pep-0020/) and [GitHub Zen](http://api.github.com/zen):
+These principles and approaches are borrowed both from the [Zen of Python](http://www.python.org/dev/peps/pep-0020/) and [GitHub Zen](http://api.github.com/zen):
 
 #### Github Zen:
 
