@@ -4,9 +4,9 @@ IDEA Outcomes
 Ground
 ------
 
-Learning for the Whole Person.
+### Learning for the Whole Person.
 
-Your life. Your learning. Your way.
+### Your life. Your learning. Your way.
 
 Foundation
 ----------
@@ -20,35 +20,37 @@ Structure
 
 * Creative, integrative, and engaged teaching and learning for the whole person.
 * Built by learners and for learners.
-* Focused on personal development, collaboration, and mentorship.
+* Focused on personal development, community engagement, and mentorship.
 
 Craft
 ------
 
 * The community of learners creates the environment of learning.
 * Self-awareness is built through personal development.
-* Empathy is built through collaboration.
+* Empathy is built through community engagement.
 * Character is built through mentorship.
 
 Design
 ------
 
-* Anything added dilutes everything else.
-* Practicality beats purity.
-* Half measures are as bad as nothing at all.
-* Simple is better than complex.
-* Flow is important.
-* Humans make this.
+* Anything added dilutes everything else. (The program should be clear and simple.)
+* Practicality beats purity. (Skills are more important than theories.)
+* Half measures are as bad as nothing at all. (We should reach for what we want.)
+* Simple is better than complex. (Pathways and processes should be straightforward.)
+* Complex is better than complicated. (When complexities are required, they should be simple.)
+* Sparse is better than dense. (We prefer plain language over academic-speak.)
+* Flow is important. (Flow mirrors life.)
+* Humans make this. (Our emphasis is on relationship and interaction.)
 
 Community
 ---------
 
-* Learning is not education.
-* Education is not curriculum.
-* Curriculum is not knowledge.
-* Knowledge is not wisdom.
-* Wisdom is not teaching.
-* Teaching is not learning.
+* Learning is not education. (Learning is personal; education is social.)
+* Education is not curriculum. (Education is a process; curriculum is a product.)
+* Curriculum is not knowledge. (Curriculum is a map; knowledge is the territory.)
+* Knowledge is not wisdom. (Knowledge is personal; wisdom moves beyond the personal.)
+* Wisdom is not teaching. (Wisdom is unbounded; teaching is personal.)
+* Teaching is not learning. (Teaching is about the teacher; learning is about the learner.)
 
 Skill
 -----
