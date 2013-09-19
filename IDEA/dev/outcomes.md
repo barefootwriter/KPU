@@ -5,6 +5,7 @@ Ground
 ------
 
 Learning for the Whole Person.
+
 Your life. Your learning. Your way.
 
 Foundation
