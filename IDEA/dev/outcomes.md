@@ -19,7 +19,7 @@ Structure
 ---------
 
 * The learning environment is built by the community of learners (including the instructor).
-* Self-awareness is built through creativity and personal development.
+* Self-awareness is built through creativity, play, and personal development.
 * Empathy is built through community engagement.
 * Character is built through collaboration and mentorship.
 
