@@ -27,6 +27,40 @@ Values
 Principles
 ----------
 
+Learning is not education.
+
+Education is not curriculum.
+
+Curriculum is not knowledge.
+
+Knowledge is not wisdom.
+
+Wisdom is not teaching.
+
+Teaching is not learning.
+
+
+Approaches
+----------
+
+Anything added dilutes everything else.
+
+Practicality beats purity.
+
+Half measures are as bad as nothing at all.
+
+Encourage flow.
+
+Speak like a human.
+
+Explicit is better than implicit.
+
+Approachable is better than simple.
+
+Simple is better than complex.
+
+Complex is better than complicated.
+
 
 
 
