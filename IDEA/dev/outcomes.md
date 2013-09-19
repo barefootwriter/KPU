@@ -1,9 +1,6 @@
 IDEA 
 =====
 
-Ground
-------
-
 ### Learning for the Whole Person.
 
 ### Your life. Your learning. Your way.
@@ -37,7 +34,7 @@ Design
 * Simple is better than complex. (Pathways and processes should be straightforward.)
 * Complex is better than complicated. (When complexities are required, they should be simple.)
 * Sparse is better than dense. (We prefer plain language over academic-speak.)
-* Flow is important. (Flow mirrors life.)
+* Flow is important. (Flow and meandering create purposeful paths.)
 * Humans make this. (Our emphasis is on relationship, interaction, and adaptability.)
 
 
