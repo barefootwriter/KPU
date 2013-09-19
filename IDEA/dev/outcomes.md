@@ -58,7 +58,7 @@ Skill
 * Opening oneself to empathy and compassion.
 * Communicating effectively in speech, listening, and performing.
 * Building trust, emotional safety, and a culture of collaboration.
-* Giving and receiving feedback and accepting others.
+* Being open to giving and receiving feedback and accepting others.
 * Embracing and resolving conflicts.
 
 ### Character
