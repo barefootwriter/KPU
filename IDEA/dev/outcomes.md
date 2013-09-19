@@ -23,7 +23,7 @@ Structure
 Craft
 -----
 
-* Creative, integrative, responsive, and engaged teaching and learning for the whole person.
+* Creative, integrative, interdisciplinary and engaged teaching and learning for the whole person.
 
 Design
 ------
