@@ -48,8 +48,8 @@ Community
 * Learning is not education. (Learning is personal; education is social.)
 * Education is not curriculum. (Education is a process; curriculum is a product.)
 * Curriculum is not knowledge. (Curriculum is a map; knowledge is the territory.)
-* Knowledge is not wisdom. (Knowledge is personal; wisdom moves beyond the personal.)
-* Wisdom is not teaching. (Wisdom is unbounded; teaching is personal.)
+* Knowledge is not wisdom. (Knowledge is personal; wisdom is cultural.)
+* Wisdom is not teaching. (Wisdom is cultural; teaching is personal.)
 * Teaching is not learning. (Teaching is about the teacher; learning is about the learner.)
 
 Skill
