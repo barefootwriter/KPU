@@ -65,7 +65,7 @@ Skill
 * Embracing and resolving conflicts.
 * Developing the imagination.
 * Following the creative process.
-* Developing a path of self-assessment and self-awareness.
+* Developing a path of self-assessment, self-reflection, and self-awareness.
 * Engaging in the process of mentorship.
 * Joining and contributing to communities. 
 * Demonstrating ethical practices.
