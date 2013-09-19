@@ -58,10 +58,11 @@ Skill
 * Following the search for knowledge.
 * Communicating effectively in speech, listening, and performing.
 * Building trust and a culture of collaboration.
-* Attending to individual needs and the needs of groups.
-* Sharing responsibility.
+* Attending to self-regulation.
+* Opening oneself to empathy and compassion.
 * Giving and receiving feedback.
 * Embracing and resolving conflicts.
+* Developing the imagination.
 * Following the creative process.
 * Developing a path of self-assessment and self-awareness.
 * Engaging in the process of mentorship.
