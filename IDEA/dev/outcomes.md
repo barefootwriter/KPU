@@ -53,19 +53,25 @@ Community
 Skill
 -----
 
-* Thinking for oneself.
-* Creating effective questions and pursuing meaningful answers.
+### Self-awareness
+
+* Developing a path of self-assessment, self-regulation, and self-reflection.
+* Following the search for knowledge and meaningful answers.
 * Finding useful solutions to complex problems.
-* Following the search for knowledge.
+* Developing the creative imagination.
+* Thinking for oneself.
+
+
+### Empathy
+
+* Opening oneself to empathy and compassion.
 * Communicating effectively in speech, listening, and performing.
 * Building trust and a culture of collaboration.
-* Attending to self-regulation.
-* Opening oneself to empathy and compassion.
 * Giving and receiving feedback.
 * Embracing and resolving conflicts.
-* Developing the imagination.
-* Following the creative process.
-* Developing a path of self-assessment, self-reflection, and self-awareness.
+
+### Character
+
 * Engaging in the process of mentorship.
 * Joining and contributing to communities. 
 * Demonstrating ethical practices.
