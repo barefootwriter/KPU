@@ -19,9 +19,9 @@ Learning for the Whole Person.
 Values
 ------
 
-1. Creative, integrative, and engaged teaching and learning for the whole person.
-2. Built by learners and for learners.
-3. Focused on mentorship, collaboration, and personal development.
+* Creative, integrative, and engaged teaching and learning for the whole person.
+* Built by learners and for learners.
+* Focused on mentorship, collaboration, and personal development.
 
 
 Principles
