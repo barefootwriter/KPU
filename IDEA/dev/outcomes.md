@@ -10,18 +10,24 @@ The Foundation
 * character (how we use our self-awareness and empathy in the world)
 
 
-The Mission
------------
+Mission
+-------
 
-Learning for the Whole Person
+Learning for the Whole Person.
 
 
-The Principles
---------------
+Values
+------
 
 1. Creative, integrative, and engaged teaching and learning for the whole person.
-2. Built by learners and for learners -- with mentorship, collaboration, and personal development.
-3. No substitutes for 1 and 2.
+2. Built by learners and for learners.
+3. Focused on mentorship, collaboration, and personal development.
+
+
+Principles
+----------
+
+
 
 
 
