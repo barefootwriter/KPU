@@ -21,7 +21,15 @@ Values
 
 * Creative, integrative, and engaged teaching and learning for the whole person.
 * Built by learners and for learners.
-* Focused on mentorship, collaboration, and personal development.
+* Focused on personal development, collaboration, and mentorship.
+
+
+Foundation and Values Integration
+---------------------------------
+
+* Self-awareness is built through personal development.
+* Empathy is built through collaboration.
+* Character is built through mentorship.
 
 
 Principles
