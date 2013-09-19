@@ -18,9 +18,15 @@ Foundation
 Structure
 ---------
 
-* Creative, integrative, and engaged teaching and learning for the whole person.
-* Built by learners and for learners.
-* Focused on personal development, community engagement, and mentorship.
+* The learning environment is built by the community of learners (including the instructor).
+* Self-awareness is built through creativity and personal development.
+* Empathy is built through community engagement.
+* Character is built through collaboration and mentorship.
+
+Craft
+-----
+
+* Creative, integrative, responsive, and engaged teaching and learning for the whole person.
 
 Design
 ------
@@ -32,25 +38,8 @@ Design
 * Complex is better than complicated. (When complexities are required, they should be simple.)
 * Sparse is better than dense. (We prefer plain language over academic-speak.)
 * Flow is important. (Flow mirrors life.)
-* Humans make this. (Our emphasis is on relationship and interaction.)
+* Humans make this. (Our emphasis is on relationship, interaction, and adaptability.)
 
-Craft
-------
-
-* The community of learners creates the environment of learning.
-* Self-awareness is built through personal development.
-* Empathy is built through community engagement.
-* Character is built through mentorship.
-
-Community
----------
-
-* Learning is not education. (Learning is personal; education is social.)
-* Education is not curriculum. (Education is a process; curriculum is a product.)
-* Curriculum is not knowledge. (Curriculum is a map; knowledge is the territory.)
-* Knowledge is not wisdom. (Knowledge is personal; wisdom is cultural.)
-* Wisdom is not teaching. (Wisdom is cultural; teaching is personal.)
-* Teaching is not learning. (Teaching is about the teacher; learning is about the learner.)
 
 Skill
 -----
@@ -68,14 +57,14 @@ Skill
 
 * Opening oneself to empathy and compassion.
 * Communicating effectively in speech, listening, and performing.
-* Building trust and a culture of collaboration.
-* Giving and receiving feedback.
+* Building trust, emotional safety, and a culture of collaboration.
+* Giving and receiving feedback and accepting others.
 * Embracing and resolving conflicts.
 
 ### Character
 
-* Engaging in the process of mentorship.
-* Joining and contributing to communities. 
+* Engaging in the reciprocal process of mentorship.
+* Joining and contributing to communities.
 * Demonstrating ethical practices.
 * Opening to, and learning from, other cultures.
 * Being a lifelong learner.
