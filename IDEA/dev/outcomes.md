@@ -1,25 +1,29 @@
-
 IDEA Outcomes
 =============
-
-What we need to do here:
-
-1. Review the skill set and make sure that it properly reflects the foundation.
-2. Review the AAC&U outcomes and make sure that we have not missed anything
-   from that list.
-3. Itemize a version of the skill set list (with additions from the AAC&U
-   list) so that we have a bulleted list that we can use across all courses.
-   To make this relatively easy, we could just condense each of the descriptive items in the skill set list and extract several bullet points from each (or maybe just one bullet point from some). I've tried this with the first skill (creating a good question) below.
 
 
 The Foundation
 --------------
 
-IDEA is focused on three core principles:
-
 * self-awareness (what we know about ourselves)
 * empathy (how we work with and learn from others)
 * character (how we use our self-awareness and empathy in the world)
+
+
+The Mission
+-----------
+
+Learning for the Whole Person
+
+
+The Principles
+--------------
+
+1. Creative, integrative, and engaged teaching and learning for the whole person.
+2. Built by learners and for learners -- with mentorship, collaboration, and personal development.
+3. No substitutes for 1 and 2.
+
+
 
 The Skill Set
 -------------
