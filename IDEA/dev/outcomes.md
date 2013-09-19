@@ -22,14 +22,6 @@ Structure
 * Built by learners and for learners.
 * Focused on personal development, community engagement, and mentorship.
 
-Craft
-------
-
-* The community of learners creates the environment of learning.
-* Self-awareness is built through personal development.
-* Empathy is built through community engagement.
-* Character is built through mentorship.
-
 Design
 ------
 
@@ -41,6 +33,14 @@ Design
 * Sparse is better than dense. (We prefer plain language over academic-speak.)
 * Flow is important. (Flow mirrors life.)
 * Humans make this. (Our emphasis is on relationship and interaction.)
+
+Craft
+------
+
+* The community of learners creates the environment of learning.
+* Self-awareness is built through personal development.
+* Empathy is built through community engagement.
+* Character is built through mentorship.
 
 Community
 ---------
