@@ -46,7 +46,7 @@ Skill
 * Developing a path of self-assessment, self-regulation, and self-reflection.
 * Following the search for knowledge and meaningful answers.
 * Finding useful solutions to complex problems.
-* Developing the creative imagination.
+* Developing creativity through play and imagination.
 * Thinking for oneself.
 
 
