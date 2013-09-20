@@ -34,7 +34,7 @@ IDEA Steering Committee members
 
 [Amanda Swith-Weston](mailto:smith-weston5@hotmail.com) (IDEA student)
 
-[Bob Walker](mailto:rgwubc@gmail.com) (IDEA student)
+[Bob Walker](mailto:rgwkpu@gmail.com) (IDEA student)
 
 [Steve Dooley](mailto:steve@heer.ca) (Executive Director, SFU Surrey)
 
