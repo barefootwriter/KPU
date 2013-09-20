@@ -62,7 +62,7 @@ Skill
 
 * Engaging in the reciprocal process of mentorship.
 * Joining and contributing to communities.
-* Demonstrating ethical practices.
+* Modeling and teaching ethical practices.
 * Opening to, and learning from, other cultures.
 * Being a lifelong learner.
 
