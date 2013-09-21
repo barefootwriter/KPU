@@ -1,5 +1,5 @@
-Interdisciplinary Expressive Arts
-=================================
+Interdisciplinary Expressive Arts (IDEA)
+========================================
 
 at Kwantlen Polytechnic University
 ----------------------------------
