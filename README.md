@@ -7,9 +7,9 @@ at Kwantlen Polytechnic University
 [![Stories in Ready](https://badge.waffle.io/rosslaird/kwantlen.png?label=ready)](https://waffle.io/rosslaird/kwantlen)
 
 
-### Contributing to to these documents
+### Contributing to these documents
 
-The Interdisciplinary Expressive Arts (IDEA) program is a collaborative educational project. Feel free to contribute to this repository by forking, updating, and sending pull requests. For more information about these processes and methodologies, consult the github [help pages](https://help.github.com/articles/fork-a-repo).
+The Interdisciplinary Expressive Arts (IDEA) program is a collaborative educational project. Feel free to contribute to this repository by adding your feedback on the [issues pages](https://github.com/rosslaird/kwantlen/issues?state=open). Or, if you're geeky, you can fork, update, and send a pull request. (For more information about these processes and methodologies, consult the github [help pages](https://help.github.com/articles/fork-a-repo)). Or, just [send us a note](mailto:ross@rosslaird.com).
 
 #### How to make the most useful contribution?
 
