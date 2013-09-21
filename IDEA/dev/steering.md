@@ -22,7 +22,7 @@ IDEA Steering Committee members
 
 [Jane Fee](mailto:jane.fee@kpu.ca) (Deputy-Provost & Associate VP, Academic)
 
-[Romy Kozak](mailto:romy.kozak@kpu.ca) (Associate Dean, Arts)
+[Romy Kozak](mailto:christina.fung@kpu.ca) (Associate Dean, Arts)
 
 [Tierney Wisniewski](mailto:tierneyw@zuzax.com) (former student, winner of Dean's medal)
 
