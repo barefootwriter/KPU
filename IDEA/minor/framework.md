@@ -30,7 +30,7 @@ Each course will focus on at least two skills from each of the three IDEA core s
 * Opening to, and learning from, other cultures.
 * Being a lifelong learner.
 
-Core Skill listing per course
+Core skill listing per course
 -----------------------------
 
 ### IDEA 1100, Interdisciplinary Foundations
