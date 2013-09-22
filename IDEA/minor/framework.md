@@ -124,6 +124,15 @@ Core skill listing per course
 * Opening to, and learning from, other cultures.
 * Being a lifelong learner.
 
+Articulating the Core Skills
+----------------------------
+
+Each course outline will either use the core skill statements directly or will adapt them,as required, to the specific context of the course. For example, in IDEA 1100 the core skill of *developing a path of self-assessment, self-regulation, and self-reflection* will be articulated as the following three individual skills:
+
+* Practice mindfulness and self-reflection
+* Apply self-regulation skills in interpersonal dynamics
+* Apply self-assessment skills in the context of class projects and activities
+
 Developments and Adaptations
 ----------------------------
 
