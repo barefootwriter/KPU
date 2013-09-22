@@ -69,7 +69,7 @@ Core Skill listing per course
 * Engaging in the reciprocal process of mentorship.
 * Joining and contributing to communities.
 
-### IDEA 2300, Core Mentorship Skills
+### IDEA 2300, Core Mentorship Skills (new course)
 
 * Developing a path of self-assessment, self-regulation, and self-reflection.
 * Opening oneself to empathy and compassion.
@@ -106,7 +106,7 @@ Core Skill listing per course
 * Engaging in the reciprocal process of mentorship.
 * Modeling and teaching ethical practices.
 
-### IDEA 3303, Interdisciplinary Field School
+### IDEA 3303, Interdisciplinary Field School (new course)
 
 * Developing a path of self-assessment, self-regulation, and self-reflection.
 * Developing creativity through play and imagination.
