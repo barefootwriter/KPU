@@ -16,11 +16,11 @@ Minor in Mentorship and Community Engagement
 
 * IDEA 1100 (mentors provided by practicum learners)
 * IDEA 3302 (emphasize mentorship language and change title to
-  *Creativity and Mentorship in Groups*
+  *Creativity and Mentorship in Groups*)
 * IDEA 3100 (emphasize mentorship language and change title to
-  *Interdisciplinary Creative Expression*
+  *Interdisciplinary Creative Expression*)
 * IDEA 4100 (emphasize mentorship and practicum language, and
-  change title to *Mentorship through Community Engagement*
+  change title to *Mentorship through Community Engagement*)
 
 ### New courses:
 
