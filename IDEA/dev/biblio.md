@@ -22,7 +22,11 @@ Felton, P., & Finley, A. (2013). *Motivating teaching excellence: Lessons from U
 
 Rogdgers, C. *Seeing student learning; teacher change and the role of reflection.* Harvard Educational Review, Summer 2002, 230—252. Discusses the importance of practitioner reflection and describes a four-phase reflective cylce that the author uses in her professional development work with teachers. Rodgers argues that “supportive and disciplined reflective communities of teachers can help teachers understand that their students’ learning is central, and that their own teaching is subordinate to and in service of that goal.”
 
-Northeastern University (2013). *Innovation Imperative: Enhancing Higher Education Outcomes.* Northeastern University. http://www.insidehighered.com/news/2013/09/18/poll-most-americans-and-business-leaders-say-graduates-should-be-well-rounded
+Northeastern University. “Innovation Imperative: Enhancing Higher Education Outcomes.” insidehighered.com/news/2013/09/18/poll-most-americans-and-business-leaders-say-graduates-should-be-well-rounded. Northeastern University, 15 August 2013. Web. 18 September 2013. 
 
 A survey of 263 hiring managers and an August poll of 1,000 American adults conducted by FTI Consulting on behalf of Northeastern University show that majorities of the public and business leaders value broadly applicable skills like written communication and problem-solving over specific skills obtained through applied training. The poll found that respondents overwhelmingly want colleges and universities to focus on integrating practical experience, such as internships, into their curriculums.
+
+Grove, J. “Grades Improve When Students Lead Learning.” timeshighereducation.com. Times Higher Education, 10 September 2013. Web. 20 September 2013. 
+
+A pilot study at Avans University of APplied Sciences in the Netherlands reports that allowing students to lead university seminars can improve both attendance and results. When only 50% of their students showed up to finance lessons at AvansU, academics decided to invite students to lead the teaching of finance seminars in 2 classes. Lecturers remained present only in a supervisory role. The study found that with students taking over the classroom, attendance rates increased from 55% to 96%, and that 86% of students passed the finance exam at the first attempt, compared with 79% of those who remained in teacher-led classes.
 
