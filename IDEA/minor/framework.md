@@ -4,7 +4,16 @@ Framework for the IDEA Minor
 Minor in Mentorship and Community Engagement
 --------------------------------------------
 
-Each course will focus on at least two skills from each of the three IDEA core skill areas (for a minimum of six core skills for each course):
+The IDEA minor is intended to embody the core values and practices of KPU's emerging identity as they are articulated in the 2013 Academic Plan. The plan asserts that KPU is 
+
+> committed to providing enriched learning experiences that help prepare students for global citizenship and success in life through fundamental academic skills, inquiry-based curriculum, reflective scholarship and student-faculty interaction, and the critical role of a supportive academic community. Our goal is to attract students from across the region and beyond because of the quality and relevance of the programs we offer, and to develop the reputation for supporting them as lifelong learners. This requires offering a broad suite of programs and credentials (with interdisciplinary options) and flexible program delivery models, ensuring ease of transfer across disciplines (particularly in the 1st and 2nd years), and providing an appropriate blend of content, tools and inspiration to enhance personal capabilities. This approach is consistent with Nussbaum’s (2006) proposition that an education based on the idea of an inclusive global citizenship, and on the possibilities of the compassionate imagination, has the potential to transcend divisions created by distance, cultural difference, and mistrust, and is one of the most exciting tasks we can undertake as educators and citizens.
+
+> A major characteristic of KPU’s emerging hybrid polytechnic university is reflected in how we are linking support for students’ academic success with opportunities for personal growth, enabling them to develop skills to communicate effectively, to work well with people from different backgrounds, and to think critically and creatively. KPU is uniquely positioned and fully committed to guide and support students as they develop the applied and academic learning that citizens in the 21st century global society need to succeed.
+
+Approaches such as inquiry-based curriculum, reflective scholarship, intensive interaction, interdisciplinarity, and flexibility are all foundational to IDEA. Values such as the importance of global citizenship and lifelong learning, the importance of inspiration, the crucial role of compassion and imagination, and the underlying purpose of personal growth are all core elements of the IDEA philosophy. Skills such as effective communication, openness to diversity and inclusion, and creative and critical thinking are all integral to the IDEA process. The goals articulated for KPU are embodied by IDEA and are reflected in our core values, skills, and curriculum. 
+
+
+Each course within the curriculum will focus on at least two skills from each of the three IDEA core value areas (for a minimum of six core skills for each course):
 
 ### Self-awareness
 
