@@ -11,7 +11,6 @@ Core Skills
 * Joining and contributing to communities.
 * Being a lifelong learner.
 
-
 Description
 -----------
 
