@@ -11,7 +11,6 @@ Core Skills
 * 
 * 
 
-
 Description
 -----------
 
