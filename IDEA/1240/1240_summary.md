@@ -1,4 +1,4 @@
-Creativity, Ecology, and Nature Experience
+Course Name Goes Here
 ==========================================
 
 Core Skills
