@@ -11,7 +11,6 @@ Core Skills
 * Opening to, and learning from, other cultures.
 * Being a lifelong learner.
 
-
 Description
 -----------
 
