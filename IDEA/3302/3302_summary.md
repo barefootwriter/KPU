@@ -11,7 +11,6 @@ Core Skills
 * Engaging in the reciprocal process of mentorship.
 * Modeling and teaching ethical practices.
 
-
 Description
 -----------
 
