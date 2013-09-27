@@ -195,5 +195,5 @@ organic, kinetic, community, integrative, journey, unique, active, serious, fun,
 
 ### Our Collage
 
-![Collage](/montage.jpg "IDEA collage")
+![Collage](/IDEA_montage.jpg "IDEA collage")
 
