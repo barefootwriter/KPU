@@ -192,3 +192,8 @@ Central goal: credential plan
 ### Our Words for IDEA
 
 organic, kinetic, community, integrative, journey, unique, active, serious, fun, expressive, gestalt, prayerful, connective, playful, experimental, story, culture, discover/y, exploration, open, non-judgemental, spunk, longing, serious, whole, simple/complex, understanding, introspection, progress, darkness, inhale, truth, adaptive, generous, improvisational, hitch-hiking, audacity, attention, connections, relationships, change
+
+### Our Collage
+
+![Collage](/montage.jpg "IDEA collage")
+
