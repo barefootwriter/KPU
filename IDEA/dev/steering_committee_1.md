@@ -191,4 +191,4 @@ Central goal: credential plan
 
 ### Our Words for IDEA
 
-Organic, kinetic, community, integrative, journey, unique, active, serious, fun, expressive, gestalt, prayerful, connective, playful, experimental, story, culture, discover/y, exploration, open, non-judgemental, spunk, longing, serious, whole, simple/complex, understanding, introspection, progress, darkness, inhale, truth, adaptive, generous, improvisational, hitch-hiking, audacity, attention, connections, relationships, change
+organic, kinetic, community, integrative, journey, unique, active, serious, fun, expressive, gestalt, prayerful, connective, playful, experimental, story, culture, discover/y, exploration, open, non-judgemental, spunk, longing, serious, whole, simple/complex, understanding, introspection, progress, darkness, inhale, truth, adaptive, generous, improvisational, hitch-hiking, audacity, attention, connections, relationships, change
