@@ -189,45 +189,6 @@ Central goal: credential plan
 * Niche-casting
 * Continuing studies at KPU
 
-### Our Words
+### Our Words for IDEA
 
-Organic
-Kinetic
-Community
-Integrative
-Journey
-Unique
-Active
-Serious 
-Fun
-Expressive
-Gestalt
-Prayerful
-Connective
-Playful
-Experimental
-Story 
-Culture
-Discover/y
-Exploration
-Open
-Non-judgemental
-Spunk
-Longing
-Serious 
-Whole
-Simple/complex
-Understanding
-Introspection
-Progress
-Darkness
-Inhale
-Truthe adaptive
-Generous
-Improvisational
-Hitch-hiking
-Audacity
-Attention
-Connections
-Relationships
-Change
+Organic, kinetic, community, integrative, journey, unique, active, serious, fun, expressive, gestalt, prayerful, connective, playful, experimental, story, culture, discover/y, exploration, open, non-judgemental, spunk, longing, serious, whole, simple/complex, understanding, introspection, progress, darkness, inhale, truth, adaptive, generous, improvisational, hitch-hiking, audacity, attention, connections, relationships, change
