@@ -111,7 +111,7 @@ Our Motto: Your life. Your learning. Your way.
 ##### In Development
 
 * IDEA 3100 (Amazon): Amazon field school (collaboration with Faculty of Design)
-* IDEA 100 (Aboriginal): aboriginal context focus (collaboration with student life and PM secondary)
+* IDEA 1100 (Aboriginal): aboriginal context focus (collaboration with student life and PM secondary)
 
 ##### Our Service to KPU
 
