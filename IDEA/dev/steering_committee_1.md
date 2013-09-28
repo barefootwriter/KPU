@@ -6,6 +6,10 @@ Steering Committee Meeting
 
 ### April 22, 2013
 
+This was our first meeting. We began with sharing the words that each member had been asked to bring to the meeting as emblems of what IDEA is and what it stands for. We then spent some time getting to know one another, talking about our understanding of IDEA and its goals, and contributing to the Wall: a collection of large-format pages, taped to the four walls of the room and organized by theme or question. Each wall of the room was assigned a thematic quadrant based on where IDEA comes from, who we are now, what we are doing now, and where we are going (north, east, south, west). Much of the meeting was spent in small groups or individually, with discussions clustered around a given page or quadrant.
+
+During the final portion of the meeting we created a collage based on what we envision as the IDEA experience for learners. 
+
 Our Wall
 --------
 
