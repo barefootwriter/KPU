@@ -62,7 +62,7 @@ Self-awareness, deep skill, empathy, community, character, mentorship
 
 ### The East: Who We Are, Here and Now
 
-#### Who Else is doing this?
+#### Who Else is Doing This?
 
 * Quest (Motto: “a university centered on you”)
 * Stanford d. School (Motto: “innovation that combines creative and anaylytical approaches”)
@@ -81,7 +81,7 @@ Our Motto: Your life. Your learning. Your way.
 * Student-built content within and beyond the classroom
 * Instructor role focused on contextualization, mentorship and unique wisdom
 
-#### What does it look like?
+#### What Does it Look Like?
 
 * Circle format, small groups, and excursions outside
 * Improvised maker spaces and creative spaces
@@ -96,7 +96,7 @@ Our Motto: Your life. Your learning. Your way.
 * Group work represents 25-50% of the grades
 * Individual, self-directed projects represent 50-75% of grades
 
-#### How well does it work?
+#### How Well Does it Work?
 
 * Learners report feeling highly engaged and self-responsible
 * Learners report an overall increase in academic performance (across all subject categories)
@@ -134,7 +134,7 @@ Our Motto: Your life. Your learning. Your way.
 * Mentorship programs
 * 4th year students with IDEA experience
 
-#### IDEA scholarship
+#### IDEA Scholarship
 
 $500 per year (thanks to Christine Kwan)
 
