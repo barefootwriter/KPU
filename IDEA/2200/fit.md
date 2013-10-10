@@ -1,7 +1,4 @@
 ﻿
-General Course Information
-­­­­­­­­­­­­­­­­­­­­­­­---
-
 ### Course Acronym, Number, and Title
 
 IDEA 2200, Community Performance and Theatre Exploration
