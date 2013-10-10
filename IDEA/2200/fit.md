@@ -37,7 +37,7 @@ Develop the _creative imagination_ through performance, _mentorship_, and _commu
 
 We find similar correlations when we examine the KPU Strategic Plan. The core vision of the Strategic Plan is as follows, with emphasis added where the language matches the outcomes of the course under review:
 
-* Inspiring educators
+* _Inspiring_ educators
 
 * All _learners engaging in campus and community life_
 
