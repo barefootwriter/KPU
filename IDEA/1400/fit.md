@@ -1,7 +1,7 @@
 ﻿
 ### Course Acronym, Number, and Title
 
-IDEA 2200, Community Performance and Theatre Exploration
+IDEA 1400, Community Performance and Theatre Exploration
 
 ### Brief Description of Course
 
