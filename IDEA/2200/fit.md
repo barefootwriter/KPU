@@ -49,15 +49,15 @@ We find similar correlations when we examine the KPU Strategic Plan. The core vi
 
 The Strategic Plan goes on to describe the importance of distinctive programming, innovative teaching and learning, experiential learning, enriched student experience, and purposeful community engagement. We have illustrated (below) how each of these core goals for KPU matches a core outcome for this course.
 
-* Distinctive programming = Unique performance-based curriculum
+* _Distinctive programming_ corresponds to the unique performance-based curriculum of the course.
 
-* Innovative teaching and learning = Context of mentorship, creativity, and community engagement
+* _Innovative teaching and learning_ corresponds to the context of mentorship, creativity, and community engagement in the course.
 
-* Experiential learning = Learning environment of IDEA (which is entirely experiential)
+* _Experiential learning_ corresponds to the learning environment of IDEA, which is entirely experiential.
 
-* Enriched student experience = Experiential learning environment focused on creativity, mentorship, engagement, and personal growth
+* _Enriched student experience_ corresponds to the experiential learning environment focused on creativity, mentorship, engagement, and personal growth.
 
-* Purposeful community engagement = Performances in the community and a learning community within the class.
+* _Purposeful community engagement_ corresponds to performances in the community (by the class) and a community of learning constructed by the learners (in the class).
 
 The Arts Academic Plan is aligned with the KPU Academic and Strategic Plans, and we therefore see similar correlations in values, approaches, and goals. For example, the Arts Academic Plan specifically emphasizes goals such as the enhancement of experiential learning, the wider adoption of interdisciplinary approaches, the importance of preparing learners for global citizenship, and the crucial role of mentorship. All of these broad goals are specifically articulated in the course outline.
 
@@ -65,27 +65,31 @@ There is a high degree of symmetry between the stated goals of KPU, on many leve
 
 ### Evidence of Demand
 
-what evidence is available to demonstrate immediate or future demand for the course?
+The Surrey School District has gathered data on the number of high school graduates who show a strong interest in theatre curriculum. The majority of these graduates seek experiential theatre courses in their post-secondary programs. However, at the moment, KPU does not provide such curriculum. Accordingly, there is strong demand from incoming learners for this course.
 
+There is also strong demand from current learners at KPU. Every semester, the IDEA program engages in consultation with learners about program development (as IDEA is built by learners as well as faculty). In each of the last three iterations of this consultation (over the last three semesters), performance and theatre curriculum has been at the top of the list of requested new courses.
+
+The IDEA steering committee has also highlighted performance and theatre curriculum as priorities. Such curriculum fills a current gap in our offering. The discipline of Expressive Arts utilizes a suite of modalities that typically includes art, music, movement, writing, storytelling, craft, nature experience, drama improvisation, and theatre performance. At the moment, our curricular offerings include all of these modalities except theatre performance.
 
 ### Consultation
 
-What consultations have occurred/ will occur as the course is being developed?
+We have consulted with KPU's President, with the Dean of Arts, with our internal IDEA faculty cohort, with the Surrey School District, with colleagues among various departments at KPU, with colleagues teaching high school theatre curriculum, and with learners at KPU. All of these consultations have resulted in unequivocal support for the course.
 
+Once the course is approved, we will meet further with high school theatre teachers to forge a working relationship that will allow us to perform for high schools. This initiative will be facilitated by the fact that many of the KPU students enrolled in the course will have taken theatre at local high schools. In addition, once we have developed dramatic material appropriate for elementary school students, we will approach elementary schools with the goal of performing for them.
+
+We have begun consultation with the Gateway theatre about a collaboration involving theatre curriculum (with very positive results), and after the course is approved we will also consult with other community theatres. Working relationships will inevitably follow, as there is strong interest from local community theatres to collaborate with post-secondary institutions.
 
 ### Cross- or Interdisciplinary Potential
 
-Does the course promote cross- or interdisciplinary collaborations or relationships?
+IDEA is, by definition and core purpose, an interdisciplinary initiative. (The _I_ in IDEA stands for Interdisciplinary.) Accordingly, this course will be interdisciplinary. Moreover, the instructor for this course will be developing relationships with faculty in other departments with the goal of offering performances to enhance the student experience in other fields. For example, History students might benefit from performances involving historical events or dialogues from history. English students might benefit from performances of scenes from plays, stories, or entire plays they are studying in English classes. Sociology students might benefit from performances involving sociological situations. Anthropology students might benefit from performances involving cultural contexts or situations. This cross-disciplinary pollination can be extended to any field of inquiry at KPU. In each case, the IDEA instructor will consult with colleagues in such departments to maximize the integration of performances with the curriculum of the other course (including the alignment of assignments with performances, if desired).
 
+The course will be of interest to a wide range of learners at KPU, and learners will be able to enrol in the course subsequent to fulfillment of a single prerequisite (IDEA 1100). Therefore the course is accessible, open, and cross-disciplinary. 
+
+Finally, the study of performance and theatre is inherently interdisciplinary. Learners will work on and study plays, rituals, theatres, performances, various cultures and time periods, and so on. The core approach — in texts, activities, and performances — is one that addresses theatre from across the world and throughout history. A global perspective, in other words.
 
 ### Additional Considerations
 
-Does the course require additional considerations or accommodations of some sort?
+This is a bare-bones theatre and performance course. All we need is a classroom to perform in and permission to perform in KPU common areas (indoors and outdoors). Ideally we would also like to utilize the Conference Centres (in Richmond and Surrey) as well as the Langley theatre for special performances, but even this is not absolutely required.
 
-Signature
-Date
-
-Department Chair/ Program Coordinator
-Signature
-Date
+Some performances will be held off campus. These will be similar to regular field trips and do not require special consultations in risk management.
 
