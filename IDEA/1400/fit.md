@@ -1,4 +1,4 @@
-﻿
+﻿k
 ### Course Acronym, Number, and Title
 
 IDEA 2200, Community Performance and Theatre Exploration
@@ -13,7 +13,7 @@ This course fulfills a long-standing initiative within IDEA to provide curriculu
 
 There is no similar course at KPU.
 
-One prerequisite will be required: IDEA 1100. This is to ensure that learners are capable — before enrolling in the performance course — of participating successfully in the IDEA learning environment. 
+No prerequisites will be required.
 
 ### Faculty and Institutional Fit
 
@@ -65,7 +65,7 @@ There is a high degree of symmetry between the stated goals of KPU, on many leve
 
 ### Evidence of Demand
 
-The Surrey School District has gathered data on the number of high school graduates who show a strong interest in theatre curriculum. The majority of these graduates seek experiential theatre courses in their post-secondary programs. However, at the moment, KPU does not provide such curriculum. Accordingly, there is strong demand from incoming learners for this course.
+Research about the demand for post-secondary theatre courses among recent high school graduates has been conducted by one of our partners in the Surrey School District. This data, which includes information from all areas served by KPU (Surrey, Richmond, Delta, and Langley), shows that there is strong interest in post-secondary theatre curriculum. The majority of high school graduates who have taken theatre courses in high school seek experiential theatre courses in their post-secondary programs. However, at the moment, KPU does not provide such curriculum. Accordingly, there is strong demand for this course from incoming learners.
 
 There is also strong demand from current learners at KPU. Every semester, the IDEA program engages in consultation with learners about program development (as IDEA is built by learners as well as faculty). In each of the last three iterations of this consultation (over the last three semesters), performance and theatre curriculum has been at the top of the list of requested new courses.
 
@@ -81,7 +81,9 @@ We have begun consultation with the Gateway theatre about a collaboration involv
 
 ### Cross- or Interdisciplinary Potential
 
-IDEA is, by definition and core purpose, an interdisciplinary initiative. (The _I_ in IDEA stands for Interdisciplinary.) Accordingly, this course will be interdisciplinary. Moreover, the instructor for this course will be developing relationships with faculty in other departments with the goal of offering performances to enhance the student experience in other fields. For example, History students might benefit from performances involving historical events or dialogues from history. English students might benefit from performances of scenes from plays, stories, or entire plays they are studying in English classes. Sociology students might benefit from performances involving sociological situations. Anthropology students might benefit from performances involving cultural contexts or situations. This cross-disciplinary pollination can be extended to any field of inquiry at KPU. In each case, the IDEA instructor will consult with colleagues in such departments to maximize the integration of performances with the curriculum of the other course (including the alignment of assignments with performances, if desired).
+IDEA is, by definition and core purpose, an interdisciplinary initiative. (The “I” in IDEA stands for Interdisciplinary.) Accordingly, this course will be interdisciplinary. Moreover, the instructor for this course will be developing relationships with faculty in other departments with the goal of offering performances to enhance the student experience in other fields. For example, History students might benefit from performances involving historical events or dialogues from history. English students might benefit from performances of scenes from plays, stories, or entire plays they are studying in English classes. Sociology students might benefit from performances involving sociological situations. Anthropology students might benefit from performances involving cultural contexts or situations. Business students might benefit from performances and simulations of various situations (interviews, meetings, presentations, informal business situations, customer service, etc.) that can be dramatized effectively and thus analyzed and understood more effectively by Business students. In fact, a group of IDEA students could dramatize a given business situation in alternative ways to illustrate the pros and cons of various approaches to business.
+
+This cross-disciplinary pollination can be extended to any field of inquiry at KPU. In each case, the IDEA instructor will consult with colleagues in such departments to maximize the integration of performances with the curriculum of the other course (including the alignment of assignments with performances, if desired).
 
 The course will be of interest to a wide range of learners at KPU, and learners will be able to enrol in the course subsequent to fulfillment of a single prerequisite (IDEA 1100). Therefore the course is accessible, open, and cross-disciplinary. 
 
