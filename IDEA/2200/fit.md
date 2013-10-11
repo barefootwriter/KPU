@@ -25,9 +25,9 @@ To illustrate the correlation between the course outcomes and the KPU Academic P
 
 * Utilize the context of _mentorship_ and the activities of expressive arts performance to achieve _personal growth_
 
-Interpret and apply _diverse traditions_ of performance and theatre
+* Interpret and apply _diverse traditions_ of performance and theatre
 
-Develop the _creative imagination_ through performance, _mentorship_, and _community engagement_
+* Develop the _creative imagination_ through performance, _mentorship_, and _community engagement_
 
 * Improve skills of _communicating effectively_ in speaking, listening, writing, and performing
 
@@ -37,7 +37,7 @@ Develop the _creative imagination_ through performance, _mentorship_, and _commu
 
 We find similar correlations when we examine the KPU Strategic Plan. The core vision of the Strategic Plan is as follows, with emphasis added where the language matches the outcomes of the course under review:
 
-* Inspiring educators
+* _Inspiring_ educators
 
 * All _learners engaging in campus and community life_
 
