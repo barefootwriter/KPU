@@ -85,9 +85,7 @@ IDEA is, by definition and core purpose, an interdisciplinary initiative. (The �
 
 This cross-disciplinary pollination can be extended to any field of inquiry at KPU. In each case, the IDEA instructor will consult with colleagues in such departments to maximize the integration of performances with the curriculum of the other course (including the alignment of assignments with performances, if desired).
 
-The course will be of interest to a wide range of learners at KPU, and learners will be able to enrol in the course subsequent to fulfillment of a single prerequisite (IDEA 1100). Therefore the course is accessible, open, and cross-disciplinary. 
-
-Finally, the study of performance and theatre is inherently interdisciplinary. Learners will work on and study plays, rituals, theatres, performances, various cultures and time periods, and so on. The core approach — in texts, activities, and performances — is one that addresses theatre from across the world and throughout history. A global perspective, in other words.
+Finally, the study of performance and theatre is inherently interdisciplinary. Learners will work on and study plays, rituals, theatres, and performances from various cultures and time periods, often integrating different disciplinary approaches (e.g. dramaturgical, psychological, sociological, cultural, historical) as appropriate to the demands of the given text to be performed and the anticipated performance context (e.g. location of performance and audience make-up).  The core approach — in texts, activities, and performances — is one that addresses theatre from across the world and throughout history. A global perspective, in other words
 
 ### Additional Considerations
 
