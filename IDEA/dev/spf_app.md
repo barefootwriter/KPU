@@ -114,14 +114,16 @@ for a single department or program.
 This application encompasses the IDEA program initiatives as outlined
 below; however the IDEA program collaborates with other KPU Faculties
 (such as the Faculties of Design and of Science) and therefore the
-IDEA program and course offerings are able to benefit to KPU learners
+IDEA program and course offerings are able to benefit KPU learners
 from many faculties and programs. The use of these funds will directly
 benefit learners in the IDEA courses, but as IDEA learners come from
 all KPU faculties and programs, the benefits are holistic to KPU.
 
 These funds will be used for the development of IDEA initiatives throughout the coming year.
 
-*** Bob: More discussion required here?
+----------------------------------------
+
+Bob: More discussion required here?
 (****** use-specific breakdown of the amount requested, and an indication of which items in the budget will be covered
 by SPF monies (applications without complete budgets will not be considered)
 
@@ -130,6 +132,7 @@ by SPF monies (applications without complete budgets will not be considered)
 3) Continuing Work/Study Student assistance
 4)
 
+------------------------------------------
 
 #### Total Budget from other sources
 
@@ -153,7 +156,7 @@ self-awareness, empathy, and character at the same time that they
 construct their disciplinary knowledge.
 
 Since its inception in 2008, IDEA offerings at KPU have thrived as a
-result of high learner demand and enrolment and the good testimony of
+result of high learner demand and enrolment (typically 100%) and the good testimony of
 returning learners. With this encouragement it has become apparent
 that the IDEA model of learning and personal development is viewed as
 important and useful to learners at KPU. In turn, this has sparked the
