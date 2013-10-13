@@ -61,7 +61,7 @@ within a departmental budget. Funds such as the ASPF are imperative to
 help IDEA do the necessary work to provide and improve the program
 offerings and research opportunities for IDEA learners at KPU.
 
-##### Budget for D and C Categories combined initiatives
+##### Budget for Category D
 
 $2000.00
 
