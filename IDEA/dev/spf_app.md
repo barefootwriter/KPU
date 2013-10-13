@@ -93,7 +93,7 @@ a written report of the findings from the study. As this research
 falls within the category of internal quality evaluation, REB approval
 will not be required.
 
-##### Budget for B CATEGORY initiative:
+##### Budget for Category B
 
 $500.00 
 
