@@ -156,7 +156,7 @@ self-awareness, empathy, and character at the same time that they
 construct their disciplinary knowledge.
 
 Since its inception in 2008, IDEA offerings at KPU have thrived as a
-result of high learner demand and enrolment and the good testimony of
+result of high learner demand and enrolment (typically 100%) and the good testimony of
 returning learners. With this encouragement it has become apparent
 that the IDEA model of learning and personal development is viewed as
 important and useful to learners at KPU. In turn, this has sparked the
