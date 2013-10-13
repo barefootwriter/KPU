@@ -121,7 +121,9 @@ all KPU faculties and programs, the benefits are holistic to KPU.
 
 These funds will be used for the development of IDEA initiatives throughout the coming year.
 
-*** Bob: More discussion required here?
+----------------------------------------
+
+Bob: More discussion required here?
 (****** use-specific breakdown of the amount requested, and an indication of which items in the budget will be covered
 by SPF monies (applications without complete budgets will not be considered)
 
@@ -130,6 +132,7 @@ by SPF monies (applications without complete budgets will not be considered)
 3) Continuing Work/Study Student assistance
 4)
 
+------------------------------------------
 
 #### Total Budget from other sources
 
