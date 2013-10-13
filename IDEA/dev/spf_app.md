@@ -114,7 +114,7 @@ for a single department or program.
 This application encompasses the IDEA program initiatives as outlined
 below; however the IDEA program collaborates with other KPU Faculties
 (such as the Faculties of Design and of Science) and therefore the
-IDEA program and course offerings are able to benefit to KPU learners
+IDEA program and course offerings are able to benefit KPU learners
 from many faculties and programs. The use of these funds will directly
 benefit learners in the IDEA courses, but as IDEA learners come from
 all KPU faculties and programs, the benefits are holistic to KPU.
