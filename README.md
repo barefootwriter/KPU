@@ -4,10 +4,6 @@ Interdisciplinary Expressive Arts (IDEA)
 at Kwantlen Polytechnic University
 ----------------------------------
 
-[![Stories in Ready](https://badge.waffle.io/rosslaird/KPU.png?label=ready)](https://waffle.io/rosslaird/KPU)
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-[![Stories in Ready](https://badge.waffle.io/rosslaird/KPU.png?label=ready)](https://waffle.io/rosslaird/KPU)
-
 
 ### Contributing to these documents
 
