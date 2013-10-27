@@ -1,5 +1,4 @@
-
- The Kwantlen Polytechnic University Alumni Association (KPUAA) offers an allocated budget for Kwantlen University 
+ The Kwantlen Polytechnic University Alumni Association (KPUAA) offers an allocated budget for KPU 
  events and Kwantlen alumni related events which help further the mission and mandate of the KPUAA to support existing
  and future Alumni.
 
@@ -65,7 +64,7 @@ NAME: The name of the event.
 SPF NUMBER: Please provide the SPF number (special purpose fund) for this event if it is an internal 
 event.  
 
-    8004  (NEED TO CHECK THIS – I STOLE THIS FROM THE COCA_COLA APP) 
+    8004
 
 DATES: Proposed dates of the event. 
   
@@ -74,32 +73,19 @@ DATES: Proposed dates of the event.
 
 HISTORY: Is this an annual event or a one‐time event? Please provide all related historical information. 
 
-    The first IDEA Amazon Field School was held in the summer of 2013, and IDEA students and faculty are looking
-    forward to returning in the summer semester of 2014 for the second time.  The IDEA community is growing rapidly
-    at KPU and it is hopeful that this would become an annual event in the spring of each year to support and promote 
-    the Amazon Field School.
+The first IDEA Amazon Field School was held in the summer of 2013, and IDEA students and faculty are looking forward to returning in the summer semester of 2014 for the second time. The IDEA community is growing rapidly at KPU and we are hopeful that this would become an annual event in the spring of each year to support and promote KPU's unique Amazon Field School.
 
 
 AUDIENCE: What is the audience profile of the event? How many people are expected to attend? 
   
-    Current and past IDEA students, KPU students from all other disciplines and programs, family members, KPU faculty
-    and the community are welcome to share in the evening of stories, conversation and IDEA activities.  The Alumni
-    would also like to invite dignitaries from the South American and Colombian community residing in the lower
-    mainland such as the Colombian Consular.
+Current and past IDEA students, KPU students from all other disciplines and programs, family members, KPU faculty and the community are welcome to share in the evening of stories, conversation and IDEA activities. The Alumni would also like to invite dignitaries from the South American and Colombian community residing in the lower mainland such as the Colombian Consular.
 
 
 DESCRIPTION: Describe the event by including the event’s main elements, objectives and all relevant 
 information. 
 
-    As the IDEA program at KPU continues to grow the need has arisen by popular demand from the students of the first 
-    Amazon Field School to relive the experience and support the new group of KPU students taking part this coming 
-    summer.  This event will offer the alumni of the first field school to give support, share stories and experiences 
-    with current students as well as bring the IDEA community at KPU together. Through personal presentations, 
-    multi-media displays, and discussion of the current issues in the Amazon and Colombia the new students will become
-    familiar with the field school.  It is also an opportunity for parents and other faculty to become familiar with 
-    what IDEA can offer. The IDEA program is also holding the 3rd annual Evening of Illumination on December 9, 2013. 
-    IDEA students are proactively engaged in lifelong learning and the creation of an alumni group to support these 
-    events is becoming a much needed component.
+As the IDEA program at KPU continues to grow, the need has arisen by popular demand from the students of the first Amazon Field School to relive the experience and to support the new group of KPU students taking part this coming 
+summer. This event will offer the alumni of the first field school to give support, share stories and experiences with current students as well as bring the IDEA community at KPU together. Through personal presentations, multi-media displays, and discussion of the current issues in the Amazon and Colombia, the new students will become familiar with the field school. It will also be an opportunity for parents and other faculty to become familiar with what IDEA can offer. The IDEA program is also holding the 3rd annual Evening of Illumination on December 9, 2013. IDEA students are proactively engaged in lifelong learning, and the creation of an alumni group to support these events is becoming a much-needed component.
   
   
 TIMELINE: Please provide a timeline of the activities that need to take place with key dates and 
