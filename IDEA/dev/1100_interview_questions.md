@@ -1,6 +1,7 @@
+
 IDEA 1100 – Aboriginal Course
 Interview Questions
-Interviews are informal, and a focus on the learner’s personal perspective on the experience (What is the experience of X?) and how this experience has been a catalyst for further introspection and their role in other situations (personally, education, global, family.ect). Questions from the interviewer are based on the IDEA Skill Set as laid out for hopeful outcomes the learner will become competent in (or more aware of) after/during the IDEA course.  We want to get a sense of the learner’s thoughts on their perceived values of participating in IDEA type learning (aka The IDEA WAY).
+Interviews are informal, and a focus on the learner’s personal perspective on the experience (What is the experience of X?) and how this experience has been a catalyst for further introspection and their role in other situations (personally, education, global, family. etc.). Questions from the interviewer are based on the IDEA Skill Set as laid out for hopeful outcomes the learner will become competent in (or more aware of) after/during the IDEA course.  We want to get a sense of the learner’s thoughts on their perceived values of participating in IDEA type learning (aka The IDEA WAY).
 Perhaps its most helpful to come at interdisciplinarity in terms of a skill set. Thinking and acting in an interdisciplinary way is really a matter of looking at the process of learning. Instead of focusing on the “content” we might ask questions about how we identify, interpret, create, and communicate this content. These are process questions. Below are some examples of the kinds of considerations we will explore during our process.
 ** (For the actual interview process I would like to distill this down to a mix of leading and closed ended questions, and have the focus on the learner doing most of the speaking) **
 Specific Questions from Proposed Course Outcomes
@@ -13,7 +14,8 @@ The questions we ask tell us a lot about how we think, the assumptions we make a
 •	How do we hold space for our questions and how do they “work” on us?
 
 Interview Questions from above
-o	
+o	What motivated you to enroll in IDEA 1100?
+o	What thoughts or feelings sis you have about University before beginning this semester?
 o	
 Critical Thinking and Crap Detection
 We are often quick to believe what we read and what we hear, especially when it comes from sources that we deem “authoritative”. Teachers, journal articles, media, books, professors, parents, and peers all have their own take on what is correct and true.
@@ -28,7 +30,8 @@ We are often quick to believe what we read and what we hear, especially when it 
 •	How do they impact the interpretation of “facts”?
 •	And what are facts, anyway?
 Interview Questions from above
-o	
+o	Do you believe everything you hear? If so, why? If not, why?
+o	Do you feel your personal beliefs and feelings influence your interpretation of the world? Why?
 o	
 Finding, Using and Evaluating Resources
 Resources are what we use to accomplish something. We have internal resources such as courage, empathy, compassion, self-awareness, mindfulness and so on to help us create, learn and work with the challenges of life. People in our lives such as teachers, peers, mentors, and guides also have skills, experience, and knowledge that can potentially help us accomplish our goals. As well, the internet, books and other sources of information are valuable resources. 
@@ -39,7 +42,7 @@ Resources are what we use to accomplish something. We have internal resources su
 •	How do we evaluate their quality?
 
 Interview Questions from above
-o	
+o	How do you go about finding answers to a question you may have?
 o	
 Communication (speaking, listening, writing, performing)
 Language is expressed verbally and non-verbally in a particular relational context of culture, values and past experience. Our ability to translate ideas into words and actions, move an audience into a compelling dialogue, or simply be present to someone else, requires an awareness of these contexts and good communication skills. 
