@@ -30,3 +30,15 @@ Grove, J. “Grades Improve When Students Lead Learning.” timeshighereducation
 
 A pilot study at Avans University of APplied Sciences in the Netherlands reports that allowing students to lead university seminars can improve both attendance and results. When only 50% of their students showed up to finance lessons at AvansU, academics decided to invite students to lead the teaching of finance seminars in 2 classes. Lecturers remained present only in a supervisory role. The study found that with students taking over the classroom, attendance rates increased from 55% to 96%, and that 86% of students passed the finance exam at the first attempt, compared with 79% of those who remained in teacher-led classes.
 
+## References
+
+[Greening TVET. Qualifications needs and implementation strategies, by Dr Julia Kastrup](http://www.unevoc.unesco.org/fileadmin/up/background_greening_tvet_nov_2013.pdf)
+[Future skill needs for the green economy, by Cedefop](http://www.cedefop.europa.eu/EN/Files/5501_en.pdf)
+[Developing a Greening TVET Framework, by Majumdar, Shyamal](http://www.unevoc.unesco.org/fileadmin/user_upload/docs/Greening_TVET_Framework-Bonn-Final_Draft.pdf)
+[ILO green jobs initiative and implications for skills development, by Sanchez, Ana Be-lén & Hofmann, Christine. In Cedefop ed., Future skill needs for the green economy, p. 8-23, Luxembourg.](http://www.ilo.org/global/publications/books/WCMS_159585/lang--en/index.htm)
+[Skills for Green Jobs: A Global View 2011, by Strietska-Ilina, Olga; Hofmann, Christina; Mer-cedes Durán Haro, Jeon, Shinyoung. Geneva](http://www.cedefop.europa.eu/EN/Files/5501_en.pdf)
+[Szovics, Peter; Tessaring, Manfred; Walmsley, Clive &amp; McGrath, John. In Cedefop ed., Future skill needs for the green economy, p. 90-94. Luxembourg.](http://www.unesco.org/education/tlsf/)
+[Teaching and Learning for a Sustainable Future](http://unesco.org/education/tlsf/)
+[Greening TVET for Sustainable Development. Report of the UNESCO-UNEVOC online conference. 22 October to 2 November 2012. 2013 by UNESCO-UNEVOC, Bonn.](http://www.unevoc.unesco.org/fileadmin/user_upload/docs/e-Forum_Synthesis_report_Greening_TVET.pdf)
+[Skills for green jobs. European Synthesis Report, by Cedefop. Luxembourg.](http://www.cedefop.europa.eu/EN/Files/3057_en.pdf")
+
