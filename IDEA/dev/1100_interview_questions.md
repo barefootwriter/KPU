@@ -4,8 +4,8 @@ IDEA 1100 – Aboriginal Course
 
 ### Interview Questions
 
-Interviews are informal, and a focus on the learner’s personal perspective on the experience (What is the experience of X?) and how this experience has been a catalyst for further
-introspection and their role in other situations (personally, education, global, family. etc.). Questions from the interviewer are based on the IDEA Skill Set and are grouped by core value, as follows:
+Interviews are informal and focus on the learner’s personal perspective on the class experience and how this experience has been a catalyst for further
+learning. Questions from the interviewer are based on the IDEA Skill Set and are grouped by core value, as follows:
 
 #### Self-awareness
 
