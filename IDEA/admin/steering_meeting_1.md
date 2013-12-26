@@ -14,11 +14,10 @@ Our Wall
 #### Origins
 
 * Integrative Education (John Dewey, Antioch University, The Union Institute)
-* Contemplative Education (Mindfulness, Flow)
+* Contemplative Education (Mindfulness, Flow, embodiment)
 * Creativity (Creative process philosophy, craft philosophy)
 * Inquiry Based Learning (McMaster, Faculty of health sciences)
 * Performance and Arts Inquiry (orchestra, improvisation, clown, autoethnogrophy, theatre)
-* Contemplative Education (mindfulness, embodiment)
 
 #### Core Values
 
